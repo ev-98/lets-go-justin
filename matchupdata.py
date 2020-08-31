@@ -1,4 +1,5 @@
 yun_mu=[
+'Better player wins :)',
 'YU 70-30 CH',
 'YU 50-50 KE',
 'YU 60-40 MA',
@@ -20,6 +21,7 @@ yun_mu=[
 
 chun_mu=[
 'CH 30-70 YU',
+'Better player wins :)',
 'CH 60-40 KE',
 'CH 60-40 MA',
 'CH 50-50 DU',
@@ -41,6 +43,7 @@ chun_mu=[
 ken_mu=[
 'KE 50-50 YU',
 'KE 40-60 CH',
+'Better player wins :)',
 'KE 50-50 MA',
 'KE 50-50 DU',
 'KE 60-40 YA',
@@ -62,6 +65,7 @@ makoto_mu=[
 'MA 40-60 YU',
 'MA 40-60 CH',
 'MA 50-50 KE',
+'Better player wins :)',
 'MA 50-50 DU',
 'MA 70-30 YA',
 'MA 60-40 GO',
@@ -83,6 +87,7 @@ dudley_mu=[
 'DU 50-50 CH',
 'DU 50-50 KE',
 'DU 50-50 MA',
+'Better player wins :)',
 'DU 60-40 YA',
 'DU 40-60 GO',
 'DU 50-50 UR',
@@ -104,6 +109,7 @@ yang_mu=[
 'YA 40-60 KE',
 'YA 30-70 MA',
 'YA 40-60 DU',
+'Better player wins :)',
 'YA 70-30 GO',
 'YA 50-50 UR',
 'YA 60-40 RY',
@@ -125,6 +131,7 @@ gouki_mu=[
 'GO 40-60 MA',
 'GO 60-40 DU',
 'GO 30-70 YA',
+'Better player wins :)',
 'GO 60-40 UR',
 'GO 40-60 RY',
 'GO 40-60 OR',
@@ -146,6 +153,7 @@ urien_mu=[
 'UR 50-40 DU',
 'UR 50-70 YA',
 'UR 40-40 GO',
+'Better player wins :)',
 'UR 50-60 RY',
 'UR 50-60 OR',
 'UR 40-50 IB',
@@ -167,6 +175,7 @@ ryu_mu=[
 'RY 40-60 YA',
 'RY 60-40 GO',
 'RY 50-50 UR',
+'Better player wins :)',
 'RY 50-50 OR',
 'RY 50-50 IB',
 'RY 60-40 EL',
@@ -188,6 +197,7 @@ oro_mu=[
 'OR 60-40 GO',
 'OR 50-50 UR',
 'OR 50-50 RY',
+'Better player wins :)',
 'OR 50-50 IB',
 'OR 30-70 EL',
 'OR 60-40 NE',
@@ -209,6 +219,7 @@ ibuki_mu=[
 'IB 60-40 UR',
 'IB 50-50 RY',
 'IB 40-60 OR',
+'Better player wins :)',
 'IB 60-40 EL',
 'IB 50-50 NE',
 'IB 60-40 AL',
@@ -230,6 +241,7 @@ elena_mu=[
 'EL 40-60 RY',
 'EL 70-30 OR',
 'EL 40-60 IB',
+'Better player wins :)',
 'EL 40-60 NE',
 'EL 60-40 AL',
 'EL 70-30 RE',
@@ -251,6 +263,7 @@ necro_mu=[
 'NE 40-60 OR',
 'NE 50-50 IB',
 'NE 60-40 EL',
+'Better player wins :)',
 'NE 50-50 AL',
 'NE 60-40 RE',
 'NE 50-50 Q',
@@ -272,6 +285,7 @@ alex_mu=[
 'AL 40-60 IB',
 'AL 40-60 EL',
 'AL 50-50 NE',
+'Better player wins :)',
 'AL 50-50 RE',
 'AL 70-30 Q',
 'AL 60-40 HU',
@@ -293,6 +307,7 @@ remy_mu=[
 'RE 30-70 EL',
 'RE 40-60 NE',
 'RE 50-50 AL',
+'Better player wins :)',
 'RE 40-60 Q',
 'RE 60-40 HU',
 'RE 60-40 TW',
@@ -314,6 +329,7 @@ q_mu=[
 'Q 50-50 NE',
 'Q 30-70 AL',
 'Q 40-60 RE',
+'Better player wins :)',
 'Q 50-50 HU',
 'Q 60-40 TW',
 'Q 70-30 SE']
@@ -335,6 +351,7 @@ hugo_mu=[
 'HU 40-60 AL',
 'HU 40-60 RE',
 'HU 50-50 Q',
+'Better player wins :)',
 'HU 40-60 TW',
 'HU 60-40 SE']
 
@@ -356,6 +373,7 @@ twelve_mu=[
 'TW 40-60 RE',
 'TW 40-60 Q',
 'TW 60-40 HU',
+'Better player wins :)',
 'TW 60-40 SE']
 
 sean_mu=[
@@ -376,7 +394,8 @@ sean_mu=[
 'SE 50-50 RE',
 'SE 30-70 Q',
 'SE 40-60 HU',
-'SE 40-60 TW']
+'SE 40-60 TW',
+'Better player wins :)']
 
 
 matchups = [yun_mu, 
