@@ -10,6 +10,7 @@ client.remove_command('help')
 
 @client.event
 async def on_ready():
+    await client.change_presence(activity=discord.Game('3s.help'))
     print('Bot is ready')
 
 @client.event
@@ -30,7 +31,7 @@ async def help(ctx):
     embed.set_thumbnail(url="https://vignette.wikia.nocookie.net/logopedia/images/b/be/SFIII_Online_Edition_Logo.png/revision/latest/scale-to-width-down/1000?cb=20140206180354")
     embed.add_field(name="##Commands (prefix '3s.')", value="8ball: let the third strike announcer decide your fortune\nframes [character] [move]: display frame data\nfortune: see 8ball\nmu [character1] [character2]: display matchup odds", inline=False)
     embed.add_field(name="##Character codes", value="For any commands, you may type out the 2-letter character code instead of the full name if you prefer.\nAkuma/Gouki: AK/GO\nAlex: AL\nChun-Li: CH\nDudley: DU\n...etc", inline=False)
-    embed.add_field(name="##Move notation", value="The command notation for a normal move is [button] or [input].[button]\nThe notation for special moves are [motion].[button]\nSuper arts are denoted as sa1, sa2, sa3\nAerial moves begin with 'air.'\n\nInputs:\nc(crouch), f(forward), b(back), u(up), df, db, uf, ub\nMotions:\nqcf, qcb, hcf, hcb, 360, dp, rapid, charge\nButtons:\nlp, mp, hp, 2p</br>lk, mk, hk, 2k\n\nExamples:\nc.mk(crouching medium), charge.2k(ex spinning bird kick), air.qcf.2p (ex kunai), lp+lk(throw), mp+mk(universal overhead)", inline=True)
+    embed.add_field(name="##Move notation", value="The command notation for a normal move is [button] or [input].[button]\nThe notation for special moves are [motion].[button]\nSuper arts are denoted as sa1, sa2, sa3\nClose moves begin with 'close.'\nAerial moves begin with 'air.'\n\nInputs:\nc(crouch), f(forward), b(back), u(up), df, db, uf, ub\nMotions:\nqcf, qcb, hcf, hcb, 360, dp, rapid, charge\nButtons:\nlp, mp, hp, 2p\nlk, mk, hk, 2k\n\nExamples:\nc.mk(crouching medium), charge.2k(ex spinning bird kick), air.qcf.2p (ex kunai), lp+lk(throw), mp+mk(universal overhead)", inline=True)
     embed.set_footer(text="All sprites property of Capcom | Frame data provided by http://baston.esn3s.com/ ")
     await ctx.send(embed=embed)
 
@@ -44,8 +45,10 @@ async def mu(ctx, c1, c2):
     arg = get_mu(c1,c2)
     await ctx.send(arg)
 
-# @client.command()
-# async def frames(ctx, *, char, move):
+@client.command()
+async def frames(ctx, c1, mv):
+    arg = get_frames(c1,mv)
+    await ctx.send(embed=arg)
 
 def get_mu(c1,c2):
     c1=c1.strip()
@@ -137,5 +140,68 @@ def get_mu(c1,c2):
         return f'No character found at `{c2}`. Please check for correct spelling and spacing.'
    
     return matchupdata.matchups[i1][i2]
+
+
+def get_frames(c1,mv):
+    c1=c1.strip()
+    c1=c1.upper()
+    mv=mv.lower()
+
+ # checking args
+    if c1=='YU'or c1=='YUN':
+        data = next((item for item in framedata.yun_frames if item["name"] == mv), None)
+    elif c1=='CH'or c1=='CHUN-LI'or c1=='CHUNLI'or c1=='CHUN'or c1=='CHUNNERS'or c1=='CHUNNY' or c1=="CHUN_LI":
+        next((item for item in framedata.chun_frames if item["name"] == mv), None)
+    elif c1=='KE'or c1=='KEN':
+        next((item for item in framedata.ken_frames if item["name"] == mv), None)
+    elif c1=='MA'or c1=='MAKOTO':
+        next((item for item in framedata.makoto_frames if item["name"] == mv), None)
+    elif c1=='DU'or c1=='DUDLEY':
+        next((item for item in framedata.dudley_frames if item["name"] == mv), None)
+    elif c1=='YA'or c1=='YANG':
+        next((item for item in framedata.yang_frames if item["name"] == mv), None)
+    elif c1=='GO'or c1=='GOUKI'or c1=='AK'or c1=='AKUMA':
+        next((item for item in framedata.gouki_frames if item["name"] == mv), None)
+    elif c1=='UR'or c1=='URIEN':
+        next((item for item in framedata.urien_frames if item["name"] == mv), None)
+    elif c1=='RY'or c1=='RYU':
+        next((item for item in framedata.ryu_frames if item["name"] == mv), None)
+    elif c1=='OR'or c1=='ORO':
+        next((item for item in framedata.oro_frames if item["name"] == mv), None)
+    elif c1=='IB'or c1=='IBUKI':
+        next((item for item in framedata.ibuki_frames if item["name"] == mv), None)
+    elif c1=='EL'or c1=='ELENA':
+        next((item for item in framedata.elena_frames if item["name"] == mv), None)
+    elif c1=='NE'or c1=='NECRO':
+        next((item for item in framedata.necro_frames if item["name"] == mv), None)
+    elif c1=='AL'or c1=='ALEX':
+        next((item for item in framedata.alex_frames if item["name"] == mv), None)
+    elif c1=='RE'or c1=='REMY':
+        next((item for item in framedata.remy_frames if item["name"] == mv), None)
+    elif c1=='Q':
+        next((item for item in framedata.q_frames if item["name"] == mv), None)
+    elif c1=='HU'or c1=='HUGO':
+        next((item for item in framedata.hugo_frames if item["name"] == mv), None)
+    elif c1=='12'or c1=='TW'or c1=='TWELVE':
+        next((item for item in framedata.twelve_frames if item["name"] == mv), None)
+    elif c1=='SE'or c1=='SEAN':
+        next((item for item in framedata.sean_frames if item["name"] == mv), None)
+    else:
+        return f'No character found at `{c1}`. Please check for correct spelling and spacing.'
+
+    if data:
+        embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
+        embed.set_image(url=data["pic"])
+        embed.add_field(name="Damage", value=data["damage"], inline=True)
+        embed.add_field(name="Startup", value=data["startup"], inline=True)
+        embed.add_field(name="Hit", value=data["hit"], inline=True)
+        embed.add_field(name="Recovery", value=data["recovery"], inline=True)
+        embed.add_field(name="Block advantage", value=data["block_adv"], inline=True)
+        embed.add_field(name="Hit advantage", value=data["hit_adv"], inline=True)
+        return embed
+    else:
+        return f'No move found at `{mv}`. Please check for correct spelling and spacing.'
+
+
 
 client.run(config.token)
