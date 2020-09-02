@@ -149,43 +149,43 @@ def get_frames(c1,mv):
 
  # checking args
     if c1=='YU'or c1=='YUN':
-        data = next((item for item in framedata.yun_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.yun.yun_frames if item["name"] == mv), None)
     elif c1=='CH'or c1=='CHUN-LI'or c1=='CHUNLI'or c1=='CHUN'or c1=='CHUNNERS'or c1=='CHUNNY' or c1=="CHUN_LI":
-        data =next((item for item in framedata.chun_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.chun.chun_frames if item["name"] == mv), None)
     elif c1=='KE'or c1=='KEN':
-        data =next((item for item in framedata.ken_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.ken.ken_frames if item["name"] == mv), None)
     elif c1=='MA'or c1=='MAKOTO':
-        data =next((item for item in framedata.makoto_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.makoto.makoto_frames if item["name"] == mv), None)
     elif c1=='DU'or c1=='DUDLEY':
-        data = next((item for item in framedata.dudley_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.dudley.dudley_frames if item["name"] == mv), None)
     elif c1=='YA'or c1=='YANG':
-        data = next((item for item in framedata.yang_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.yang.yang_frames if item["name"] == mv), None)
     elif c1=='GO'or c1=='GOUKI'or c1=='AK'or c1=='AKUMA':
-        data = next((item for item in framedata.gouki_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.gouki.gouki_frames if item["name"] == mv), None)
     elif c1=='UR'or c1=='URIEN':
-        data = next((item for item in framedata.urien_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.urien.urien_frames if item["name"] == mv), None)
     elif c1=='RY'or c1=='RYU':
-        data =next((item for item in framedata.ryu_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.ryu.ryu_frames if item["name"] == mv), None)
     elif c1=='OR'or c1=='ORO':
-        data = next((item for item in framedata.oro_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.oro.oro_frames if item["name"] == mv), None)
     elif c1=='IB'or c1=='IBUKI':
-        data =next((item for item in framedata.ibuki_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.ibuki.ibuki_frames if item["name"] == mv), None)
     elif c1=='EL'or c1=='ELENA':
-        data =next((item for item in framedata.elena_frames if item["name"] == mv), None)
+        data =next((item for item in framedata.elena.elena_frames if item["name"] == mv), None)
     elif c1=='NE'or c1=='NECRO':
-        data = next((item for item in framedata.necro_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.necro.necro_frames if item["name"] == mv), None)
     elif c1=='AL'or c1=='ALEX':
-        data = next((item for item in framedata.alex_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.alex.alex_frames if item["name"] == mv), None)
     elif c1=='RE'or c1=='REMY':
-        data = next((item for item in framedata.remy_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.remy.remy_frames if item["name"] == mv), None)
     elif c1=='Q':
-        data = next((item for item in framedata.q_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.q.q_frames if item["name"] == mv), None)
     elif c1=='HU'or c1=='HUGO':
-        data = next((item for item in framedata.hugo_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.hugo.hugo_frames if item["name"] == mv), None)
     elif c1=='12'or c1=='TW'or c1=='TWELVE':
-        data = next((item for item in framedata.twelve_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.twelve.twelve_frames if item["name"] == mv), None)
     elif c1=='SE'or c1=='SEAN':
-        data = next((item for item in framedata.sean_frames if item["name"] == mv), None)
+        data = next((item for item in framedata.sean.sean_frames if item["name"] == mv), None)
     else:
         return f'No character found at `{c1}`. Please check for correct spelling and spacing.'
 
