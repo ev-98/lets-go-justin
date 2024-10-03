@@ -2,7 +2,7 @@ alex_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28alext%29.gif",
+        "pic": "../img/al-taunt.gif",
         "damage": "5/5",
         "startup": "N/A",
         "hit": "64",
