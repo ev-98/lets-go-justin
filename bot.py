@@ -191,7 +191,8 @@ def get_frames(c1,mv):
 
     if data:
         embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
-        embed.set_image(url=data["pic"])
+        file = discord.File(data["pic"], filename="image.gif")
+        embed.set_image(url="attachment://image.gif")
         embed.add_field(name="Damage", value=data["damage"], inline=True)
         embed.add_field(name="Startup", value=data["startup"], inline=True)
         embed.add_field(name="Hit", value=data["hit"], inline=True)
