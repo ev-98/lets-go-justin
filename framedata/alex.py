@@ -2,7 +2,7 @@ alex_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28alext%29.gif",
+        "pic": "img/al-taunt.gif",
         "damage": "5/5",
         "startup": "N/A",
         "hit": "64",
@@ -13,7 +13,7 @@ alex_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/8/83/%28alexlp%29.gif",
+        "pic": "img/al-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -24,7 +24,7 @@ alex_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/ae/%28alexmp%29.gif",
+        "pic": "img/al-mp.gif",
         "damage": "100",
         "startup": "4",
         "hit": "3",
@@ -35,7 +35,7 @@ alex_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28alexhp%29.gif",
+        "pic": "img/al-hp.gif",
         "damage": "145",
         "startup": "14",
         "hit": "4",
@@ -46,7 +46,7 @@ alex_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/7/7d/%28alexcloselp%29.gif",
+        "pic": "img/al-close-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -57,7 +57,7 @@ alex_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/4/46/%28alexlk%29.gif",
+        "pic": "img/al-lk.gif",
         "damage": "40",
         "startup": "5",
         "hit": "3",
@@ -68,7 +68,7 @@ alex_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/2/2e/%28alexmk%29.gif",
+        "pic": "img/al-mk.gif",
         "damage": "100",
         "startup": "11",
         "hit": "3",
@@ -79,7 +79,7 @@ alex_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28alexhk%29.gif",
+        "pic": "img/al-hk.gif",
         "damage": "150",
         "startup": "16",
         "hit": "5",
@@ -90,7 +90,7 @@ alex_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/53/%28alexclosemk%29.gif",
+        "pic": "img/al-close-mk.gif",
         "damage": "105",
         "startup": "5",
         "hit": "3",
@@ -101,7 +101,7 @@ alex_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/d/dd/%28alexjlp%29.gif",
+        "pic": "img/al-alp.gif",
         "damage": "40",
         "startup": "4",
         "hit": "12",
@@ -112,7 +112,7 @@ alex_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/9d/%28alexjmp%29.gif",
+        "pic": "img/al-amp.gif",
         "damage": "80",
         "startup": "5",
         "hit": "3",
@@ -123,7 +123,7 @@ alex_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/2/22/%28alexjhp%29.gif",
+        "pic": "img/al-ahp.gif",
         "damage": "140",
         "startup": "8",
         "hit": "3",
@@ -134,7 +134,7 @@ alex_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/b/bb/%28alexjlk%29.gif",
+        "pic": "img/al-alk.gif",
         "damage": "60",
         "startup": "4",
         "hit": "until land",
@@ -145,7 +145,7 @@ alex_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28alexjmk%29.gif",
+        "pic": "img/al-amk.gif",
         "damage": "90",
         "startup": "9",
         "hit": "3",
@@ -156,7 +156,7 @@ alex_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/3/32/%28alexjhk%29.gif",
+        "pic": "img/al-ahk.gif",
         "damage": "120",
         "startup": "8",
         "hit": "4",
@@ -167,7 +167,7 @@ alex_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/6/6b/%28alexoh%29.gif",
+        "pic": "",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -178,7 +178,7 @@ alex_frames=[
     {
         "name": "lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/a/a7/%28alexbsl%29.gif",
+        "pic": "img/al-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ alex_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/a/a7/%28alexbsl%29.gif",
+        "pic": "img/al-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ alex_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/a/a7/%28alexbsl%29.gif",
+        "pic": "img/al-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ alex_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/aa/%28alexclp%29.gif",
+        "pic": "img/al-clp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -222,7 +222,7 @@ alex_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/af/%28alexcmp%29.gif",
+        "pic": "img/al-cmp.gif",
         "damage": "90",
         "startup": "7",
         "hit": "2",
@@ -233,7 +233,7 @@ alex_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/68/%28alexchp%29.gif",
+        "pic": "img/al-chp.gif",
         "damage": "80+60",
         "startup": "13",
         "hit": "2,3",
@@ -244,7 +244,7 @@ alex_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/2/23/%28alexclk%29.gif",
+        "pic": "img/al-clk.gif",
         "damage": "30",
         "startup": "5",
         "hit": "2",
@@ -255,7 +255,7 @@ alex_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/8e/%28alexcmk%29.gif",
+        "pic": "img/al-cmk.gif",
         "damage": "70",
         "startup": "8",
         "hit": "3",
@@ -266,7 +266,7 @@ alex_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28alexchk%29.gif",
+        "pic": "img/al-chk.gif",
         "damage": "130",
         "startup": "11",
         "hit": "2",
@@ -277,7 +277,7 @@ alex_frames=[
     {
         "name": "f.mp",
         "desc": "Chop",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28alexfmp%29.gif",
+        "pic": "img/al-fmp.gif",
         "damage": "110",
         "startup": "7",
         "hit": "5",
@@ -288,7 +288,7 @@ alex_frames=[
     {
         "name": "f.hp",
         "desc": "Lariat",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28alexfhp%29.gif",
+        "pic": "img/al-fhp.gif",
         "damage": "135",
         "startup": "9",
         "hit": "4",
@@ -299,7 +299,7 @@ alex_frames=[
     {
         "name": "b.hp",
         "desc": "Headbutt/ Sleeper Hold (back turned)",
-        "pic": "http://wiki.shoryuken.com/images/6/64/%28alexbhp%29.gif",
+        "pic": "img/al-bhp.gif",
         "damage": "180/240",
         "startup": "8",
         "hit": "4",
@@ -310,7 +310,7 @@ alex_frames=[
     {
         "name": "air.d.hp",
         "desc": "Flying Cross Chop",
-        "pic": "http://wiki.shoryuken.com/images/0/09/%28alexjdhp%29.gif",
+        "pic": "img/al-adhp.gif",
         "damage": "120",
         "startup": "10",
         "hit": "11",
@@ -321,7 +321,7 @@ alex_frames=[
     {
         "name": "qcf.lp",
         "desc": "Flash Chop (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28alexchop%29.gif",
+        "pic": "img/al-qcfp.gif",
         "damage": "120",
         "startup": "11",
         "hit": "2",
@@ -332,7 +332,7 @@ alex_frames=[
     {
         "name": "qcf.mp",
         "desc": "Flash Chop (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28alexchop%29.gif",
+        "pic": "img/al-qcfp.gif",
         "damage": "130",
         "startup": "15",
         "hit": "3",
@@ -343,7 +343,7 @@ alex_frames=[
     {
         "name": "qcf.hp",
         "desc": "Flash Chop (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28alexchop%29.gif",
+        "pic": "img/al-qcfp.gif",
         "damage": "140",
         "startup": "19",
         "hit": "4",
@@ -354,7 +354,7 @@ alex_frames=[
     {
         "name": "dp.lk",
         "desc": "Air Knee Smash (Short)",
-        "pic": "http://wiki.shoryuken.com/images/2/2d/%28alexaksm%29.gif",
+        "pic": "img/al-dpk.gif",
         "damage": "120",
         "startup": "6",
         "hit": "6",
@@ -365,7 +365,7 @@ alex_frames=[
     {
         "name": "dp.mk",
         "desc": "Air Knee Smash (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/2/2d/%28alexaksm%29.gif",
+        "pic": "img/al-dpk.gif",
         "damage": "135",
         "startup": "7",
         "hit": "10",
@@ -376,7 +376,7 @@ alex_frames=[
     {
         "name": "dp.hk",
         "desc": "Air Knee Smash (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/2/2d/%28alexaksm%29.gif",
+        "pic": "img/al-dpk.gif",
         "damage": "150",
         "startup": "8",
         "hit": "12",
@@ -420,7 +420,7 @@ alex_frames=[
     {
         "name": "chargef.lk",
         "desc": "Slash Elbow (Short)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28alexse%29.gif",
+        "pic": "img/al-chargefk.gif",
         "damage": "100",
         "startup": "15",
         "hit": "1",
@@ -431,7 +431,7 @@ alex_frames=[
     {
         "name": "chargef.mk",
         "desc": "Slash Elbow (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28alexse%29.gif",
+        "pic": "img/al-chargefk.gif",
         "damage": "120",
         "startup": "18",
         "hit": "1",
@@ -442,7 +442,7 @@ alex_frames=[
     {
         "name": "chargef.hk",
         "desc": "Slash Elbow (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28alexse%29.gif",
+        "pic": "img/al-chargefk.gif",
         "damage": "140",
         "startup": "20",
         "hit": "1",
@@ -453,7 +453,7 @@ alex_frames=[
     {
         "name": "chargeu.lk",
         "desc": "Stomp (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/9a/%28alexstomp%29.gif",
+        "pic": "img/al-chargeuk.gif",
         "damage": "120",
         "startup": "23",
         "hit": "2",
@@ -464,7 +464,7 @@ alex_frames=[
     {
         "name": "chargeu.mk",
         "desc": "Stomp (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/9a/%28alexstomp%29.gif",
+        "pic": "img/al-chargeuk.gif",
         "damage": "140",
         "startup": "25",
         "hit": "2",
@@ -475,7 +475,7 @@ alex_frames=[
     {
         "name": "chargeu.hk",
         "desc": "Stomp (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/9a/%28alexstomp%29.gif",
+        "pic": "img/al-chargeuk.gif",
         "damage": "160",
         "startup": "26",
         "hit": "2",
@@ -486,7 +486,7 @@ alex_frames=[
     {
         "name": "hcb.lk",
         "desc": "Spiral DDT (Short)",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28alexsddt%29.gif",
+        "pic": "img/al-hcbk.gif",
         "damage": "160",
         "startup": "20",
         "hit": "3",
@@ -497,7 +497,7 @@ alex_frames=[
     {
         "name": "hcb.mk",
         "desc": "Spiral DDT (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28alexsddt%29.gif",
+        "pic": "img/al-hcbk.gif",
         "damage": "160",
         "startup": "22",
         "hit": "3",
@@ -508,7 +508,7 @@ alex_frames=[
     {
         "name": "hcb.hk",
         "desc": "Spiral DDT (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28alexsddt%29.gif",
+        "pic": "img/al-hcbk.gif",
         "damage": "160",
         "startup": "24",
         "hit": "3",
@@ -519,7 +519,7 @@ alex_frames=[
     {
         "name": "qcf.2p",
         "desc": "Flash Chop (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28alexfcex%29.gif",
+        "pic": "img/al-qcfp.gif",
         "damage": "100+100",
         "startup": "9/11",
         "hit": "2/2",
@@ -530,7 +530,7 @@ alex_frames=[
     {
         "name": "dp.2k",
         "desc": "Air Knee Smash (EX)",
-        "pic": "http://wiki.shoryuken.com/images/d/dd/%28alexakmex%29.gif",
+        "pic": "img/al-dpk.gif",
         "damage": "190",
         "startup": "3",
         "hit": "17",
@@ -541,7 +541,7 @@ alex_frames=[
     {
         "name": "chargef.2k",
         "desc": "Slash Elbow (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28alexseex%29.gif",
+        "pic": "img/al-chargefk.gif",
         "damage": "80+80",
         "startup": "9,20",
         "hit": "6,1",
@@ -552,7 +552,7 @@ alex_frames=[
     {
         "name": "chargeu.2k",
         "desc": "Stomp (EX)",
-        "pic": "http://wiki.shoryuken.com/images/4/46/%28alexastompex%29.gif",
+        "pic": "img/al-chargeuk.gif",
         "damage": "180",
         "startup": "26",
         "hit": "2",
@@ -563,7 +563,7 @@ alex_frames=[
     {
         "name": "sa1",
         "desc": "Hyper Bomb",
-        "pic": "http://wiki.shoryuken.com/images/0/09/%28alexsa1%29.gif",
+        "pic": "img/al-sa1.gif",
         "damage": "530(590 reverse)",
         "startup": "2",
         "hit": "2",
@@ -574,7 +574,7 @@ alex_frames=[
     {
         "name": "sa2",
         "desc": "Boomerang Raid",
-        "pic": "http://wiki.shoryuken.com/images/c/c5/%28alexsa2%29.gif",
+        "pic": "img/al-sa2.gif",
         "damage": "350",
         "startup": "1-57",
         "hit": "3/3/3/3/2",
@@ -585,7 +585,7 @@ alex_frames=[
     {
         "name": "sa3",
         "desc": "Stun Gun Headbutt",
-        "pic": "http://wiki.shoryuken.com/images/3/30/%28alexsa3%29.gif",
+        "pic": "img/al-sa3.gif",
         "damage": "180(max stun)",
         "startup": "25",
         "hit": "3",
