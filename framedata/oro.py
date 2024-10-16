@@ -2,7 +2,7 @@ oro_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28orot%29.gif",
+        "pic": "framedata/img/or-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "N/A",
@@ -13,7 +13,7 @@ oro_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28orolp%29.gif",
+        "pic": "framedata/img/or-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "1",
@@ -24,7 +24,7 @@ oro_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/f/f1/%28oromp%29.gif",
+        "pic": "framedata/img/or-mp.gif",
         "damage": "80",
         "startup": "8",
         "hit": "4",
@@ -35,7 +35,7 @@ oro_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/b/b1/%28orohp%29.gif",
+        "pic": "framedata/img/or-hp.gif",
         "damage": "60+80",
         "startup": "17",
         "hit": "1",
@@ -46,7 +46,7 @@ oro_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28orocloselp%29.gif",
+        "pic": "framedata/img/or-closelp.gif",
         "damage": "35",
         "startup": "2",
         "hit": "1",
@@ -57,7 +57,7 @@ oro_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/c9/%28oroclosemp%29.gif",
+        "pic": "framedata/img/or-closemp.gif",
         "damage": "40+30",
         "startup": "5",
         "hit": "2",
@@ -68,7 +68,7 @@ oro_frames=[
     {
         "name": "lk",
         "desc": "Far Short",
-        "pic": "http://wiki.shoryuken.com/images/f/fa/%28orolk%29.gif",
+        "pic": "framedata/img/or-lk.gif",
         "damage": "35",
         "startup": "3",
         "hit": "1",
@@ -79,7 +79,7 @@ oro_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28oromk%29.gif",
+        "pic": "framedata/img/or-mk.gif",
         "damage": "100",
         "startup": "8",
         "hit": "6",
@@ -90,7 +90,7 @@ oro_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/2/2b/%28orohk%29.gif",
+        "pic": "framedata/img/or-hk.gif",
         "damage": "120",
         "startup": "7",
         "hit": "4",
@@ -101,7 +101,7 @@ oro_frames=[
     {
         "name": "close.lk",
         "desc": "Close Short",
-        "pic": "http://wiki.shoryuken.com/images/0/04/%28orocloselk%29.gif",
+        "pic": "framedata/img/or-closelk.gif",
         "damage": "40",
         "startup": "2",
         "hit": "2",
@@ -112,7 +112,7 @@ oro_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/7/74/%28oroclosemk%29.gif",
+        "pic": "framedata/img/or-closemk.gif",
         "damage": "110",
         "startup": "4",
         "hit": "3",
@@ -123,7 +123,7 @@ oro_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28orojlp%29.gif",
+        "pic": "framedata/img/or-alp.gif",
         "damage": "60",
         "startup": "7(3 neutral jump)",
         "hit": "17(12 neutral jump)",
@@ -134,7 +134,7 @@ oro_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/7/7e/%28orojmp%29.gif",
+        "pic": "framedata/img/or-amp.gif",
         "damage": "100(110 neutral jump)",
         "startup": "10(5 meutral jump)",
         "hit": "8(6 neutral jump)",
@@ -145,7 +145,7 @@ oro_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/c/c4/%28orojhp%29.gif",
+        "pic": "framedata/img/or-ahp.gif",
         "damage": "100+40",
         "startup": "9(7 neutral jump)",
         "hit": "2(4 neutral jump)",
@@ -156,7 +156,7 @@ oro_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/8/8c/%28oronjlk%29.gif",
+        "pic": "framedata/img/or-alk.gif",
         "damage": "60",
         "startup": "3(2 neutral jump)",
         "hit": "13(10 neutral jump)",
@@ -167,7 +167,7 @@ oro_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28orojmk%29.gif",
+        "pic": "framedata/img/or-amk.gif",
         "damage": "100(110 neutral jump)",
         "startup": "3(4 neutral jump)",
         "hit": "6(8 neutral jump)",
@@ -178,7 +178,7 @@ oro_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/4/48/%28orojhk%29.gif",
+        "pic": "framedata/img/or-ahk.gif",
         "damage": "120(140 neutral jump)",
         "startup": "5",
         "hit": "3(5 neutral jump)",
@@ -189,7 +189,7 @@ oro_frames=[
     {
         "name": "mp+mk",
         "desc": "Tobi Hiza",
-        "pic": "http://wiki.shoryuken.com/images/9/95/%28orouoh%29.gif",
+        "pic": "framedata/img/or-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -200,7 +200,7 @@ oro_frames=[
     {
         "name": "lp+lk",
         "desc": "Kubi-jime Kataguruma",
-        "pic": "http://wiki.shoryuken.com/images/e/e3/%28orokjk%29.gif",
+        "pic": "framedata/img/or-throw.gif",
         "damage": "115",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ oro_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Tomoe Nage",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28orotn%29.gif",
+        "pic": "framedata/img/or-bthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ oro_frames=[
     {
         "name": "air.lp+lk",
         "desc": "Kuuchuu Jigoku Guruma",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28orokjg%29.gif",
+        "pic": "framedata/img/or-airthrow.gif",
         "damage": "180",
         "startup": "6",
         "hit": "1",
@@ -233,7 +233,7 @@ oro_frames=[
     {
         "name": "f.mp",
         "desc": "Mawashi Hiji",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28orofmp%29.gif",
+        "pic": "framedata/img/or-fmp.gif",
         "damage": "90",
         "startup": "8",
         "hit": "2",
@@ -244,7 +244,7 @@ oro_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28oroclp%29.gif",
+        "pic": "framedata/img/or-clp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -255,7 +255,7 @@ oro_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/91/%28orocmp%29.gif",
+        "pic": "framedata/img/or-cmp.gif",
         "damage": "65",
         "startup": "7",
         "hit": "6",
@@ -266,7 +266,7 @@ oro_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/c/c5/%28orochp%29.gif",
+        "pic": "framedata/img/or-chp.gif",
         "damage": "120",
         "startup": "6",
         "hit": "4",
@@ -277,7 +277,7 @@ oro_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/0/01/%28oroclk%29.gif",
+        "pic": "framedata/img/or-clk.gif",
         "damage": "20",
         "startup": "4",
         "hit": "2",
@@ -288,7 +288,7 @@ oro_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28orocmk%29.gif",
+        "pic": "framedata/img/or-cmk.gif",
         "damage": "80",
         "startup": "6",
         "hit": "4",
@@ -299,7 +299,7 @@ oro_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/f/f4/%28orochk%29.gif",
+        "pic": "framedata/img/or-chk.gif",
         "damage": "100",
         "startup": "10",
         "hit": "2",
@@ -310,7 +310,7 @@ oro_frames=[
     {
         "name": "chargef.lp",
         "desc": "Sun Disk Palm (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28orosdp%29.gif",
+        "pic": "framedata/img/or-fhcargep.gif",
         "damage": "50",
         "startup": "14",
         "hit": "1",
@@ -321,7 +321,7 @@ oro_frames=[
     {
         "name": "chargef.mp",
         "desc": "Sun Disk Palm (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28orosdp%29.gif",
+        "pic": "framedata/img/or-fchargep.gif",
         "damage": "50",
         "startup": "12",
         "hit": "1",
@@ -332,7 +332,7 @@ oro_frames=[
     {
         "name": "chargef.hp",
         "desc": "Sun Disk Palm (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28orosdp%29.gif",
+        "pic": "framedata/img/or-fchargep.gif",
         "damage": "60",
         "startup": "14",
         "hit": "1",
@@ -343,7 +343,7 @@ oro_frames=[
     {
         "name": "chargeu.lp",
         "desc": "Oniyama (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/7/7d/%28orooniyama%29.gif",
+        "pic": "framedata/img/or-uchargep.gif",
         "damage": "140",
         "startup": "6",
         "hit": "10",
@@ -354,7 +354,7 @@ oro_frames=[
     {
         "name": "chargeu.mp",
         "desc": "Oniyama (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/7/7d/%28orooniyama%29.gif",
+        "pic": "framedata/img/or-uchargep.gif",
         "damage": "160",
         "startup": "6",
         "hit": "17",
@@ -365,7 +365,7 @@ oro_frames=[
     {
         "name": "chargeu.hp",
         "desc": "Oniyama (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/7/7d/%28orooniyama%29.gif",
+        "pic": "framedata/img/or-uchargep.gif",
         "damage": "180",
         "startup": "1",
         "hit": "1/1/1/20",
@@ -376,7 +376,7 @@ oro_frames=[
     {
         "name": "qcf.lk",
         "desc": "Jinchu Nobori (Short)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28orojn%29.gif",
+        "pic": "framedata/img/or-qcfk.gif",
         "damage": "100",
         "startup": "27/35",
         "hit": "3/3",
@@ -387,7 +387,7 @@ oro_frames=[
     {
         "name": "qcf.mk",
         "desc": "Jinchu Nobori (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28orojn%29.gif",
+        "pic": "framedata/img/or-qcfk.gif",
         "damage": "115",
         "startup": "31/39",
         "hit": "3/3",
@@ -398,7 +398,7 @@ oro_frames=[
     {
         "name": "qcf.hk",
         "desc": "Jinchu Nobori (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28orojn%29.gif",
+        "pic": "framedata/img/or-qcfk.gif",
         "damage": "130",
         "startup": "34/42",
         "hit": "3/3",
@@ -409,7 +409,7 @@ oro_frames=[
     {
         "name": "air.qcf.lk",
         "desc": "Air Jinchu Nobori (Short)",
-        "pic": "http://wiki.shoryuken.com/images/0/06/%28oroajn%29.gif",
+        "pic": "framedata/img/or-aqcfk.gif",
         "damage": "160",
         "startup": "8",
         "hit": "3",
@@ -420,7 +420,7 @@ oro_frames=[
     {
         "name": "air.qcf.mk",
         "desc": "Air Jinchu Nobori (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/0/06/%28oroajn%29.gif",
+        "pic": "framedata/img/or-aqcfk.gif",
         "damage": "160",
         "startup": "8",
         "hit": "3",
@@ -431,7 +431,7 @@ oro_frames=[
     {
         "name": "air.qcf.hk",
         "desc": "Air Jinchu Nobori (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/0/06/%28oroajn%29.gif",
+        "pic": "framedata/img/or-aqcfk.gif",
         "damage": "160",
         "startup": "8",
         "hit": "3",
@@ -442,7 +442,7 @@ oro_frames=[
     {
         "name": "hcb.lp",
         "desc": "Human Pillar Driver (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28orohpd%29.gif",
+        "pic": "framedata/img/or-hcbp.gif",
         "damage": "150",
         "startup": "9",
         "hit": "2",
@@ -453,7 +453,7 @@ oro_frames=[
     {
         "name": "hcb.mp",
         "desc": "Human Pillar Driver (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28orohpd%29.gif",
+        "pic": "framedata/img/or-hcbp.gif",
         "damage": "170",
         "startup": "10",
         "hit": "2",
@@ -464,7 +464,7 @@ oro_frames=[
     {
         "name": "hcb.hp",
         "desc": "Human Pillar Driver (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28orohpd%29.gif",
+        "pic": "framedata/img/or-hcp.gif",
         "damage": "190",
         "startup": "11",
         "hit": "2",
@@ -475,7 +475,7 @@ oro_frames=[
     {
         "name": "chargef.2p",
         "desc": "Sun Disk Palm (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28orosdp2ex%29.gif",
+        "pic": "framedata/img/or-fhcargep.gif",
         "damage": "60+60",
         "startup": "14/20",
         "hit": "120",
@@ -486,7 +486,7 @@ oro_frames=[
     {
         "name": "chargeu.2p",
         "desc": "Oniyama (EX)",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28orooyex%29.gif",
+        "pic": "framedata/img/or-uchargep.gif",
         "damage": "220(4 hits)",
         "startup": "5",
         "hit": "3/1/1/20",
@@ -497,7 +497,7 @@ oro_frames=[
     {
         "name": "qcf.2k",
         "desc": "Jinchu Nobori (EX)",
-        "pic": "http://wiki.shoryuken.com/images/0/0a/%28orojnex%29.gif",
+        "pic": "framedata/img/or-qcfk.gif",
         "damage": "65+65+75",
         "startup": "31/41/45",
         "hit": "6/3/3",
@@ -508,7 +508,7 @@ oro_frames=[
     {
         "name": "air.qcf.2k",
         "desc": "Air Jinchu Nobori (EX)",
-        "pic": "http://wiki.shoryuken.com/images/4/48/%28oroajnex%29.gif",
+        "pic": "framedata/img/or-aqcfk.gif",
         "damage": "45+45+25x7",
         "startup": "8",
         "hit": "3",
@@ -519,7 +519,7 @@ oro_frames=[
     {
         "name": "sa1",
         "desc": "Kishin Riki/Kishin Riki Air/Kishin Tisui",
-        "pic": "http://wiki.shoryuken.com/images/7/79/%28orosa1%29.gif",
+        "pic": "framedata/img/or-sa1.gif",
         "damage": "345/310/430",
         "startup": "4-10/5/12",
         "hit": "1/4/1",
@@ -530,7 +530,7 @@ oro_frames=[
     {
         "name": "sa2",
         "desc": "Yagyou Dama/ Oodama",
-        "pic": "http://wiki.shoryuken.com/images/5/5f/%28orosa2%29.gif",
+        "pic": "framedata/img/or-sa2.gif",
         "damage": "210/600",
         "startup": "28/26",
         "hit": "144-134/1",
@@ -541,7 +541,7 @@ oro_frames=[
     {
         "name": "sa3",
         "desc": "Tengu Stone",
-        "pic": "http://wiki.shoryuken.com/images/b/b6/%28orosa3%29.gif",
+        "pic": "framedata/img/or-sa3.gif",
         "damage": "40xrock or wall hit/ 20xother hit",
         "startup": "17",
         "hit": "N/A",

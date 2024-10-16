@@ -2,7 +2,7 @@ remy_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/c/c2/%28remyt%29.gif",
+        "pic": "framedata/img/re-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "131",
@@ -13,7 +13,7 @@ remy_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/5/5e/%28remylp%29.gif",
+        "pic": "framedata/img/re-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "4",
@@ -24,7 +24,7 @@ remy_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/cd/%28remymp%29.gif",
+        "pic": "framedata/img/re-mp.gif",
         "damage": "60",
         "startup": "7",
         "hit": "3",
@@ -35,7 +35,7 @@ remy_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28remyhp%29.gif",
+        "pic": "framedata/img/re-hp.gif",
         "damage": "110",
         "startup": "10",
         "hit": "5",
@@ -46,7 +46,7 @@ remy_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/af/%28remycloselp%29.gif",
+        "pic": "framedata/img/re-closelp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "4",
@@ -57,7 +57,7 @@ remy_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/98/%28remyclosemp%29.gif",
+        "pic": "framedata/img/re-closemp.gif",
         "damage": "70",
         "startup": "5",
         "hit": "5",
@@ -68,7 +68,7 @@ remy_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/b/bc/%28remyclosehp%29.gif",
+        "pic": "framedata/img/re-closehp.gif",
         "damage": "130",
         "startup": "6",
         "hit": "3",
@@ -79,7 +79,7 @@ remy_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28remylk%29.gif",
+        "pic": "framedata/img/re-lk.gif",
         "damage": "35",
         "startup": "3",
         "hit": "5",
@@ -90,7 +90,7 @@ remy_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28remymk%29.gif",
+        "pic": "framedata/img/re-mk.gif",
         "damage": "80",
         "startup": "8",
         "hit": "5",
@@ -101,7 +101,7 @@ remy_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28remyhk%29.gif",
+        "pic": "framedata/img/re-hk.gif",
         "damage": "130",
         "startup": "10",
         "hit": "3",
@@ -112,7 +112,7 @@ remy_frames=[
     {
         "name": "close.lk",
         "desc": "Close Short",
-        "pic": "http://wiki.shoryuken.com/images/c/c1/%28remycloselk%29.gif",
+        "pic": "framedata/img/re-closelk.gif",
         "damage": "35",
         "startup": "2",
         "hit": "5",
@@ -123,7 +123,7 @@ remy_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/d/dd/%28remyclosemk%29.gif",
+        "pic": "framedata/img/re-closemk.gif",
         "damage": "80",
         "startup": "4",
         "hit": "6",
@@ -134,7 +134,7 @@ remy_frames=[
     {
         "name": "close.hk",
         "desc": "Close Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/e/e7/%28remyclosehk%29.gif",
+        "pic": "framedata/img/re-closehk.gif",
         "damage": "140",
         "startup": "6",
         "hit": "3",
@@ -145,7 +145,7 @@ remy_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28remyjlp%29.gif",
+        "pic": "framedata/img/re-alp.gif",
         "damage": "40",
         "startup": "4",
         "hit": "20",
@@ -156,7 +156,7 @@ remy_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/5/59/%28remyjmp%29.gif",
+        "pic": "framedata/img/re-amp.gif",
         "damage": "70",
         "startup": "5",
         "hit": "14",
@@ -167,7 +167,7 @@ remy_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/d/d8/%28remyjhp%29.gif",
+        "pic": "framedata/img/re-ahp.gif",
         "damage": "125",
         "startup": "9",
         "hit": "5",
@@ -178,7 +178,7 @@ remy_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/c/cd/%28remyjlk%29.gif",
+        "pic": "framedata/img/re-alk.gif",
         "damage": "50",
         "startup": "4",
         "hit": "14",
@@ -189,7 +189,7 @@ remy_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28remyjmk%29.gif",
+        "pic": "framedata/img/re-amk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "4",
@@ -200,7 +200,7 @@ remy_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/6/6e/%28remyjhk%29.gif",
+        "pic": "framedata/img/re-ahk.gif",
         "damage": "120",
         "startup": "10",
         "hit": "4",
@@ -211,7 +211,7 @@ remy_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28remyoh%29.gif",
+        "pic": "framedata/img/re-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -222,7 +222,7 @@ remy_frames=[
     {
         "name": "lp+lk",
         "desc": "Valse no you ni Kuruoshiku",
-        "pic": "http://wiki.shoryuken.com/images/8/82/%28remyvnk%29.gif",
+        "pic": "framedata/img/re-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -233,7 +233,7 @@ remy_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Nemuri wo Midasu Contour",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28remynmm%29.gif",
+        "pic": "framedata/img/re-fthrow.gif",
         "damage": "130",
         "startup": "2",
         "hit": "1",
@@ -244,7 +244,7 @@ remy_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Nemuri wo Midasu Contour",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28remynmm%29.gif",
+        "pic": "framedata/img/re-fthrow.gif",
         "damage": "130",
         "startup": "2",
         "hit": "1",
@@ -255,7 +255,7 @@ remy_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/b/be/%28remyclp%29.gif",
+        "pic": "framedata/img/re-clp.gif",
         "damage": "30",
         "startup": "5",
         "hit": "2",
@@ -266,7 +266,7 @@ remy_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/4/40/%28remycmp%29.gif",
+        "pic": "framedata/img/re-cmp.gif",
         "damage": "55",
         "startup": "5",
         "hit": "5",
@@ -277,7 +277,7 @@ remy_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/9/9e/%28remychp%29.gif",
+        "pic": "framedata/img/re-chp.gif",
         "damage": "100",
         "startup": "9",
         "hit": "5",
@@ -288,7 +288,7 @@ remy_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28remyclk%29.gif",
+        "pic": "framedata/img/re-clk.gif",
         "damage": "30",
         "startup": "3",
         "hit": "4",
@@ -299,7 +299,7 @@ remy_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28remycmk%29.gif",
+        "pic": "framedata/img/re-cmk.gif",
         "damage": "60",
         "startup": "8",
         "hit": "5",
@@ -310,7 +310,7 @@ remy_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/4/47/%28remychk%29.gif",
+        "pic": "framedata/img/re-chk.gif",
         "damage": "100+110",
         "startup": "9",
         "hit": "2/5",
@@ -321,7 +321,7 @@ remy_frames=[
     {
         "name": "f.mk",
         "desc": "Amari ni Muku na Aiguille",
-        "pic": "http://wiki.shoryuken.com/images/0/03/%28remyfmk%29.gif",
+        "pic": "framedata/img/re-fmk.gif",
         "damage": "80",
         "startup": "18",
         "hit": "3",
@@ -332,7 +332,7 @@ remy_frames=[
     {
         "name": "chargef.lp",
         "desc": "Light of Virtue (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28remyhlov%29.gif",
+        "pic": "framedata/img/re-fchargep.gif",
         "damage": "60",
         "startup": "8",
         "hit": "1",
@@ -343,7 +343,7 @@ remy_frames=[
     {
         "name": "chargef.mp",
         "desc": "Light of Virtue (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28remyhlov%29.gif",
+        "pic": "framedata/img/re-fchargep.gif",
         "damage": "60",
         "startup": "9",
         "hit": "1",
@@ -354,7 +354,7 @@ remy_frames=[
     {
         "name": "chargef.hp",
         "desc": "Light of Virtue (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28remyhlov%29.gif",
+        "pic": "framedata/img/re-fchargep.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -365,7 +365,7 @@ remy_frames=[
     {
         "name": "chargef.lk",
         "desc": "Light of Virtue (Short)",
-        "pic": "http://wiki.shoryuken.com/images/4/43/%28remyllov%29.gif",
+        "pic": "framedata/img/re-fchargek.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -376,7 +376,7 @@ remy_frames=[
     {
         "name": "chargef.mk",
         "desc": "Light of Virtue (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/4/43/%28remyllov%29.gif",
+        "pic": "framedata/img/re-fchargek.gif",
         "damage": "60",
         "startup": "11",
         "hit": "1",
@@ -387,7 +387,7 @@ remy_frames=[
     {
         "name": "chargef.hk",
         "desc": "Light of Virtue (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/4/43/%28remyllov%29.gif",
+        "pic": "framedata/img/re-fchargek.gif",
         "damage": "60",
         "startup": "12",
         "hit": "1",
@@ -398,7 +398,7 @@ remy_frames=[
     {
         "name": "qcb.lk",
         "desc": "Cold Blue Kick (Short)",
-        "pic": "http://wiki.shoryuken.com/images/7/7b/%28remycbk%29.gif",
+        "pic": "framedata/img/re-qcbk.gif",
         "damage": "120",
         "startup": "17",
         "hit": "12",
@@ -409,7 +409,7 @@ remy_frames=[
     {
         "name": "qcb.mk",
         "desc": "Cold Blue Kick (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/7/7b/%28remycbk%29.gif",
+        "pic": "framedata/img/re-qcbk.gif",
         "damage": "120",
         "startup": "18",
         "hit": "12",
@@ -420,7 +420,7 @@ remy_frames=[
     {
         "name": "qcb.hk",
         "desc": "Cold Blue Kick (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/7/7b/%28remycbk%29.gif",
+        "pic": "framedata/img/re-qcbk.gif",
         "damage": "120",
         "startup": "19",
         "hit": "12",
@@ -431,7 +431,7 @@ remy_frames=[
     {
         "name": "chargeu.lk",
         "desc": "Rising Rage Flash (Short)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28remyrsf%29.gif",
+        "pic": "framedata/img/re-qcbk.gif",
         "damage": "120",
         "startup": "3",
         "hit": "3",
@@ -442,7 +442,7 @@ remy_frames=[
     {
         "name": "chargeu.mk",
         "desc": "Rising Rage Flash (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28remyrsf%29.gif",
+        "pic": "framedata/img/re-uchargek.gif",
         "damage": "130",
         "startup": "4",
         "hit": "3",
@@ -453,7 +453,7 @@ remy_frames=[
     {
         "name": "chargeu.hk",
         "desc": "Rising Rage Flash (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28remyrsf%29.gif",
+        "pic": "framedata/img/re-uchargek.gif",
         "damage": "140",
         "startup": "5",
         "hit": "3",
@@ -464,7 +464,7 @@ remy_frames=[
     {
         "name": "chargef.2p",
         "desc": "Light of Virtue (EX)",
-        "pic": "http://wiki.shoryuken.com/images/8/8e/%28remyhlovex%29.gif",
+        "pic": "framedata/img/re-fchargep.gif",
         "damage": "60+60",
         "startup": "7/8",
         "hit": "1",
@@ -475,7 +475,7 @@ remy_frames=[
     {
         "name": "chargef.2k",
         "desc": "Light of Virtue (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/6d/%28remyllovex%29.gif",
+        "pic": "framedata/img/re-fchargek.gif",
         "damage": "60+60",
         "startup": "8/7",
         "hit": "1",
@@ -486,7 +486,7 @@ remy_frames=[
     {
         "name": "chargeu.2k",
         "desc": "Rising Rage Flash (EX)",
-        "pic": "http://wiki.shoryuken.com/images/e/e2/%28remyrrgex%29.gif",
+        "pic": "framedata/img/re-uchargek.gif",
         "damage": "120+70",
         "startup": "6",
         "hit": "5",
@@ -497,7 +497,7 @@ remy_frames=[
     {
         "name": "qcb.2k",
         "desc": "Cold Blue Kick (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/13/%28remycbkex%29.gif",
+        "pic": "framedata/img/re-qcbk.gif",
         "damage": "90+70",
         "startup": "18",
         "hit": "9",
@@ -508,7 +508,7 @@ remy_frames=[
     {
         "name": "sa1",
         "desc": "Light of Justice",
-        "pic": "http://wiki.shoryuken.com/images/8/89/%28remysa1%29.gif",
+        "pic": "framedata/img/re-sa1.gif",
         "damage": "320",
         "startup": "1",
         "hit": "1x7",
@@ -519,7 +519,7 @@ remy_frames=[
     {
         "name": "sa2",
         "desc": "Supreme Rising Rage Flash",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28remysa2%29.gif",
+        "pic": "framedata/img/re-sa2.gif",
         "damage": "390",
         "startup": "1-49",
         "hit": "1x6/2x3/5",
@@ -530,7 +530,7 @@ remy_frames=[
     {
         "name": "sa3",
         "desc": "Blue Nocturne",
-        "pic": "http://wiki.shoryuken.com/images/8/82/%28remysa3%29.gif",
+        "pic": "framedata/img/re-sa3.gif",
         "damage": "465",
         "startup": "1",
         "hit": "21",

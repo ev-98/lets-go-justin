@@ -1,7 +1,7 @@
 makoto_frames=[{
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/1/13/%28makotot%29.gif",
+        "pic": "framedata/img/ma-taunt.gif",
         "damage": "10",
         "startup": "79",
         "hit": "3",
@@ -12,7 +12,7 @@ makoto_frames=[{
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28makotolp%29.gif",
+        "pic": "framedata/img/ma-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "6",
@@ -23,7 +23,7 @@ makoto_frames=[{
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28makotomp%29.gif",
+        "pic": "framedata/img/ma-mp.gif",
         "damage": "80",
         "startup": "8",
         "hit": "11",
@@ -34,7 +34,7 @@ makoto_frames=[{
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28makotohp%29.gif",
+        "pic": "framedata/img/ma-hp.gif",
         "damage": "120",
         "startup": "8",
         "hit": "2",
@@ -45,7 +45,7 @@ makoto_frames=[{
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/8/8b/%28makotolk%29.gif",
+        "pic": "framedata/img/ma-lk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "5",
@@ -56,7 +56,7 @@ makoto_frames=[{
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28makotomk%29.gif",
+        "pic": "framedata/img/ma-mk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "5",
@@ -67,7 +67,7 @@ makoto_frames=[{
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28makotohk%29.gif",
+        "pic": "framedata/img/ma-hk.gif",
         "damage": "130",
         "startup": "11",
         "hit": "9",
@@ -78,7 +78,7 @@ makoto_frames=[{
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/8/8d/%28makotojlp%29.gif",
+        "pic": "framedata/img/ma-alp.gif",
         "damage": "50",
         "startup": "4(9 neutral jump)",
         "hit": "21(17 neutral jump)",
@@ -89,7 +89,7 @@ makoto_frames=[{
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28makotojmp%29.gif",
+        "pic": "framedata/img/ma-amp.gif",
         "damage": "80",
         "startup": "11",
         "hit": "24(6 neutral jump)",
@@ -100,7 +100,7 @@ makoto_frames=[{
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28makotojhp%29.gif",
+        "pic": "framedata/img/ma-ahp.gif",
         "damage": "130",
         "startup": "10(13 neutral jump)",
         "hit": "3",
@@ -111,7 +111,7 @@ makoto_frames=[{
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/f/f7/%28makotojlk%29.gif",
+        "pic": "framedata/img/ma-alk.gif",
         "damage": "60",
         "startup": "2",
         "hit": "14",
@@ -122,7 +122,7 @@ makoto_frames=[{
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/6/66/%28makotojmk%29.gif",
+        "pic": "framedata/img/ma-amk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "13",
@@ -133,7 +133,7 @@ makoto_frames=[{
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/5b/%28makotojhk%29.gif",
+        "pic": "framedata/img/ma-ahk.gif",
         "damage": "130",
         "startup": "6",
         "hit": "6",
@@ -144,7 +144,7 @@ makoto_frames=[{
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/c/c2/%28makotooh%29.gif",
+        "pic": "framedata/img/ma-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -155,7 +155,7 @@ makoto_frames=[{
     {
         "name": "lp+lk",
         "desc": "Hikiyose Zutsuki (Tacchuu)",
-        "pic": "http://wiki.shoryuken.com/images/3/35/%28makotothr%29.gif",
+        "pic": "framedata/img/ma-throw.gif",
         "damage": "90",
         "startup": "2",
         "hit": "1",
@@ -166,7 +166,7 @@ makoto_frames=[{
     {
         "name": "f.lp+lk",
         "desc": "Hiji Otoshi Sanren Tsuki (Araiso)",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28makotobftr%29.gif",
+        "pic": "framedata/img/ma-fthrow.gif",
         "damage": "150",
         "startup": "2",
         "hit": "1",
@@ -177,7 +177,7 @@ makoto_frames=[{
     {
         "name": "b.lp+lk",
         "desc": "Hiji Otoshi Sanren Tsuki (Araiso)",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28makotobftr%29.gif",
+        "pic": "framedata/img/ma-fthrow.gif",
         "damage": "150",
         "startup": "2",
         "hit": "1",
@@ -188,7 +188,7 @@ makoto_frames=[{
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/f/fe/%28makotoclp%29.gif",
+        "pic": "framedata/img/ma-clp.gif",
         "damage": "20",
         "startup": "5",
         "hit": "4",
@@ -199,7 +199,7 @@ makoto_frames=[{
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/d/de/%28makotocmp%29.gif",
+        "pic": "framedata/img/ma-cmp.gif",
         "damage": "70",
         "startup": "7",
         "hit": "7",
@@ -210,7 +210,7 @@ makoto_frames=[{
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/7/74/%28makotochp%29.gif",
+        "pic": "framedata/img/ma-chp.gif",
         "damage": "130",
         "startup": "10",
         "hit": "2",
@@ -221,7 +221,7 @@ makoto_frames=[{
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28makotoclk%29.gif",
+        "pic": "framedata/img/ma-clk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "6",
@@ -232,7 +232,7 @@ makoto_frames=[{
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/9/9a/%28makotocmk%29.gif",
+        "pic": "framedata/img/ma-cmk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "8",
@@ -243,7 +243,7 @@ makoto_frames=[{
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/a/a1/%28makotochk%29.gif",
+        "pic": "framedata/img/ma-chk.gif",
         "damage": "130",
         "startup": "10",
         "hit": "4",
@@ -254,7 +254,7 @@ makoto_frames=[{
     {
         "name": "f.lp",
         "desc": "Kazami",
-        "pic": "http://wiki.shoryuken.com/images/4/49/%28makotoflp%29.gif",
+        "pic": "framedata/img/ma-flp.gif",
         "damage": "25",
         "startup": "4",
         "hit": "4",
@@ -265,7 +265,7 @@ makoto_frames=[{
     {
         "name": "f.mp",
         "desc": "Kaoruna",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28makotofmp%29.gif",
+        "pic": "framedata/img/ma-fmp.gif",
         "damage": "85",
         "startup": "9",
         "hit": "6",
@@ -276,7 +276,7 @@ makoto_frames=[{
     {
         "name": "f.hp",
         "desc": "Shikami",
-        "pic": "http://wiki.shoryuken.com/images/7/7c/%28makotofhp%29.gif",
+        "pic": "framedata/img/ma-fhp.gif",
         "damage": "150",
         "startup": "16",
         "hit": "4,15",
@@ -287,7 +287,7 @@ makoto_frames=[{
     {
         "name": "f.lk",
         "desc": "Shinbuki",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28makotoflk%29.gif",
+        "pic": "framedata/img/ma-flk.gif",
         "damage": "350",
         "startup": "6",
         "hit": "6",
@@ -298,7 +298,7 @@ makoto_frames=[{
     {
         "name": "f.mk",
         "desc": "Naruto",
-        "pic": "http://wiki.shoryuken.com/images/b/b8/%28makotofmk%29.gif",
+        "pic": "framedata/img/ma-fmk.gif",
         "damage": "100",
         "startup": "17",
         "hit": "5",
@@ -309,7 +309,7 @@ makoto_frames=[{
     {
         "name": "f.hk",
         "desc": "Kurushio",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28makotofhk%29.gif",
+        "pic": "framedata/img/ma-fhk.gif",
         "damage": "120",
         "startup": "22",
         "hit": "3",
@@ -320,7 +320,7 @@ makoto_frames=[{
     {
         "name": "qcf.lp",
         "desc": "Hayate (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/ma-qcfp.gif",
         "damage": "100",
         "startup": "6",
         "hit": "6",
@@ -331,7 +331,7 @@ makoto_frames=[{
     {
         "name": "qcf.mp",
         "desc": "Hayate (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/ma-qcfp.gif",
         "damage": "100",
         "startup": "9",
         "hit": "6",
@@ -342,7 +342,7 @@ makoto_frames=[{
     {
         "name": "qcf.hp",
         "desc": "Hayate (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/ma-qcfp.gif",
         "damage": "100",
         "startup": "11",
         "hit": "6",
@@ -353,7 +353,7 @@ makoto_frames=[{
     {
         "name": "hold.qcf.lp",
         "desc": "Hayate (Levels 1-4)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/ma-qcfp.gif",
         "damage": "110,120,130,140",
         "startup": "7-26, 27-46,47-66,67-126",
         "hit": "6",
@@ -364,7 +364,7 @@ makoto_frames=[{
     {
         "name": "qcf.2p",
         "desc": "Hayate (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/f2/%28makotohdkex%29.gif",
+        "pic": "framedata/img/ma-qcfp.gif",
         "damage": "160",
         "startup": "17",
         "hit": "1",
@@ -375,7 +375,7 @@ makoto_frames=[{
     {
         "name": "dp.lp",
         "desc": "Fukiage (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28makotofkage%29.gif",
+        "pic": "framedata/img/ma-dp.gif",
         "damage": "120",
         "startup": "7",
         "hit": "8",
@@ -386,7 +386,7 @@ makoto_frames=[{
     {
         "name": "dp.mp",
         "desc": "Fukiage (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28makotofkage%29.gif",
+        "pic": "framedata/img/ma-dp.gif",
         "damage": "140",
         "startup": "10",
         "hit": "8",
@@ -397,7 +397,7 @@ makoto_frames=[{
     {
         "name": "dp.hp",
         "desc": "Fukiage (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28makotofkage%29.gif",
+        "pic": "framedata/img/ma-dp.gif",
         "damage": "140",
         "startup": "10",
         "hit": "7",
@@ -408,7 +408,7 @@ makoto_frames=[{
     {
         "name": "dp.2p",
         "desc": "Fukiage (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/53/%28makotosrkex%29.gif",
+        "pic": "framedata/img/ma-dp.gif",
         "damage": "140",
         "startup": "11",
         "hit": "8",
@@ -419,7 +419,7 @@ makoto_frames=[{
     {
         "name": "qcb.lp",
         "desc": "Oroshi (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/6/6e/%28makotooroshi%29.gif",
+        "pic": "framedata/img/ma-qcbp.gif",
         "damage": "100",
         "startup": "19",
         "hit": "7",
@@ -430,7 +430,7 @@ makoto_frames=[{
     {
         "name": "qcb.mp",
         "desc": "Oroshi (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/6/6e/%28makotooroshi%29.gif",
+        "pic": "framedata/img/ma-qcbp.gif",
         "damage": "110",
         "startup": "23",
         "hit": "7",
@@ -441,7 +441,7 @@ makoto_frames=[{
     {
         "name": "qcb.hp",
         "desc": "Oroshi (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/6e/%28makotooroshi%29.gif",
+        "pic": "framedata/img/ma-qcbp.gif",
         "damage": "100",
         "startup": "28",
         "hit": "7",
@@ -452,7 +452,7 @@ makoto_frames=[{
     {
         "name": "qcb.2p",
         "desc": "Oroshi (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/fa/%28makototskex%29.gif",
+        "pic": "framedata/img/ma-qcbp.gif",
         "damage": "160",
         "startup": "13",
         "hit": "7",
@@ -463,7 +463,7 @@ makoto_frames=[{
    {
         "name": "hcb.lk",
         "desc": "Karakusa (Short)",
-        "pic": "http://wiki.shoryuken.com/images/c/c0/%28makotokarakusa%29.gif",
+        "pic": "framedata/img/ma-hcbk.gif",
         "damage": "30",
         "startup": "7",
         "hit": "3",
@@ -474,7 +474,7 @@ makoto_frames=[{
     {
         "name": "hcb.mk",
         "desc": "Karakusa (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/c/c0/%28makotokarakusa%29.gif",
+        "pic": "framedata/img/ma-hcbk.gif",
         "damage": "30",
         "startup": "8",
         "hit": "4",
@@ -485,7 +485,7 @@ makoto_frames=[{
     {
         "name": "hcb.hk",
         "desc": "Karakusa (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/c/c0/%28makotokarakusa%29.gif",
+        "pic": "framedata/img/ma-hcbk.gif",
         "damage": "30",
         "startup": "9",
         "hit": "4",
@@ -496,7 +496,7 @@ makoto_frames=[{
     {
         "name": "air.qcb.lk",
         "desc": "Tsurugi (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28makotoatsur%29.gif",
+        "pic": "framedata/img/ma-aqcbk.gif",
         "damage": "140",
         "startup": "7",
         "hit": "1",
@@ -507,7 +507,7 @@ makoto_frames=[{
     {
         "name": "air.qcb.mk",
         "desc": "Tsurugi (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28makotoatsur%29.gif",
+        "pic": "framedata/img/ma-aqcbk.gif",
         "damage": "150",
         "startup": "7",
         "hit": "1",
@@ -518,7 +518,7 @@ makoto_frames=[{
     {
         "name": "air.qcb.hk",
         "desc": "Tsurugi (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28makotoatsur%29.gif",
+        "pic": "framedata/img/ma-aqcbk.gif",
         "damage": "160",
         "startup": "7",
         "hit": "1",
@@ -529,7 +529,7 @@ makoto_frames=[{
     {
         "name": "air.qcb.2k",
         "desc": "Tsurugi (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/64/%28makotoatskex%29.gif",
+        "pic": "framedata/img/ma-aqcbk.gif",
         "damage": "80+100",
         "startup": "15+17",
         "hit": "2+2",
@@ -540,7 +540,7 @@ makoto_frames=[{
     {
         "name": "sa1",
         "desc": "Seichu Sen Godanzuki",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28makotosa1%29.gif",
+        "pic": "framedata/img/ma-sa1.gif",
         "damage": "500",
         "startup": "1",
         "hit": "3",
@@ -551,7 +551,7 @@ makoto_frames=[{
     {
         "name": "sa2",
         "desc": "Abare To Sadami Kudaki",
-        "pic": "http://wiki.shoryuken.com/images/3/3c/%28makotosa2%29.gif",
+        "pic": "framedata/img/ma-sa2.gif",
         "damage": "360",
         "startup": "14~18",
         "hit": "5/6/9",
@@ -562,7 +562,7 @@ makoto_frames=[{
     {
         "name": "sa3",
         "desc": "Tanden Renki-Seme no Kata",
-        "pic": "http://wiki.shoryuken.com/images/7/7e/%28makotosa3%29.gif",
+        "pic": "framedata/img/ma-sa3.gif",
         "damage": "N/A",
         "startup": "2",
         "hit": "N/A",

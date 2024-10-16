@@ -2,7 +2,7 @@ necro_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/5/5f/%28necrot%29.gif",
+        "pic": "framedata/img/ne-taunt.gif",
         "damage": "10x2",
         "startup": "21",
         "hit": "6",
@@ -13,7 +13,7 @@ necro_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/4/4c/%28necrolp%29.gif",
+        "pic": "framedata/img/ne-lp.gif",
         "damage": "30",
         "startup": "5",
         "hit": "1",
@@ -24,7 +24,7 @@ necro_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/4/41/%28necromp%29.gif",
+        "pic": "framedata/img/ne-mp.gif",
         "damage": "50",
         "startup": "8",
         "hit": "1",
@@ -35,7 +35,7 @@ necro_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/f/f2/%28necrohp%29.gif",
+        "pic": "framedata/img/ne-hp.gif",
         "damage": "100",
         "startup": "15",
         "hit": "11",
@@ -46,7 +46,7 @@ necro_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28necrolk%29.gif",
+        "pic": "framedata/img/ne-lk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "1",
@@ -57,7 +57,7 @@ necro_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/33/%28necromk%29.gif",
+        "pic": "framedata/img/ne-mk.gif",
         "damage": "70",
         "startup": "9",
         "hit": "1",
@@ -68,7 +68,7 @@ necro_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/4/4a/%28necrohk%29.gif",
+        "pic": "framedata/img/ne-hk.gif",
         "damage": "110",
         "startup": "18",
         "hit": "1",
@@ -79,7 +79,7 @@ necro_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/2/26/%28necrojlp%29.gif",
+        "pic": "framedata/img/ne-alp.gif",
         "damage": "40",
         "startup": "4(5 neutral jump)",
         "hit": "14(6 neutral jump)",
@@ -90,7 +90,7 @@ necro_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/c1/%28necrojmp%29.gif",
+        "pic": "framedata/img/ne-amp.gif",
         "damage": "80(70 neutral jump)",
         "startup": "9(8 neutral jump)",
         "hit": "1",
@@ -101,7 +101,7 @@ necro_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/0/0e/%28necrojhp%29.gif",
+        "pic": "framedata/img/ne-ahp.gif",
         "damage": "100",
         "startup": "13",
         "hit": "2",
@@ -112,7 +112,7 @@ necro_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/e/eb/%28necrojlk%29.gif",
+        "pic": "framedata/img/ne-alk.gif",
         "damage": "30",
         "startup": "2",
         "hit": "15",
@@ -123,7 +123,7 @@ necro_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/4/44/%28necrojmk%29.gif",
+        "pic": "framedata/img/ne-amk.gif",
         "damage": "90",
         "startup": "10",
         "hit": "4",
@@ -134,7 +134,7 @@ necro_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/b/b9/%28necrojhk%29.gif",
+        "pic": "framedata/img/ne-ahk.gif",
         "damage": "120",
         "startup": "15",
         "hit": "4",
@@ -145,7 +145,7 @@ necro_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/6/66/%28necrooh%29.gif",
+        "pic": "framedata/img/ne-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -156,7 +156,7 @@ necro_frames=[
     {
         "name": "lp+lk",
         "desc": "Shoulder Attack",
-        "pic": "http://wiki.shoryuken.com/images/5/5c/%28necroshat%29.gif",
+        "pic": "framedata/img/ne-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -167,7 +167,7 @@ necro_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Shoulder Attack",
-        "pic": "http://wiki.shoryuken.com/images/5/5c/%28necroshat%29.gif",
+        "pic": "framedata/img/ne-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ necro_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Frankensteiner/ German Suplex (back turned)",
-        "pic": "http://wiki.shoryuken.com/images/d/db/%28necrofrank%29.gif",
+        "pic": "framedata/img/ne-bthrow.gif",
         "damage": "100/200",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ necro_frames=[
     {
         "name": "b.lp",
         "desc": "Back Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28necroblp%29.gif",
+        "pic": "framedata/img/ne-blp.gif",
         "damage": "50",
         "startup": "3",
         "hit": "1",
@@ -200,7 +200,7 @@ necro_frames=[
     {
         "name": "b.mp",
         "desc": "Back Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/ad/%28necrobmp%29.gif",
+        "pic": "framedata/img/ne-bmp.gif",
         "damage": "70",
         "startup": "4",
         "hit": "2",
@@ -211,7 +211,7 @@ necro_frames=[
     {
         "name": "b.hp",
         "desc": "Back Fierce",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28necrobhp%29.gif",
+        "pic": "framedata/img/ne-bhp.gif",
         "damage": "130",
         "startup": "11",
         "hit": "4",
@@ -222,7 +222,7 @@ necro_frames=[
     {
         "name": "b.lk",
         "desc": "Back Short",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28necroblk%29.gif",
+        "pic": "framedata/img/ne-blk.gif",
         "damage": "45",
         "startup": "3",
         "hit": "2",
@@ -233,7 +233,7 @@ necro_frames=[
     {
         "name": "b.mk",
         "desc": "Back Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28necrobmk%29.gif",
+        "pic": "framedata/img/ne-bmk.gif",
         "damage": "80",
         "startup": "5",
         "hit": "1",
@@ -244,7 +244,7 @@ necro_frames=[
     {
         "name": "b.hk",
         "desc": "Back Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/1/12/%28necrobhk%29.gif",
+        "pic": "framedata/img/ne-bhk.gif",
         "damage": "140",
         "startup": "12",
         "hit": "1",
@@ -255,7 +255,7 @@ necro_frames=[
     {
         "name": "air.d.lk",
         "desc": "Short Drill Kick",
-        "pic": "http://wiki.shoryuken.com/images/1/1f/%28necrojdlk%29.gif",
+        "pic": "framedata/img/ne-adlk.gif",
         "damage": "50+15",
         "startup": "9,6",
         "hit": "until land",
@@ -266,7 +266,7 @@ necro_frames=[
     {
         "name": "air.d.mk",
         "desc": "Forward Drill Kick",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28necrojdmk%29.gif",
+        "pic": "framedata/img/ne-admk.gif",
         "damage": "60+20",
         "startup": "9,6",
         "hit": "until land",
@@ -277,7 +277,7 @@ necro_frames=[
     {
         "name": "air.d.hk",
         "desc": "Roundhouse Drill Kick",
-        "pic": "http://wiki.shoryuken.com/images/6/65/%28necrojdhk%29.gif",
+        "pic": "framedata/img/ne-adhk.gif",
         "damage": "80+20",
         "startup": "9,6",
         "hit": "until land",
@@ -288,7 +288,7 @@ necro_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/7/72/%28necroclp%29.gif",
+        "pic": "framedata/img/ne-clp.gif",
         "damage": "30",
         "startup": "6",
         "hit": "1",
@@ -299,7 +299,7 @@ necro_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/8/82/%28necrocmp%29.gif",
+        "pic": "framedata/img/ne-cmp.gif",
         "damage": "60",
         "startup": "8",
         "hit": "1",
@@ -310,7 +310,7 @@ necro_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28necrochp%29.gif",
+        "pic": "framedata/img/ne-chp.gif",
         "damage": "90",
         "startup": "8",
         "hit": "1",
@@ -321,7 +321,7 @@ necro_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/b/b4/%28necroclk%29.gif",
+        "pic": "framedata/img/ne-clk.gif",
         "damage": "35",
         "startup": "6",
         "hit": "1",
@@ -332,7 +332,7 @@ necro_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28necrocmk%29.gif",
+        "pic": "framedata/img/ne-cmk.gif",
         "damage": "60",
         "startup": "12",
         "hit": "1",
@@ -343,7 +343,7 @@ necro_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/b/b9/%28necrochk%29.gif",
+        "pic": "framedata/img/ne-chk.gif",
         "damage": "100",
         "startup": "13",
         "hit": "1",
@@ -354,7 +354,7 @@ necro_frames=[
     {
         "name": "hcf.lp",
         "desc": "Tornado Hook (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28necrothk%29.gif",
+        "pic": "framedata/img/ne-hcfp.gif",
         "damage": "50+70",
         "startup": "6/17",
         "hit": "4/4",
@@ -365,7 +365,7 @@ necro_frames=[
     {
         "name": "hcf.mp",
         "desc": "Tornado Hook (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28necrothk%29.gif",
+        "pic": "framedata/img/ne-hcfp.gif",
         "damage": "50+80",
         "startup": "10/22",
         "hit": "3/4",
@@ -376,7 +376,7 @@ necro_frames=[
     {
         "name": "hcf.hp",
         "desc": "Tornado Hook (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28necrothk%29.gif",
+        "pic": "framedata/img/ne-hcfp.gif",
         "damage": "50+50+80",
         "startup": "17/33/45",
         "hit": "4/3/4",
@@ -387,7 +387,7 @@ necro_frames=[
     {
         "name": "qcb.lp",
         "desc": "Flying Viper (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/4/4e/%28necrofvi%29.gif",
+        "pic": "framedata/img/ne-qcbp.gif",
         "damage": "120",
         "startup": "26",
         "hit": "5",
@@ -398,7 +398,7 @@ necro_frames=[
     {
         "name": "qcb.mp",
         "desc": "Flying Viper (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/4/4e/%28necrofvi%29.gif",
+        "pic": "framedata/img/ne-qcbp.gif",
         "damage": "140",
         "startup": "26",
         "hit": "6",
@@ -409,7 +409,7 @@ necro_frames=[
     {
         "name": "qcb.hp",
         "desc": "Flying Viper (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/4/4e/%28necrofvi%29.gif",
+        "pic": "framedata/img/ne-qcbp.gif",
         "damage": "160",
         "startup": "26",
         "hit": "7",
@@ -420,7 +420,7 @@ necro_frames=[
     {
         "name": "qcb.lk",
         "desc": "Rising Cobra (Short)",
-        "pic": "http://wiki.shoryuken.com/images/8/89/%28necrorsc%29.gif",
+        "pic": "framedata/img/ne-qcbk.gif",
         "damage": "130",
         "startup": "23",
         "hit": "4",
@@ -431,7 +431,7 @@ necro_frames=[
     {
         "name": "qcb.mk",
         "desc": "Rising Cobra (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/8/89/%28necrorsc%29.gif",
+        "pic": "framedata/img/ne-qcbk.gif",
         "damage": "150",
         "startup": "25",
         "hit": "4",
@@ -442,7 +442,7 @@ necro_frames=[
     {
         "name": "qcb.hk",
         "desc": "Rising Cobra (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/8/89/%28necrorsc%29.gif",
+        "pic": "framedata/img/ne-qcbk.gif",
         "damage": "170",
         "startup": "27",
         "hit": "4",
@@ -453,7 +453,7 @@ necro_frames=[
     {
         "name": "dp.lp",
         "desc": "Denji Blast (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28necrodjbl%29.gif",
+        "pic": "framedata/img/ne-dp.gif",
         "damage": "60",
         "startup": "6/11/16",
         "hit": "2",
@@ -464,7 +464,7 @@ necro_frames=[
     {
         "name": "dp.mp",
         "desc": "Denji Blast (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28necrodjbl%29.gif",
+        "pic": "framedata/img/ne-dp.gif",
         "damage": "60x3",
         "startup": "8/10/14",
         "hit": "2",
@@ -475,7 +475,7 @@ necro_frames=[
     {
         "name": "dp.hp",
         "desc": "Denji Blast (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28necrodjbl%29.gif",
+        "pic": "framedata/img/ne-dp.gif",
         "damage": "60x5",
         "startup": "10/12/14/16/18",
         "hit": "2",
@@ -486,7 +486,7 @@ necro_frames=[
     {
         "name": "hcf.lk",
         "desc": "Snake Fang/ German Suplex (Short)",
-        "pic": "http://wiki.shoryuken.com/images/2/20/%28necrosnkf%29.gif",
+        "pic": "framedata/img/ne-hcfk.gif",
         "damage": "140/200",
         "startup": "12/6",
         "hit": "1/2",
@@ -497,7 +497,7 @@ necro_frames=[
     {
         "name": "hcf.mk",
         "desc": "Snake Fang/ German Suplex (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/2/20/%28necrosnkf%29.gif",
+        "pic": "framedata/img/ne-hcfk.gif",
         "damage": "150/240",
         "startup": "12/6",
         "hit": "1/2",
@@ -508,7 +508,7 @@ necro_frames=[
     {
         "name": "hcf.hk",
         "desc": "Snake Fang/ German Suplex (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/2/20/%28necrosnkf%29.gif",
+        "pic": "framedata/img/ne-hcfk.gif",
         "damage": "160/280",
         "startup": "12/6",
         "hit": "1/2",
@@ -519,7 +519,7 @@ necro_frames=[
     {
         "name": "hcf.2p",
         "desc": "Tornado Hook (EX)",
-        "pic": "http://wiki.shoryuken.com/images/e/ef/%28necrothkex%29.gif",
+        "pic": "framedata/img/ne-hcfp.gif",
         "damage": "50x5",
         "startup": "8/21/31/41/52",
         "hit": "4/3/3/3/4",
@@ -530,7 +530,7 @@ necro_frames=[
     {
         "name": "qcb.2p",
         "desc": "Flying Viper (EX)",
-        "pic": "http://wiki.shoryuken.com/images/d/de/%28necrofvex%29.gif",
+        "pic": "framedata/img/ne-qcbp.gif",
         "damage": "80+120",
         "startup": "24/28",
         "hit": "5/4",
@@ -541,7 +541,7 @@ necro_frames=[
     {
         "name": "qcb.2k",
         "desc": "Rising Cobra (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/5d/%28necrorsex%29.gif",
+        "pic": "framedata/img/ne-qcbk.gif",
         "damage": "100+110",
         "startup": "25/27",
         "hit": "2/2",
@@ -552,7 +552,7 @@ necro_frames=[
     {
         "name": "sa1",
         "desc": "Magnetic Storm",
-        "pic": "http://wiki.shoryuken.com/images/8/83/%28necrosa1%29.gif",
+        "pic": "framedata/img/ne-sa1.gif",
         "damage": "370",
         "startup": "2",
         "hit": "4+(3+3)x5+8",
@@ -563,7 +563,7 @@ necro_frames=[
     {
         "name": "sa2",
         "desc": "Slam Dance",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28necrosa2%29.gif",
+        "pic": "framedata/img/ne-sa2.gif",
         "damage": "470",
         "startup": "3",
         "hit": "6",
@@ -574,7 +574,7 @@ necro_frames=[
     {
         "name": "sa3",
         "desc": "Electric Snake",
-        "pic": "http://wiki.shoryuken.com/images/0/0d/%28necrosa3%29.gif",
+        "pic": "framedata/img/ne-sa3.gif",
         "damage": "280",
         "startup": "3/11/21",
         "hit": "3",
