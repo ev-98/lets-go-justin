@@ -50,7 +50,10 @@ async def mu(ctx, c1, c2):
 @client.command()
 async def frames(ctx, c1, mv):
     arg = get_frames(c1,mv)
-    await ctx.send(embed=arg)
+    fileurl = arg[1]
+    file = discord.File(fileurl, filename="image.gif")
+    arg[0].set_image(url = 'attachment://image.gif' )
+    await ctx.send(embed=arg[0], file=file)
 
 def get_mu(c1,c2):
     c1=c1.strip()
@@ -193,16 +196,15 @@ def get_frames(c1,mv):
 
     if data:
         embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
-       # file embed isn't working :/
-       # file = discord.File('al-taunt.gif')
-        embed.set_image(url=data["pic"])
+      
+        filename = data["pic"]
         embed.add_field(name="Damage", value=data["damage"], inline=True)
         embed.add_field(name="Startup", value=data["startup"], inline=True)
         embed.add_field(name="Hit", value=data["hit"], inline=True)
         embed.add_field(name="Recovery", value=data["recovery"], inline=True)
         embed.add_field(name="Block advantage", value=data["block_adv"], inline=True)
         embed.add_field(name="Hit advantage", value=data["hit_adv"], inline=True)
-        return embed
+        return embed, filename
     else:
         return f'No move found at `{mv}`. Please check for correct spelling and spacing.'
 

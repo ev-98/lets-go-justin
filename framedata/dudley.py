@@ -2,7 +2,7 @@ dudley_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/5/57/%28dudleyt%29.gif",
+        "pic": "framedata/img/du-taunt.gif",
         "damage": "5",
         "startup": "19",
         "hit": "1",
@@ -13,7 +13,7 @@ dudley_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28dudleylp%29.gif",
+        "pic": "framedata/img/du-lp.gif",
         "damage": "15",
         "startup": "3",
         "hit": "2",
@@ -24,7 +24,7 @@ dudley_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28dudleymp%29.gif",
+        "pic": "framedata/img/du-mp.gif",
         "damage": "60",
         "startup": "3",
         "hit": "2",
@@ -35,7 +35,7 @@ dudley_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/c/c7/%28dudleyhp%29.gif",
+        "pic": "framedata/img/du-hp.gif",
         "damage": "140",
         "startup": "7",
         "hit": "3",
@@ -46,7 +46,7 @@ dudley_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28dudleylk%29.gif",
+        "pic": "framedata/img/du-lk.gif",
         "damage": "35",
         "startup": "5",
         "hit": "2",
@@ -57,7 +57,7 @@ dudley_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28dudleymk%29.gif",
+        "pic": "framedata/img/du-mk.gif",
         "damage": "80",
         "startup": "5",
         "hit": "3",
@@ -68,7 +68,7 @@ dudley_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28dudleyhk%29.gif",
+        "pic": "framedata/img/du-hk.gif",
         "damage": "120",
         "startup": "5",
         "hit": "3",
@@ -79,7 +79,7 @@ dudley_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/1/18/%28dudleyjlp%29.gif",
+        "pic": "framedata/img/du-alp.gif",
         "damage": "40",
         "startup": "3",
         "hit": "4",
@@ -90,7 +90,7 @@ dudley_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/2/2d/%28dudleyjmp%29.gif",
+        "pic": "framedata/img/du-amp.gif",
         "damage": "70",
         "startup": "4",
         "hit": "4(5 neutral jump)",
@@ -101,7 +101,7 @@ dudley_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28dudleyjhp%29.gif",
+        "pic": "framedata/img/du-ahp.gif",
         "damage": "120",
         "startup": "7",
         "hit": "3",
@@ -112,7 +112,7 @@ dudley_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28dudleyjlk%29.gif",
+        "pic": "framedata/img/du-alk.gif",
         "damage": "40",
         "startup": "3",
         "hit": "17",
@@ -123,7 +123,7 @@ dudley_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/0/02/%28dudleyjmk%29.gif",
+        "pic": "framedata/img/du-amk.gif",
         "damage": "60",
         "startup": "4",
         "hit": "13",
@@ -134,7 +134,7 @@ dudley_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28dudleyjhk%29.gif",
+        "pic": "framedata/img/du-ahk.gif",
         "damage": "90",
         "startup": "11",
         "hit": "4",
@@ -145,7 +145,7 @@ dudley_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/b/b4/%28dudleyoh%29.gif",
+        "pic": "framedata/img/du-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -156,7 +156,7 @@ dudley_frames=[
     {
         "name": "lp+lk",
         "desc": "Liver Crusher",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28dudleylct%29.gif",
+        "pic": "framedata/img/du-throw.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -167,7 +167,7 @@ dudley_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Dynamite Throw",
-        "pic": "http://wiki.shoryuken.com/images/3/30/%28dudleydttr%29.gif",
+        "pic": "framedata/img/du-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ dudley_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Dynamite Throw",
-        "pic": "http://wiki.shoryuken.com/images/3/30/%28dudleydttr%29.gif",
+        "pic": "framedata/img/du-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ dudley_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28dudleyclp%29.gif",
+        "pic": "framedata/img/du-clp.gif",
         "damage": "15",
         "startup": "3",
         "hit": "1",
@@ -200,7 +200,7 @@ dudley_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/c2/%28dudleycmp%29.gif",
+        "pic": "framedata/img/du-cmp.gif",
         "damage": "70",
         "startup": "4",
         "hit": "2",
@@ -211,7 +211,7 @@ dudley_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/0/09/%28dudleychp%29.gif",
+        "pic": "framedata/img/du-chp.gif",
         "damage": "130",
         "startup": "7",
         "hit": "4",
@@ -222,7 +222,7 @@ dudley_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/f/fd/%28dudleyclk%29.gif",
+        "pic": "framedata/img/du-clk.gif",
         "damage": "30",
         "startup": "4",
         "hit": "1",
@@ -233,7 +233,7 @@ dudley_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/c/c4/%28dudleycmk%29.gif",
+        "pic": "framedata/img/du-cmk.gif",
         "damage": "60",
         "startup": "9",
         "hit": "3",
@@ -244,7 +244,7 @@ dudley_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/1/1f/%28dudleychk%29.gif",
+        "pic": "framedata/img/du-chk.gif",
         "damage": "130",
         "startup": "15",
         "hit": "3",
@@ -255,7 +255,7 @@ dudley_frames=[
     {
         "name": "f.lp",
         "desc": "Slipping Jab",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28dudleyflp%29.gif",
+        "pic": "framedata/img/du-flp.gif",
         "damage": "25",
         "startup": "4",
         "hit": "2",
@@ -266,7 +266,7 @@ dudley_frames=[
     {
         "name": "f.mp",
         "desc": "Stomach Blow",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28dudleyfmp%29.gif",
+        "pic": "framedata/img/du-fmp.gif",
         "damage": "80",
         "startup": "8",
         "hit": "5",
@@ -277,7 +277,7 @@ dudley_frames=[
     {
         "name": "f.hp",
         "desc": "Step Straight",
-        "pic": "http://wiki.shoryuken.com/images/4/40/%28dudleyfhp%29.gif",
+        "pic": "framedata/img/du-fhp.gif",
         "damage": "140",
         "startup": "15",
         "hit": "5",
@@ -288,7 +288,7 @@ dudley_frames=[
     {
         "name": "f.mk",
         "desc": "Lever Blow",
-        "pic": "http://wiki.shoryuken.com/images/e/eb/%28dudleyfmk%29.gif",
+        "pic": "framedata/img/du-fmk.gif",
         "damage": "100",
         "startup": "5",
         "hit": "2",
@@ -299,7 +299,7 @@ dudley_frames=[
     {
         "name": "f.hk",
         "desc": "Dart Shot",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28dudleyfhk%29.gif",
+        "pic": "framedata/img/du-fhk.gif",
         "damage": "110",
         "startup": "12",
         "hit": "4",
@@ -310,7 +310,7 @@ dudley_frames=[
     {
         "name": "dp.lp",
         "desc": "Jet Upper (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/du-dp.gif",
         "damage": "140",
         "startup": "4",
         "hit": "8",
@@ -321,7 +321,7 @@ dudley_frames=[
     {
         "name": "dp.mp",
         "desc": "Jet Upper (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/du-dp.gif",
         "damage": "160",
         "startup": "4",
         "hit": "16",
@@ -332,7 +332,7 @@ dudley_frames=[
     {
         "name": "dp.hp",
         "desc": "Jet Upper (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28makotohayate%29.gif",
+        "pic": "framedata/img/du-dp.gif",
         "damage": "180",
         "startup": "3/4",
         "hit": "1/20",
@@ -343,7 +343,7 @@ dudley_frames=[
     {
         "name": "dp.2p",
         "desc": "Jet Upper (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/f3/%28dudleyjupex%29.gif",
+        "pic": "framedata/img/du-dp.gif",
         "damage": "220",
         "startup": "3/4",
         "hit": "1/20",
@@ -354,7 +354,7 @@ dudley_frames=[
     {
         "name": "hcf.lp",
         "desc": "Machine Gun Blow (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28dudleymgb%29.gif",
+        "pic": "framedata/img/du-hcfp.gif",
         "damage": "150",
         "startup": "8/10/18",
         "hit": "2/2/4",
@@ -365,7 +365,7 @@ dudley_frames=[
     {
         "name": "hcf.mp",
         "desc": "Machine Gun Blow (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28dudleymgb%29.gif",
+        "pic": "framedata/img/du-hcfp.gif",
         "damage": "165",
         "startup": "15/17/19/27",
         "hit": "2/2/1/4",
@@ -376,7 +376,7 @@ dudley_frames=[
     {
         "name": "hcf.hp",
         "desc": "Machine Gun Blow (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28dudleymgb%29.gif",
+        "pic": "framedata/img/du-hcfp.gif",
         "damage": "185",
         "startup": "15/17/19/27",
         "hit": "2/2/1/4",
@@ -387,7 +387,7 @@ dudley_frames=[
     {
         "name": "hcf.2p",
         "desc": "Machine Gun Blow (EX)",
-        "pic": "http://wiki.shoryuken.com/images/8/87/%28dudleymgbex%29.gif",
+        "pic": "framedata/img/du-hcfp.gif",
         "damage": "190",
         "startup": "16-46",
         "hit": "2/2/2/2/1/4/4",
@@ -398,7 +398,7 @@ dudley_frames=[
     {
         "name": "hcb.lp",
         "desc": "Cross Counter (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/9/91/%28dudleycrco%29.gif",
+        "pic": "framedata/img/du-hcbp.gif",
         "damage": "80+move damage",
         "startup": "2",
         "hit": "68",
@@ -409,7 +409,7 @@ dudley_frames=[
     {
         "name": "hcb.mp",
         "desc": "Cross Counter (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/9/91/%28dudleycrco%29.gif",
+        "pic": "framedata/img/du-hcbp.gif",
         "damage": "100+move damage",
         "startup": "2",
         "hit": "49",
@@ -420,7 +420,7 @@ dudley_frames=[
     {
         "name": "hcb.hp",
         "desc": "Cross Counter (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/9/91/%28dudleycrco%29.gif",
+        "pic": "framedata/img/du-hcbp.gif",
         "damage": "130+move damage",
         "startup": "4",
         "hit": "28",
@@ -431,7 +431,7 @@ dudley_frames=[
     {
         "name": "hcb.2p",
         "desc": "Cross Counter (EX)",
-        "pic": "http://wiki.shoryuken.com/images/a/ab/%28dudleyccex%29.gif",
+        "pic": "framedata/img/du-hcbp.gif",
         "damage": "160+move damage",
         "startup": "4",
         "hit": "29",
@@ -442,7 +442,7 @@ dudley_frames=[
    {
         "name": "hcb.lk",
         "desc": "Short Swing Blow (Short)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28dudleyssbex%29.gif",
+        "pic": "framedata/img/du-hcbk.gif",
         "damage": "200",
         "startup": "17",
         "hit": "3",
@@ -453,7 +453,7 @@ dudley_frames=[
     {
         "name": "hcb.mk",
         "desc": "Short Swing Blow (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28dudleyssbex%29.gif",
+        "pic": "framedata/img/du-hcbk.gif",
         "damage": "200",
         "startup": "20",
         "hit": "3",
@@ -464,7 +464,7 @@ dudley_frames=[
     {
         "name": "hcb.mk",
         "desc": "Short Swing Blow (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28dudleyssbex%29.gif",
+        "pic": "framedata/img/du-hcbk.gif",
         "damage": "200",
         "startup": "23",
         "hit": "3",
@@ -475,7 +475,7 @@ dudley_frames=[
     {
         "name": "hcb.2k",
         "desc": "Short Swing Blow (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28dudleyssbex%29.gif",
+        "pic": "framedata/img/du-hcbk.gif",
         "damage": "200",
         "startup": "17/27/41",
         "hit": "2/4/4",
@@ -486,7 +486,7 @@ dudley_frames=[
     {
         "name": "hcf.k,lp",
         "desc": "Ducking Straight (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28dudleyduckst%29.gif",
+        "pic": "framedata/img/du-hcfkp.gif",
         "damage": "160",
         "startup": "20",
         "hit": "4",
@@ -497,7 +497,7 @@ dudley_frames=[
     {
         "name": "hcf.k,mp",
         "desc": "Ducking Straight (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28dudleyduckst%29.gif",
+        "pic": "framedata/img/du-hcfkp.gif",
         "damage": "160",
         "startup": "20",
         "hit": "4",
@@ -508,7 +508,7 @@ dudley_frames=[
     {
         "name": "hcf.k,hp",
         "desc": "Ducking Straight (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28dudleyduckst%29.gif",
+        "pic": "framedata/img/du-hcfkp.gif",
         "damage": "160",
         "startup": "20",
         "hit": "4",
@@ -519,7 +519,7 @@ dudley_frames=[
     {
         "name": "hcf.k,lk",
         "desc": "Ducking Uppercut (Short)",
-        "pic": "http://wiki.shoryuken.com/images/e/ee/%28dudleyduckup%29.gif",
+        "pic": "framedata/img/du-hcfkk.gif",
         "damage": "180",
         "startup": "19/20",
         "hit": "1/3",
@@ -530,7 +530,7 @@ dudley_frames=[
     {
         "name": "hcf.k,mk",
         "desc": "Ducking Uppercut (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/e/ee/%28dudleyduckup%29.gif",
+        "pic": "framedata/img/du-hcfkk.gif",
         "damage": "180",
         "startup": "19/20",
         "hit": "1/3",
@@ -541,7 +541,7 @@ dudley_frames=[
     {
         "name": "hcf.k,hk",
         "desc": "Ducking Uppercut (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/e/ee/%28dudleyduckup%29.gif",
+        "pic": "framedata/img/du-hcfkk.gif",
         "damage": "180",
         "startup": "19/20",
         "hit": "1/3",
@@ -552,7 +552,7 @@ dudley_frames=[
     {
         "name": "sa1",
         "desc": "Rocket Upper",
-        "pic": "http://wiki.shoryuken.com/images/4/45/%28dudleysa1%29.gif",
+        "pic": "framedata/img/du-sa1.gif",
         "damage": "375",
         "startup": "1-70",
         "hit": "3/5/3/8/3/2/3/3/3/3/1",
@@ -563,7 +563,7 @@ dudley_frames=[
     {
         "name": "sa2",
         "desc": "Rolling Thunder",
-        "pic": "http://wiki.shoryuken.com/images/e/e0/%28dudleysa2%29.gif",
+        "pic": "framedata/img/du-sa2.gif",
         "damage": "415",
         "startup": "2",
         "hit": "2",
@@ -574,7 +574,7 @@ dudley_frames=[
     {
         "name": "sa3",
         "desc": "Corkscrew Blow",
-        "pic": "http://wiki.shoryuken.com/images/5/5c/%28dudleysa3%29.gif",
+        "pic": "framedata/img/du-sa3.gif",
         "damage": "275",
         "startup": "1/3/5/7/9",
         "hit": "2x5",

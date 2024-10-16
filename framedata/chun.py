@@ -2,7 +2,7 @@ chun_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/b/bc/%28chunlit1%29.gif",
+        "pic": "framedata/img/ch-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "59",
@@ -13,7 +13,7 @@ chun_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/a9/%28chunlilp%29.gif",
+        "pic": "framedata/img/ch-lp.gif",
         "damage": "15",
         "startup": "3",
         "hit": "5",
@@ -24,7 +24,7 @@ chun_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28chunlimp%29.gif",
+        "pic": "framedata/img/ch-mp.gif",
         "damage": "100",
         "startup": "6",
         "hit": "8",
@@ -35,7 +35,7 @@ chun_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/8/8b/%28chunlihp%29.gif",
+        "pic": "framedata/img/ch-hp.gif",
         "damage": "110",
         "startup": "8",
         "hit": "6",
@@ -46,7 +46,7 @@ chun_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/c/cc/%28chunlicloselp%29.gif",
+        "pic": "framedata/img/ch-closelp.gif",
         "damage": "30",
         "startup": "2",
         "hit": "2",
@@ -57,7 +57,7 @@ chun_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28chunlilk%29.gif",
+        "pic": "framedata/img/ch-lk.gif",
         "damage": "40",
         "startup": "3",
         "hit": "5",
@@ -68,7 +68,7 @@ chun_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/8a/%28chunlimk%29.gif",
+        "pic": "framedata/img/ch-mk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "6",
@@ -79,7 +79,7 @@ chun_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/c/cd/%28chunlihk%29.gif",
+        "pic": "framedata/img/ch-hk.gif",
         "damage": "120",
         "startup": "12",
         "hit": "1",
@@ -90,7 +90,7 @@ chun_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/d/d2/%28chunliclosemk%29.gif",
+        "pic": "framedata/img/ch-closemk.gif",
         "damage": "80",
         "startup": "6",
         "hit": "2",
@@ -101,7 +101,7 @@ chun_frames=[
     {
         "name": "close.hk",
         "desc": "Close Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28chunliclosehk%29.gif",
+        "pic": "framedata/img/ch-closehk.gif",
         "damage": "120",
         "startup": "4",
         "hit": "9",
@@ -112,7 +112,7 @@ chun_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/a3/%28chunlijlp%29.gif",
+        "pic": "framedata/img/ch-alp.gif",
         "damage": "40",
         "startup": "2(4 neutral jump)",
         "hit": "until land",
@@ -123,7 +123,7 @@ chun_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/c1/%28chunlijmp%29.gif",
+        "pic": "framedata/img/ch-amp.gif",
         "damage": "60(80 neutral jump)",
         "startup": "4(6 neutral jump)",
         "hit": "until land",
@@ -134,7 +134,7 @@ chun_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/4/40/%28chunlijhp%29.gif",
+        "pic": "framedata/img/ch-ahp.gif",
         "damage": "80(130 neutral jump)",
         "startup": "9(10 neutral jump)",
         "hit": "6(3 neutral jump)",
@@ -145,7 +145,7 @@ chun_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/1/1f/%28chunlijlk%29.gif",
+        "pic": "framedata/img/ch-alk.gif",
         "damage": "50(40 neutral jump)",
         "startup": "5",
         "hit": "until land(22 neutral jump)",
@@ -156,7 +156,7 @@ chun_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/a/a2/%28chunlijmk%29.gif",
+        "pic": "framedata/img/ch-amk.gif",
         "damage": "90(80 neutral jump)",
         "startup": "6",
         "hit": "13(2 neutral jump)",
@@ -167,7 +167,7 @@ chun_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/6/64/%28chunlijhk%29.gif",
+        "pic": "framedata/img/ch-ahk.gif",
         "damage": "110(130 neutral jump)",
         "startup": "10(8 neutral jump)",
         "hit": "3(5 neutral jump)",
@@ -178,7 +178,7 @@ chun_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/4/47/%28chunlioh%29.gif",
+        "pic": "framedata/img/ch-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -189,7 +189,7 @@ chun_frames=[
     {
         "name": "lp+lk",
         "desc": "Hiza Geri",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28chunlitr%29.gif",
+        "pic": "framedata/img/ch-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ chun_frames=[
     {
         "name": "air.lp+lk",
         "desc": "Seoi Nage",
-        "pic": "http://wiki.shoryuken.com/images/a/ac/%28chunliatr%29.gif",
+        "pic": "framedata/img/ch-airthrow.gif",
         "damage": "80",
         "startup": "5",
         "hit": "1",
@@ -211,7 +211,7 @@ chun_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/5/5f/%28chunliclp%29.gif",
+        "pic": "framedata/img/ch-clp.gif",
         "damage": "15",
         "startup": "2",
         "hit": "4",
@@ -222,7 +222,7 @@ chun_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28chunlicmp%29.gif",
+        "pic": "framedata/img/ch-cmp.gif",
         "damage": "90",
         "startup": "8",
         "hit": "2",
@@ -233,7 +233,7 @@ chun_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/3/3f/%28chunlichp%29.gif",
+        "pic": "framedata/img/ch-chp.gif",
         "damage": "130",
         "startup": "8",
         "hit": "2",
@@ -244,7 +244,7 @@ chun_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/c/c7/%28chunliclk%29.gif",
+        "pic": "framedata/img/ch-clk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "2",
@@ -255,7 +255,7 @@ chun_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/f/f8/%28chunlicmk%29.gif",
+        "pic": "framedata/img/ch-cmk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "2",
@@ -266,7 +266,7 @@ chun_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/c/cb/%28chunlichk%29.gif",
+        "pic": "framedata/img/ch-chk.gif",
         "damage": "110",
         "startup": "7",
         "hit": "3",
@@ -277,7 +277,7 @@ chun_frames=[
     {
         "name": "b.mp",
         "desc": "Souren Shou",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28chunlibmp%29.gif",
+        "pic": "framedata/img/ch-bmp.gif",
         "damage": "110",
         "startup": "5",
         "hit": "2,1",
@@ -288,7 +288,7 @@ chun_frames=[
     {
         "name": "b.hp",
         "desc": "Hakkei",
-        "pic": "http://wiki.shoryuken.com/images/1/10/%28chunlibhp%29.gif",
+        "pic": "framedata/img/ch-bhp.gif",
         "damage": "130",
         "startup": "7",
         "hit": "9",
@@ -299,7 +299,7 @@ chun_frames=[
     {
         "name": "f.mk",
         "desc": "Senjou Shuu",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28chunlifmk%29.gif",
+        "pic": "framedata/img/ch-fmk.gif",
         "damage": "80",
         "startup": "11",
         "hit": "7",
@@ -310,7 +310,7 @@ chun_frames=[
     {
         "name": "hold.mk",
         "desc": "Kakushu Raku Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28chunlimkmk%29.gif",
+        "pic": "framedata/img/ch-mkmk.gif",
         "damage": "120",
         "startup": "6",
         "hit": "6",
@@ -321,7 +321,7 @@ chun_frames=[
     {
         "name": "f.hk",
         "desc": "Yoku Sen Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/0/0e/%28chunlifhk%29.gif",
+        "pic": "framedata/img/ch-fhk.gif",
         "damage": "120",
         "startup": "12",
         "hit": "1",
@@ -332,7 +332,7 @@ chun_frames=[
     {
         "name": "df.hk",
         "desc": "Tenshin Shuu Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/9/9e/%28chunlidfhk%29.gif",
+        "pic": "framedata/img/ch-dfhk.gif",
         "damage": "110",
         "startup": "37",
         "hit": "5",
@@ -343,7 +343,7 @@ chun_frames=[
     {
         "name": "air.d.mk",
         "desc": "Yosou Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28chunlijdmk%29.gif",
+        "pic": "framedata/img/ch-admk.gif",
         "damage": "50",
         "startup": "9",
         "hit": "until land",
@@ -354,7 +354,7 @@ chun_frames=[
     {
         "name": "hcf.lp",
         "desc": "Kikkoken (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlikikoken%29.gif",
+        "pic": "framedata/img/ch-hcfp.gif",
         "damage": "45",
         "startup": "13",
         "hit": "1",
@@ -365,7 +365,7 @@ chun_frames=[
     {
         "name": "hcf.mp",
         "desc": "Kikkoken (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlikikoken%29.gif",
+        "pic": "framedata/img/ch-hcfp.gif",
         "damage": "50",
         "startup": "12",
         "hit": "1",
@@ -376,7 +376,7 @@ chun_frames=[
     {
         "name": "hcf.mp",
         "desc": "Kikkoken (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlikikoken%29.gif",
+        "pic": "framedata/img/ch-hcfp.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -387,7 +387,7 @@ chun_frames=[
     {
         "name": "hcf.2p",
         "desc": "Kikkoken (EX)",
-        "pic": "http://wiki.shoryuken.com/images/0/03/%28chunlikikokenex%29.gif",
+        "pic": "framedata/img/ch-hcfp.gif",
         "damage": "80",
         "startup": "14",
         "hit": "1",
@@ -398,7 +398,7 @@ chun_frames=[
     {
         "name": "rapid.lk",
         "desc": "Hyakuretsu Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlihkk%29.gif",
+        "pic": "framedata/img/ch-legs.gif",
         "damage": "150",
         "startup": "6+10+13+17",
         "hit": "2+1+2+2",
@@ -409,7 +409,7 @@ chun_frames=[
     {
         "name": "rapid.mk",
         "desc": "Hyakuretsu Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlihkk%29.gif",
+        "pic": "framedata/img/ch-legs.gif",
         "damage": "160",
         "startup": "6+9+12+15",
         "hit": "1+1+1+1",
@@ -418,9 +418,9 @@ chun_frames=[
         "hit_adv": "+3"
     },
     {
-        "name": "rapid.mk",
+        "name": "rapid.hk",
         "desc": "Hyakuretsu Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28chunlihkk%29.gif",
+        "pic": "framedata/img/ch-legs.gif",
         "damage": "165",
         "startup": "5+7+9+11+13+15+17+19",
         "hit": "1+1+1+1+1+1+1+1",
@@ -431,7 +431,7 @@ chun_frames=[
     {
         "name": "rapid.2k",
         "desc": "Hyakuretsu Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/0/0e/%28chunlihrkex%29.gif",
+        "pic": "framedata/img/ch-legs.gif",
         "damage": "210",
         "startup": "3+5+7+9",
         "hit": "1+1+1+1",
@@ -442,7 +442,7 @@ chun_frames=[
     {
         "name": "charge.lk",
         "desc": "Spinning Bird Kick (Short)",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28chunlisbk%29.gif",
+        "pic": "framedata/img/ch-sbk.gif",
         "damage": "140",
         "startup": "12+13+18+23",
         "hit": "1x4",
@@ -453,7 +453,7 @@ chun_frames=[
     {
         "name": "charge.mk",
         "desc": "Spinning Bird Kick (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28chunlisbk%29.gif",
+        "pic": "framedata/img/ch-sbk.gif",
         "damage": "175",
         "startup": "14+15+20+25+30+35",
         "hit": "1x6",
@@ -464,7 +464,7 @@ chun_frames=[
     {
         "name": "charge.hk",
         "desc": "Spinning Bird Kick (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28chunlisbk%29.gif",
+        "pic": "framedata/img/ch-sbk.gif",
         "damage": "195",
         "startup": "17+18+23+28+33+38+43+48",
         "hit": "1x6",
@@ -475,7 +475,7 @@ chun_frames=[
     {
         "name": "charge.2k",
         "desc": "Spinning Bird Kick (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/6d/%28chunlisbkex%29.gif",
+        "pic": "framedata/img/ch-sbk.gif",
         "damage": "175",
         "startup": "12+17+22+27+32",
         "hit": "2x5",
@@ -486,7 +486,7 @@ chun_frames=[
     {
         "name": "hcb.lk",
         "desc": "Hazan Shu (Short)",
-        "pic": "http://wiki.shoryuken.com/images/e/e4/%28chunlihzs%29.gif",
+        "pic": "framedata/img/ch-hcbk.gif",
         "damage": "100",
         "startup": "22",
         "hit": "3",
@@ -497,7 +497,7 @@ chun_frames=[
     {
         "name": "hcb.mk",
         "desc": "Hazan Shu (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/e/e4/%28chunlihzs%29.gif",
+        "pic": "framedata/img/ch-hcbk.gif",
         "damage": "110",
         "startup": "24",
         "hit": "3",
@@ -508,7 +508,7 @@ chun_frames=[
     {
         "name": "hcb.hk",
         "desc": "Hazan Shu (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/e/e4/%28chunlihzs%29.gif",
+        "pic": "framedata/img/ch-hcbk.gif",
         "damage": "120",
         "startup": "29",
         "hit": "3",
@@ -519,7 +519,7 @@ chun_frames=[
     {
         "name": "hcb.2k",
         "desc": "Hazan Shu (EX)",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28chunlihzsex%29.gif",
+        "pic": "framedata/img/ch-hcbk.gif",
         "damage": "160",
         "startup": "6",
         "hit": "1",
@@ -530,7 +530,7 @@ chun_frames=[
     {
         "name": "sa1",
         "desc": "Kikoshou",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28chunlisa1%29.gif",
+        "pic": "framedata/img/ch-sa1.gif",
         "damage": "360",
         "startup": "1-30",
         "hit": "1x20",
@@ -541,7 +541,7 @@ chun_frames=[
     {
         "name": "sa2",
         "desc": "Houyoku Sen",
-        "pic": "http://wiki.shoryuken.com/images/9/99/%28chunlisa2%29.gif",
+        "pic": "framedata/img/ch-sa2.gif",
         "damage": "390",
         "startup": "3-71",
         "hit": "1x16 + 3",
@@ -552,7 +552,7 @@ chun_frames=[
     {
         "name": "sa3",
         "desc": "Tensei Ranka",
-        "pic": "http://wiki.shoryuken.com/images/e/ef/%28chunlisa3%29.gif",
+        "pic": "framedata/img/ch-sa3.gif",
         "damage": "280",
         "startup": "3-30",
         "hit": "3+1x5+3+4+1",
