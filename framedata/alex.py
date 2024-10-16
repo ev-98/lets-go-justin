@@ -2,7 +2,7 @@ alex_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "img/al-taunt.gif",
+        "pic": "https://wiki.supercombo.gg/images/7/7a/%28alext%29.gif",
         "damage": "5/5",
         "startup": "N/A",
         "hit": "64",

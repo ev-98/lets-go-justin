@@ -5,7 +5,9 @@ import matchupdata
 import framedata
 import config
 
-client = commands.Bot(command_prefix = '3s.')
+ints = discord.Intents.all()
+
+client = commands.Bot(command_prefix='3s.',intents=ints)
 client.remove_command('help')
 
 @client.event
@@ -191,8 +193,8 @@ def get_frames(c1,mv):
 
     if data:
         embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
-        file = discord.File(data["pic"], filename="image.gif")
-        embed.set_image(url="attachment://image.gif")
+        file = discord.File('al-taunt.gif')
+        embed.set_image(url=data["pic"])
         embed.add_field(name="Damage", value=data["damage"], inline=True)
         embed.add_field(name="Startup", value=data["startup"], inline=True)
         embed.add_field(name="Hit", value=data["hit"], inline=True)
