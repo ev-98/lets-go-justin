@@ -2,7 +2,7 @@ yang_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/d/d4/%28yangt%29.gif",
+        "pic": "framedata/img/ya-taunt.gif",
         "damage": "5",
         "startup": "21",
         "hit": "10",
@@ -13,7 +13,7 @@ yang_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/b/b0/%28yanglp%29.gif",
+        "pic": "framedata/img/ya-lp.gif",
         "damage": "20",
         "startup": "3",
         "hit": "2",
@@ -24,7 +24,7 @@ yang_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28yangmp%29.gif",
+        "pic": "framedata/img/ya-mp.gif",
         "damage": "50",
         "startup": "5",
         "hit": "4",
@@ -35,7 +35,7 @@ yang_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/1/15/%28yanghp%29.gif",
+        "pic": "framedata/img/ya-hp.gif",
         "damage": "120",
         "startup": "9",
         "hit": "62",
@@ -46,7 +46,7 @@ yang_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/e/eb/%28yangclosemp%29.gif",
+        "pic": "framedata/img/ya-closemp.gif",
         "damage": "55",
         "startup": "4",
         "hit": "3",
@@ -57,7 +57,7 @@ yang_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/a3/%28yangclosehp%29.gif",
+        "pic": "framedata/img/ya-closehp.gif",
         "damage": "100",
         "startup": "5",
         "hit": "3",
@@ -68,7 +68,7 @@ yang_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/a/a9/%28yanglk%29.gif",
+        "pic": "framedata/img/ya-lk.gif",
         "damage": "30",
         "startup": "3",
         "hit": "3",
@@ -79,7 +79,7 @@ yang_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/f/f9/%28yangmk%29.gif",
+        "pic": "framedata/img/ya-mk.gif",
         "damage": "80",
         "startup": "9",
         "hit": "3",
@@ -90,7 +90,7 @@ yang_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28yanghk%29.gif",
+        "pic": "framedata/img/ya-hk.gif",
         "damage": "100",
         "startup": "14",
         "hit": "3",
@@ -101,7 +101,7 @@ yang_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28yangclosemk%29.gif",
+        "pic": "framedata/img/ya-closemk.gif",
         "damage": "80",
         "startup": "7",
         "hit": "3",
@@ -112,7 +112,7 @@ yang_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/9/90/%28yangjlp%29.gif",
+        "pic": "framedata/img/ya-alp.gif",
         "damage": "40",
         "startup": "2",
         "hit": "until land",
@@ -123,7 +123,7 @@ yang_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/3/37/%28yangjmp%29.gif",
+        "pic": "framedata/img/ya-amp.gif",
         "damage": "80",
         "startup": "3",
         "hit": "6(7 neutral jump)",
@@ -134,7 +134,7 @@ yang_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/4/49/%28yangjhp%29.gif",
+        "pic": "framedata/img/ya-ahp.gif",
         "damage": "100(120 neutral jump)",
         "startup": "5(8 neutral jump)",
         "hit": "4(5 neutral jump)",
@@ -145,7 +145,7 @@ yang_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/7/71/%28yangjlk%29.gif",
+        "pic": "framedata/img/ya-alk.gif",
         "damage": "40",
         "startup": "3(4 neutral jump)",
         "hit": "12",
@@ -156,7 +156,7 @@ yang_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28yangjmk%29.gif",
+        "pic": "framedata/img/ya-amk.gif",
         "damage": "70",
         "startup": "6",
         "hit": "7",
@@ -167,7 +167,7 @@ yang_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28yangjhk%29.gif",
+        "pic": "framedata/img/ya-ahk.gif",
         "damage": "110",
         "startup": "5",
         "hit": "5",
@@ -178,7 +178,7 @@ yang_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/a/a4/%28yangoh%29.gif",
+        "pic": "framedata/img/ya-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -189,7 +189,7 @@ yang_frames=[
     {
         "name": "lp+lk",
         "desc": "Hiza Geri",
-        "pic": "http://wiki.shoryuken.com/images/6/65/%28yanghg%29.gif",
+        "pic": "framedata/img/ya-throw.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ yang_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Youhon Shiun",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yangyst%29.gif",
+        "pic": "framedata/img/ya-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ yang_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Monkey Flip",
-        "pic": "http://wiki.shoryuken.com/images/e/ef/%28yangmf%29.gif",
+        "pic": "framedata/img/ya-bthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ yang_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28yunclp%29.gif",
+        "pic": "framedata/img/ya-clp.gif",
         "damage": "20",
         "startup": "3",
         "hit": "2",
@@ -233,7 +233,7 @@ yang_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/4/4c/%28yangcmp%29.gif",
+        "pic": "framedata/img/ya-cmp.gif",
         "damage": "70",
         "startup": "5",
         "hit": "2",
@@ -244,7 +244,7 @@ yang_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28yangchp%29.gif",
+        "pic": "framedata/img/ya-chp.gif",
         "damage": "110",
         "startup": "8",
         "hit": "7",
@@ -255,7 +255,7 @@ yang_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28yangclk%29.gif",
+        "pic": "framedata/img/ya-clk.gif",
         "damage": "30",
         "startup": "4",
         "hit": "1",
@@ -266,7 +266,7 @@ yang_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28yangcmk%29.gif",
+        "pic": "framedata/img/ya-cmk.gif",
         "damage": "50",
         "startup": "7",
         "hit": "2",
@@ -277,7 +277,7 @@ yang_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/a/a3/%28yangchk%29.gif",
+        "pic": "framedata/img/ya-chk.gif",
         "damage": "90",
         "startup": "10",
         "hit": "3",
@@ -288,7 +288,7 @@ yang_frames=[
     {
         "name": "f.mk",
         "desc": "Senpuu Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28yangfmk%29.gif",
+        "pic": "framedata/img/ya-fmk.gif",
         "damage": "80",
         "startup": "19",
         "hit": "6",
@@ -299,7 +299,7 @@ yang_frames=[
     {
         "name": "f.hp",
         "desc": "Koushu",
-        "pic": "http://wiki.shoryuken.com/images/4/48/%28yangfhp%29.gif",
+        "pic": "framedata/img/ya-fhp.gif",
         "damage": "120",
         "startup": "9",
         "hit": "6",
@@ -310,7 +310,7 @@ yang_frames=[
     {
         "name": "air.d.mk",
         "desc": "Raigeki Shuu",
-        "pic": "http://wiki.shoryuken.com/images/f/fa/%28yangjdk%29.gif",
+        "pic": "framedata/img/ya-adfk.gif",
         "damage": "70",
         "startup": "6/6/8",
         "hit": "land",
@@ -321,7 +321,7 @@ yang_frames=[
     {
         "name": "qcf.lp",
         "desc": "Tourou-Zan (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yangtrz%29.gif",
+        "pic": "framedata/img/ya-qcfp.gif",
         "damage": "30+35+90",
         "startup": "8/6/7",
         "hit": "5/5/4",
@@ -332,7 +332,7 @@ yang_frames=[
     {
         "name": "qcf.mp",
         "desc": "Tourou-Zan (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yangtrz%29.gif",
+        "pic": "framedata/img/ya-qcfp.gif",
         "damage": "35+40+95",
         "startup": "8/7/7",
         "hit": "5/5/5",
@@ -343,7 +343,7 @@ yang_frames=[
     {
         "name": "qcf.hp",
         "desc": "Tourou-Zan (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yangtrz%29.gif",
+        "pic": "framedata/img/ya-qcfp.gif",
         "damage": "40+45+100",
         "startup": "8/8/7",
         "hit": "5/5/6",
@@ -354,7 +354,7 @@ yang_frames=[
     {
         "name": "qcf.2p",
         "desc": "Tourou-Zan (EX)",
-        "pic": "http://wiki.shoryuken.com/images/7/7a/%28yangmsex%29.gif",
+        "pic": "framedata/img/ya-qcfp.gif",
         "damage": "40+50x4",
         "startup": "7/7/5/5/4",
         "hit": "2/2/2/2/4",
@@ -365,7 +365,7 @@ yang_frames=[
     {
         "name": "dp.lk",
         "desc": "Kaibou (Short)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28yangkbu%29.gif",
+        "pic": "framedata/img/ya-dpk.gif",
         "damage": "N/A",
         "startup": "8",
         "hit": "29",
@@ -376,7 +376,7 @@ yang_frames=[
     {
         "name": "dp.mk",
         "desc": "Kaibou (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28yangkbu%29.gif",
+        "pic": "framedata/img/ya-dpk.gif",
         "damage": "N/A",
         "startup": "10",
         "hit": "34",
@@ -387,7 +387,7 @@ yang_frames=[
     {
         "name": "dp.hk",
         "desc": "Kaibou (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28yangkbu%29.gif",
+        "pic": "framedata/img/ya-dpk.gif",
         "damage": "N/A",
         "startup": "10",
         "hit": "43",
@@ -398,7 +398,7 @@ yang_frames=[
     {
         "name": "qcf.lk",
         "desc": "Senkyuutai (Short)",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28yangskt%29.gif",
+        "pic": "framedata/img/ya-qcfk.gif",
         "damage": "130",
         "startup": "8-12",
         "hit": "4/4",
@@ -409,7 +409,7 @@ yang_frames=[
     {
         "name": "qcf.mk",
         "desc": "Senkyuutai (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28yangskt%29.gif",
+        "pic": "framedata/img/ya-qcfk.gif",
         "damage": "140",
         "startup": "4-16/8-20",
         "hit": "4/4",
@@ -420,7 +420,7 @@ yang_frames=[
     {
         "name": "qcf.hk",
         "desc": "Senkyuutai (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28yangskt%29.gif",
+        "pic": "framedata/img/ya-qcfk.gif",
         "damage": "150",
         "startup": "3-29/5-31/7-33",
         "hit": "4/4",
@@ -429,9 +429,9 @@ yang_frames=[
         "hit_adv": "knd"
     },
     {
-        "name": "qcf.hk",
+        "name": "qcf.2k",
         "desc": "Senkyuutai (EX)",
-        "pic": "http://wiki.shoryuken.com/images/9/91/%28yangrkkex%29.gif",
+        "pic": "framedata/img/ya-qcfk.gif",
         "damage": "200",
         "startup": "3-29/5-31/7-33",
         "hit": "2/2/4",
@@ -442,7 +442,7 @@ yang_frames=[
     {
         "name": "sa1",
         "desc": "Raishin-Mahhaken",
-        "pic": "http://wiki.shoryuken.com/images/3/37/%28yangsa1%29.gif",
+        "pic": "framedata/img/ya-sa1.gif",
         "damage": "465",
         "startup": "7",
         "hit": "4",
@@ -453,7 +453,7 @@ yang_frames=[
     {
         "name": "sa2",
         "desc": "Tenshin-Senkyutai",
-        "pic": "http://wiki.shoryuken.com/images/b/bb/%28yangsa2%29.gif",
+        "pic": "framedata/img/ya-sa2.gif",
         "damage": "315",
         "startup": "3~67",
         "hit": "3+2+3+3+4+2",
@@ -464,7 +464,7 @@ yang_frames=[
     {
         "name": "sa3",
         "desc": "Sei-ei Enbu",
-        "pic": "http://wiki.shoryuken.com/images/4/40/%28yangsa3%29.gif",
+        "pic": "framedata/img/ya-sa3.gif",
         "damage": "N/A",
         "startup": "16",
         "hit": "N/A",

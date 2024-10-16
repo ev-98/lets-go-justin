@@ -2,7 +2,7 @@ sean_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/a/a4/%28seant%29.gif",
+        "pic": "framedata/img/se-taunt.gif",
         "damage": "1",
         "startup": "31",
         "hit": "N/A",
@@ -13,7 +13,7 @@ sean_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/7/73/%28seanlp%29.gif",
+        "pic": "framedata/img/se-lp.gif",
         "damage": "20",
         "startup": "3",
         "hit": "2",
@@ -24,7 +24,7 @@ sean_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28seanmp%29.gif",
+        "pic": "framedata/img/se-mp.gif",
         "damage": "80",
         "startup": "5",
         "hit": "4",
@@ -35,7 +35,7 @@ sean_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/f/f8/%28seanhp%29.gif",
+        "pic": "framedata/img/se-hp.gif",
         "damage": "120",
         "startup": "9",
         "hit": "4",
@@ -46,7 +46,7 @@ sean_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28seanclosemp%29.gif",
+        "pic": "framedata/img/se-closemp.gif",
         "damage": "90",
         "startup": "4",
         "hit": "5",
@@ -57,7 +57,7 @@ sean_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/%28seanclosehp%29.gif",
+        "pic": "framedata/img/se-closehp.gif",
         "damage": "120",
         "startup": "5",
         "hit": "5",
@@ -68,7 +68,7 @@ sean_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/5/5e/%28seanlk%29.gif",
+        "pic": "framedata/img/se-lk.gif",
         "damage": "30",
         "startup": "4",
         "hit": "4",
@@ -79,7 +79,7 @@ sean_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/1/13/%28seanmk%29.gif",
+        "pic": "framedata/img/se-mk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "4",
@@ -90,7 +90,7 @@ sean_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28seanfhk%29.gif",
+        "pic": "framedata/img/se-hk.gif",
         "damage": "120",
         "startup": "7",
         "hit": "4",
@@ -101,7 +101,7 @@ sean_frames=[
     {
         "name": "close.hk",
         "desc": "Close Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/c/c1/%28seanclosehk%29.gif",
+        "pic": "framedata/img/se-closehk.gif",
         "damage": "145",
         "startup": "5",
         "hit": "5",
@@ -112,7 +112,7 @@ sean_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/9/95/%28seanjlp%29.gif",
+        "pic": "framedata/img/se-alp.gif",
         "damage": "50(40 neutral jump)",
         "startup": "4(5 neutral jump)",
         "hit": "until land",
@@ -123,7 +123,7 @@ sean_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28seanjmp%29.gif",
+        "pic": "framedata/img/se-amp.gif",
         "damage": "90",
         "startup": "5(6 neutral jump)",
         "hit": "14",
@@ -134,7 +134,7 @@ sean_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28seajhp%29.gif",
+        "pic": "framedata/img/se-ahp.gif",
         "damage": "130",
         "startup": "6(7 neutral jump)",
         "hit": "4(3 neutral jump)",
@@ -145,7 +145,7 @@ sean_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/2/25/%28seanjlk%29.gif",
+        "pic": "framedata/img/se-alk.gif",
         "damage": "50",
         "startup": "4(5 neutral jump)",
         "hit": "10(19 neutral jump)",
@@ -156,7 +156,7 @@ sean_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/57/%28seanjmk%29.gif",
+        "pic": "framedata/img/se-amk.gif",
         "damage": "90",
         "startup": "5",
         "hit": "6",
@@ -167,7 +167,7 @@ sean_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28seanjhk%29.gif",
+        "pic": "framedata/img/se-ahk.gif",
         "damage": "110(130 neutral jump)",
         "startup": "6(7 neutral jump)",
         "hit": "4(5 neutral jump)",
@@ -178,7 +178,7 @@ sean_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28seanuoh%29.gif",
+        "pic": "framedata/img/se-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "8",
@@ -189,7 +189,7 @@ sean_frames=[
     {
         "name": "lp+lk",
         "desc": "Seoi Throw",
-        "pic": "http://wiki.shoryuken.com/images/3/31/%28seanhg%29.gif",
+        "pic": "framedata/img/se-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ sean_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Seoi Throw",
-        "pic": "http://wiki.shoryuken.com/images/3/31/%28seanhg%29.gif",
+        "pic": "framedata/img/se-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ sean_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Tomoe Throw",
-        "pic": "http://wiki.shoryuken.com/images/d/de/%28seansn%29.gif",
+        "pic": "framedata/img/se-bthrow.gif",
         "damage": "140",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ sean_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/1/16/%28seanclp%29.gif",
+        "pic": "framedata/img/se-clp.gif",
         "damage": "20",
         "startup": "4",
         "hit": "3",
@@ -233,7 +233,7 @@ sean_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/f/f1/%28seancmp%29.gif",
+        "pic": "framedata/img/se-cmp.gif",
         "damage": "80",
         "startup": "5",
         "hit": "4",
@@ -244,7 +244,7 @@ sean_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/f/fc/%28seanchp%29.gif",
+        "pic": "framedata/img/se-chp.gif",
         "damage": "120",
         "startup": "7",
         "hit": "5",
@@ -255,7 +255,7 @@ sean_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/f/f9/%28seanclk%29.gif",
+        "pic": "framedata/img/se-clk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -266,7 +266,7 @@ sean_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/35/%28seancmk%29.gif",
+        "pic": "framedata/img/se-cmk.gif",
         "damage": "70",
         "startup": "7",
         "hit": "5",
@@ -277,7 +277,7 @@ sean_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28seanchk%29.gif",
+        "pic": "framedata/img/se-chk.gif",
         "damage": "120",
         "startup": "8",
         "hit": "5",
@@ -288,7 +288,7 @@ sean_frames=[
     {
         "name": "f.hk",
         "desc": "Rolling Sabat",
-        "pic": "http://wiki.shoryuken.com/images/5/52/%28seanthk%29.gif",
+        "pic": "framedata/img/se-fhk.gif",
         "damage": "90",
         "startup": "15",
         "hit": "5",
@@ -299,7 +299,7 @@ sean_frames=[
     {
         "name": "f.hp",
         "desc": "Sean Pachiki",
-        "pic": "http://wiki.shoryuken.com/images/a/af/%28seanthp%29.gif",
+        "pic": "framedata/img/se-fhp.gif",
         "damage": "140",
         "startup": "21",
         "hit": "7",
@@ -310,7 +310,7 @@ sean_frames=[
     {
         "name": "qcf.lp",
         "desc": "Zenten",
-        "pic": "http://wiki.shoryuken.com/images/e/e0/%28seanzenten%29.gif",
+        "pic": "framedata/img/se-taunt.gif",
         "damage": "N/A",
         "startup": "2",
         "hit": "17",
@@ -321,7 +321,7 @@ sean_frames=[
     {
         "name": "qcf.mp",
         "desc": "Zenten",
-        "pic": "http://wiki.shoryuken.com/images/e/e0/%28seanzenten%29.gif",
+        "pic": "framedata/img/se-taunt.gif",
         "damage": "N/A",
         "startup": "2",
         "hit": "27",
@@ -332,7 +332,7 @@ sean_frames=[
     {
         "name": "qcf.hp",
         "desc": "Zenten",
-        "pic": "http://wiki.shoryuken.com/images/e/e0/%28seanzenten%29.gif",
+        "pic": "framedata/img/se-taunt.gif",
         "damage": "N/A",
         "startup": "2",
         "hit": "41",
@@ -343,7 +343,7 @@ sean_frames=[
     {
         "name": "qcf.lk",
         "desc": "Ryuubi Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28seanwheel%29.gif",
+        "pic": "framedata/img/se-qcfk.gif",
         "damage": "120",
         "startup": "25",
         "hit": "8",
@@ -354,7 +354,7 @@ sean_frames=[
     {
         "name": "qcf.mk",
         "desc": "Ryuubi Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28seanwheel%29.gif",
+        "pic": "framedata/img/se-qcfk.gif",
         "damage": "120",
         "startup": "25",
         "hit": "8",
@@ -365,7 +365,7 @@ sean_frames=[
     {
         "name": "qcf.hk",
         "desc": "Ryuubi Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28seanwheel%29.gif",
+        "pic": "framedata/img/se-qcfk.gif",
         "damage": "120",
         "startup": "25",
         "hit": "8",
@@ -376,7 +376,7 @@ sean_frames=[
     {
         "name": "dp.lp",
         "desc": "Dragon Smash (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28seands%29.gif",
+        "pic": "framedata/img/se-dp.gif",
         "damage": "130",
         "startup": "5",
         "hit": "6",
@@ -387,7 +387,7 @@ sean_frames=[
     {
         "name": "dp.mp",
         "desc": "Dragon Smash (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28seands%29.gif",
+        "pic": "framedata/img/se-dp.gif",
         "damage": "130",
         "startup": "7",
         "hit": "8",
@@ -398,7 +398,7 @@ sean_frames=[
     {
         "name": "dp.hp",
         "desc": "Dragon Smash (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28seands%29.gif",
+        "pic": "framedata/img/se-dp.gif",
         "damage": "130",
         "startup": "9",
         "hit": "10",
@@ -409,7 +409,7 @@ sean_frames=[
     {
         "name": "qcb.lk",
         "desc": "Tornado (Short)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28seandtornadokick%29.gif",
+        "pic": "framedata/img/se-qcbk.gif",
         "damage": "50+50",
         "startup": "11",
         "hit": "2",
@@ -420,7 +420,7 @@ sean_frames=[
     {
         "name": "qcb.mk",
         "desc": "Tornado (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28seandtornadokick%29.gif",
+        "pic": "framedata/img/se-qcbk.gif",
         "damage": "50x3",
         "startup": "14",
         "hit": "2",
@@ -431,7 +431,7 @@ sean_frames=[
     {
         "name": "qcb.hk",
         "desc": "Tornado (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28seandtornadokick%29.gif",
+        "pic": "framedata/img/se-qcbk.gif",
         "damage": "50+40x3",
         "startup": "16",
         "hit": "3",
@@ -442,7 +442,7 @@ sean_frames=[
     {
         "name": "hcf.lp",
         "desc": "Tackle (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/5/57/%28seantacklefull%29.gif",
+        "pic": "framedata/img/se-hcfp.gif",
         "damage": "180",
         "startup": "18",
         "hit": "2",
@@ -453,7 +453,7 @@ sean_frames=[
     {
         "name": "hcf.mp",
         "desc": "Tackle (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/5/57/%28seantacklefull%29.gif",
+        "pic": "framedata/img/se-hcfp.gif",
         "damage": "180",
         "startup": "22",
         "hit": "2",
@@ -464,7 +464,7 @@ sean_frames=[
     {
         "name": "hcf.hp",
         "desc": "Tackle (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/5/57/%28seantacklefull%29.giff",
+        "pic": "framedata/img/se-hcfp.gif",
         "damage": "180",
         "startup": "26",
         "hit": "2",
@@ -473,9 +473,9 @@ sean_frames=[
         "hit_adv": "knd"
     },
     {
-        "name": "qcf.2p",
+        "name": "qcf.2k",
         "desc": "Ryuubi Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/2/2b/%28seanhdkex%29.gif",
+        "pic": "framedata/img/se-qcfp.gif",
         "damage": "60+70+70",
         "startup": "25/27/29/31",
         "hit": "2/2/2/2",
@@ -486,7 +486,7 @@ sean_frames=[
     {
         "name": "dp.2p",
         "desc": "Dragon Smash (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/fc/%28seansrkex%29.gif",
+        "pic": "framedata/img/se-dp.gif",
         "damage": "90+90",
         "startup": "8/9",
         "hit": "1/11",
@@ -497,7 +497,7 @@ sean_frames=[
     {
         "name": "qcb.2k",
         "desc": "Tornado (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28seantskex%29.gif",
+        "pic": "framedata/img/se-qcbk.gif",
         "damage": "60+(40x3)",
         "startup": "9/21/30/40",
         "hit": "2/3/4/2",
@@ -508,7 +508,7 @@ sean_frames=[
     {
         "name": "hcf.2p",
         "desc": "Tackle (EX)",
-        "pic": "http://wiki.shoryuken.com/images/9/95/%28seanatskex%29.gif",
+        "pic": "framedata/img/se-hcfp.gif",
         "damage": "260",
         "startup": "28",
         "hit": "2",
@@ -519,7 +519,7 @@ sean_frames=[
     {
         "name": "sa1",
         "desc": "Hadou Burst",
-        "pic": "http://wiki.shoryuken.com/images/c/c8/%28seansa1%29.gif",
+        "pic": "framedata/img/se-sa1.gif",
         "damage": "220",
         "startup": "2",
         "hit": "1",
@@ -530,7 +530,7 @@ sean_frames=[
     {
         "name": "sa2",
         "desc": "Shoryu Cannon",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28seansa2%29.gif",
+        "pic": "framedata/img/se-sa2.gif",
         "damage": "390(14 hits)",
         "startup": "1~54",
         "hit": "2/7/2x3/1x10",
@@ -541,7 +541,7 @@ sean_frames=[
     {
         "name": "sa3",
         "desc": "Hyper Tornado",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28seansa3%29.gif",
+        "pic": "framedata/img/se-sa3.gif",
         "damage": "460",
         "startup": "2",
         "hit": "14",

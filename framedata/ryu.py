@@ -2,7 +2,7 @@ ryu_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/e/e7/%28ryut%29.gif",
+        "pic": "framedata/img/ry-taunt.gif",
         "damage": "N/A",
         "startup": "66",
         "hit": "N/A",
@@ -13,7 +13,7 @@ ryu_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/1/13/%28ryulp%29.gif",
+        "pic": "framedata/img/ry-lp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "3",
@@ -24,7 +24,7 @@ ryu_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28ryump%29.gif",
+        "pic": "framedata/img/ry-mp.gif",
         "damage": "100",
         "startup": "5",
         "hit": "4",
@@ -35,7 +35,7 @@ ryu_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/ae/%28ryuhp%29.gif",
+        "pic": "framedata/img/ry-hp.gif",
         "damage": "130",
         "startup": "11",
         "hit": "3",
@@ -46,7 +46,7 @@ ryu_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/6/6e/%28ryucloselp%29.gif",
+        "pic": "framedata/img/ry-closelp.gif",
         "damage": "30",
         "startup": "3",
         "hit": "3",
@@ -57,7 +57,7 @@ ryu_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/2/27/%28ryuclosemp%29.gif",
+        "pic": "framedata/img/ry-closemp.gif",
         "damage": "100",
         "startup": "5",
         "hit": "4",
@@ -68,7 +68,7 @@ ryu_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ryuclosehp%29.gif",
+        "pic": "framedata/img/ry-closehp.gif",
         "damage": "130",
         "startup": "4",
         "hit": "4",
@@ -79,7 +79,7 @@ ryu_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/9/99/%28ryulk%29.gif",
+        "pic": "framedata/img/ry-lk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "4",
@@ -90,7 +90,7 @@ ryu_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/8a/%28ryumk%29.gif",
+        "pic": "framedata/img/ry-mk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "4",
@@ -101,7 +101,7 @@ ryu_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28ryuhk%29.gif",
+        "pic": "framedata/img/ry-hk.gif",
         "damage": "140",
         "startup": "8",
         "hit": "5",
@@ -112,7 +112,7 @@ ryu_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28ryuclosemk%29.gif",
+        "pic": "framedata/img/ry-closemk.gif",
         "damage": "110",
         "startup": "4",
         "hit": "5",
@@ -123,7 +123,7 @@ ryu_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/1/17/%28ryujlp%29.gif",
+        "pic": "framedata/img/ry-alp.gif",
         "damage": "50",
         "startup": "4",
         "hit": "until land",
@@ -134,7 +134,7 @@ ryu_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/95/%28ryujmp%29.gif",
+        "pic": "framedata/img/ry-amp.gif",
         "damage": "100",
         "startup": "4(5 neutral jump)",
         "hit": "2(5 neutral jump)",
@@ -145,7 +145,7 @@ ryu_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/aa/%28ryujhp%29.gif",
+        "pic": "framedata/img/ry-ahp.gif",
         "damage": "140",
         "startup": "6",
         "hit": "4(3 neutral jump)",
@@ -156,7 +156,7 @@ ryu_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/3/32/%28ryujlk%29.gif",
+        "pic": "framedata/img/ry-alk.gif",
         "damage": "50",
         "startup": "4",
         "hit": "19",
@@ -167,7 +167,7 @@ ryu_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/0/0f/%28ryujmk%29.gif",
+        "pic": "framedata/img/ry-amk.gif",
         "damage": "90",
         "startup": "5",
         "hit": "6",
@@ -178,7 +178,7 @@ ryu_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28ryujhk%29.gif",
+        "pic": "framedata/img/ry-ahk.gif",
         "damage": "120(130 neutral jump)",
         "startup": "6",
         "hit": "4(5 neutral jump)",
@@ -189,7 +189,7 @@ ryu_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/1/1b/%28ryuoh%29.gif",
+        "pic": "framedata/img/ry-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "9",
@@ -200,7 +200,7 @@ ryu_frames=[
     {
         "name": "lp+lk",
         "desc": "Seoi Nage",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28ryusgtr%29.gif",
+        "pic": "framedata/img/ry-fthrow.gif",
         "damage": "110",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ ryu_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Tomoe Nage",
-        "pic": "http://wiki.shoryuken.com/images/7/7c/%28ryutntr%29.gif",
+        "pic": "framedata/img/ry-bthrow.gif",
         "damage": "110",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ ryu_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/08/%28ryuclp%29.gif",
+        "pic": "framedata/img/ry-clp.gif",
         "damage": "15",
         "startup": "4",
         "hit": "3",
@@ -233,7 +233,7 @@ ryu_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/9b/%28ryucmp%29.gif",
+        "pic": "framedata/img/ry-cmp.gif",
         "damage": "90",
         "startup": "5",
         "hit": "4",
@@ -244,7 +244,7 @@ ryu_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/4/48/%28ryuchp%29.gif",
+        "pic": "framedata/img/ry-chp.gif",
         "damage": "130",
         "startup": "5",
         "hit": "5",
@@ -255,7 +255,7 @@ ryu_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/0/0d/%28ryuclk%29.gif",
+        "pic": "framedata/img/ry-clk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -266,7 +266,7 @@ ryu_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28ryucmk%29.gif",
+        "pic": "framedata/img/ry-cmk.gif",
         "damage": "80",
         "startup": "7",
         "hit": "5",
@@ -277,7 +277,7 @@ ryu_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/4/4f/%28ryuchk%29.gif",
+        "pic": "framedata/img/ry-chk.gif",
         "damage": "130",
         "startup": "7",
         "hit": "5",
@@ -288,7 +288,7 @@ ryu_frames=[
     {
         "name": "f.mp",
         "desc": "Sakotsu Wari",
-        "pic": "http://wiki.shoryuken.com/images/6/60/%28ryufmp%29.gif",
+        "pic": "framedata/img/ry-fmp.gif",
         "damage": "100",
         "startup": "14",
         "hit": "1,11",
@@ -299,7 +299,7 @@ ryu_frames=[
     {
         "name": "f.hp",
         "desc": "Kyuubi Kudaki",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28ryuhfp%29.gif",
+        "pic": "framedata/img/ry-fhp.gif",
         "damage": "70+80",
         "startup": "18",
         "hit": "2,4",
@@ -310,7 +310,7 @@ ryu_frames=[
     {
         "name": "qcf.lp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28ryuhdk%29.gif",
+        "pic": "framedata/img/ry-qcfp.gif",
         "damage": "60",
         "startup": "9",
         "hit": "1",
@@ -321,7 +321,7 @@ ryu_frames=[
     {
         "name": "qcf.mp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28ryuhdk%29.gif",
+        "pic": "framedata/img/ry-qcfp.gif",
         "damage": "60",
         "startup": "9",
         "hit": "1",
@@ -332,7 +332,7 @@ ryu_frames=[
     {
         "name": "qcf.hp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28ryuhdk%29.gif",
+        "pic": "framedata/img/ry-qcfp.gif",
         "damage": "60",
         "startup": "9",
         "hit": "1",
@@ -343,7 +343,7 @@ ryu_frames=[
     {
         "name": "qcf.2p",
         "desc": "Hadouken (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/17/%28ryuhdkex%29.gif",
+        "pic": "framedata/img/ry-qcfp.gif",
         "damage": "60+60",
         "startup": "8",
         "hit": "1",
@@ -354,7 +354,7 @@ ryu_frames=[
     {
         "name": "qcb.lk",
         "desc": "Tatsumaki Senpuu Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/f/f9/%28ryutsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "130",
         "startup": "10",
         "hit": "3",
@@ -365,7 +365,7 @@ ryu_frames=[
     {
         "name": "qcb.mk",
         "desc": "Tatsumaki Senpuu Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/f/f9/%28ryutsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "150",
         "startup": "11/(17)/23/(29)/35",
         "hit": "2x5",
@@ -376,7 +376,7 @@ ryu_frames=[
     {
         "name": "qcb.hk",
         "desc": "Tatsumaki Senpuu Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/f/f9/%28ryutsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "170",
         "startup": "11/(17)/23/(29)/35",
         "hit": "2x5",
@@ -387,7 +387,7 @@ ryu_frames=[
     {
         "name": "qcb.2k",
         "desc": "Tatsumaki Senpuu Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/0/02/%28ryutskex%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "210",
         "startup": "10/(14)/18/(22)/26/(31)",
         "hit": "2x6",
@@ -398,7 +398,7 @@ ryu_frames=[
     {
         "name": "air.qcb.lk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/8/83/%28ryuatsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "160",
         "startup": "7/(13)/19/(25)/31",
         "hit": "2",
@@ -409,7 +409,7 @@ ryu_frames=[
     {
         "name": "air.qcb.mk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/8/83/%28ryuatsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "160",
         "startup": "7/(13)/19/(25)/31",
         "hit": "2",
@@ -420,7 +420,7 @@ ryu_frames=[
     {
         "name": "air.qcb.hk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/8/83/%28ryuatsk%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "160",
         "startup": "7/(13)/19/(25)/31",
         "hit": "2",
@@ -431,7 +431,7 @@ ryu_frames=[
     {
         "name": "air.qcb.2k",
         "desc": "Air Tatsumaki Senpuu Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/3/3b/%28ryuatskex%29.gif",
+        "pic": "framedata/img/ry-qcbk.gif",
         "damage": "185",
         "startup": "6/(9)/12/(15)/18/(21)",
         "hit": "1x6",
@@ -442,7 +442,7 @@ ryu_frames=[
     {
         "name": "dp.lp",
         "desc": "Shoryuken (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/2/28/%28ryusrk%29.gif",
+        "pic": "framedata/img/ry-dp.gif",
         "damage": "140",
         "startup": "3",
         "hit": "11",
@@ -453,7 +453,7 @@ ryu_frames=[
     {
         "name": "dp.mp",
         "desc": "Shoryuken (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/2/28/%28ryusrk%29.gif",
+        "pic": "framedata/img/ry-dp.gif",
         "damage": "155",
         "startup": "3",
         "hit": "14",
@@ -464,7 +464,7 @@ ryu_frames=[
     {
         "name": "dp.hp",
         "desc": "Shoryuken (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/2/28/%28ryusrk%29.gif",
+        "pic": "framedata/img/ry-dp.gif",
         "damage": "170",
         "startup": "3",
         "hit": "18",
@@ -475,7 +475,7 @@ ryu_frames=[
     {
         "name": "dp.2p",
         "desc": "Shoryuken (EX)",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28ryusrkex%29.gif",
+        "pic": "framedata/img/ry-dp.gif",
         "damage": "190",
         "startup": "2/4",
         "hit": "2/7",
@@ -486,7 +486,7 @@ ryu_frames=[
     {
         "name": "hcf.lk",
         "desc": "Joudan Sokutou Geri (Short)",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28ryujsg%29.gif",
+        "pic": "framedata/img/ry-hcfk.gif",
         "damage": "120",
         "startup": "10",
         "hit": "3",
@@ -497,7 +497,7 @@ ryu_frames=[
     {
         "name": "hcf.mk",
         "desc": "Joudan Sokutou Geri (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28ryujsg%29.gif",
+        "pic": "framedata/img/ry-hcfk.gif",
         "damage": "140",
         "startup": "13",
         "hit": "3",
@@ -508,7 +508,7 @@ ryu_frames=[
     {
         "name": "hcf.hk",
         "desc": "Joudan Sokutou Geri (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28ryujsg%29.gif",
+        "pic": "framedata/img/ry-hcfk.gif",
         "damage": "160",
         "startup": "16",
         "hit": "3",
@@ -519,7 +519,7 @@ ryu_frames=[
     {
         "name": "hcf.2k",
         "desc": "Joudan Sokutou Geri (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/1e/%28ryujsgex%29.gif",
+        "pic": "framedata/img/ry-hcfk.gif",
         "damage": "120",
         "startup": "13",
         "hit": "4",
@@ -530,7 +530,7 @@ ryu_frames=[
     {
         "name": "sa1",
         "desc": "Shinkuu Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/a/aa/%28ryusa1%29.gif",
+        "pic": "framedata/img/ry-sa1.gif",
         "damage": "315",
         "startup": "3",
         "hit": "1",
@@ -541,7 +541,7 @@ ryu_frames=[
     {
         "name": "sa2",
         "desc": "Shin Shoryuken (close/far)",
-        "pic": "http://wiki.shoryuken.com/images/8/89/%28ryusa2%29.gif",
+        "pic": "framedata/img/ry-sa2.gif",
         "damage": "570/210",
         "startup": "1-11/1-13",
         "hit": "1,2,2,10/2x7",
@@ -552,7 +552,7 @@ ryu_frames=[
     {
         "name": "sa3",
         "desc": "Denjin Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/6/66/%28ryusa3%29.gif",
+        "pic": "framedata/img/ry-sa3.gif",
         "damage": "60/120/165/225/270",
         "startup": "2-9/10-33/34-81/82-161/162-212",
         "hit": "2",

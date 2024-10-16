@@ -2,7 +2,7 @@ urien_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/f/fe/%28urient%29.gif",
+        "pic": "framedata/img/ur-taunt.gif",
         "damage": "5",
         "startup": "21",
         "hit": "3",
@@ -13,7 +13,7 @@ urien_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/Urienfarlp.gif",
+        "pic": "framedata/img/ur-lp.gif",
         "damage": "15",
         "startup": "4",
         "hit": "2",
@@ -24,7 +24,7 @@ urien_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/7/72/Urienfarmp.gif",
+        "pic": "framedata/img/ur-mp.gif",
         "damage": "80",
         "startup": "5",
         "hit": "5",
@@ -35,7 +35,7 @@ urien_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/d/dc/Urienfarhp.gif",
+        "pic": "framedata/img/ur-hp.gif",
         "damage": "130",
         "startup": "10",
         "hit": "4",
@@ -46,7 +46,7 @@ urien_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/3/35/Urienfarlk.gif",
+        "pic": "framedata/img/ur-lk.gif",
         "damage": "30",
         "startup": "5",
         "hit": "2",
@@ -57,7 +57,7 @@ urien_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/82/Urienfarmk.gif",
+        "pic": "framedata/img/ur-mk.gif",
         "damage": "80",
         "startup": "8",
         "hit": "2",
@@ -68,7 +68,7 @@ urien_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/f/f0/Urienfarhk.gif",
+        "pic": "framedata/img/ur-hk.gif",
         "damage": "140",
         "startup": "17",
         "hit": "3",
@@ -79,7 +79,7 @@ urien_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/4/49/Urienjumpinglp.gif",
+        "pic": "framedata/img/ur-alp.gif",
         "damage": "50",
         "startup": "4",
         "hit": "until land",
@@ -90,7 +90,7 @@ urien_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/af/Urienjumpingmp.gif",
+        "pic": "framedata/img/ur-amp.gif",
         "damage": "90",
         "startup": "6",
         "hit": "4",
@@ -101,7 +101,7 @@ urien_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/2/2c/Urienjumpinghp.gif",
+        "pic": "framedata/img/ur-ahp.gif",
         "damage": "130",
         "startup": "7",
         "hit": "3",
@@ -112,7 +112,7 @@ urien_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/0/05/Urienjumpinglk.gif",
+        "pic": "framedata/img/ur-alk.gif",
         "damage": "50",
         "startup": "4",
         "hit": "10",
@@ -123,7 +123,7 @@ urien_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/a/a0/Urienjumpingmk.gif",
+        "pic": "framedata/img/ur-amk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "4",
@@ -134,7 +134,7 @@ urien_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/3/36/Urienjumpinghk.gif",
+        "pic": "framedata/img/ur-ahk.gif",
         "damage": "130",
         "startup": "10",
         "hit": "3",
@@ -145,7 +145,7 @@ urien_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/2/2d/%28urienoh%29.gif",
+        "pic": "framedata/img/ur-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -156,7 +156,7 @@ urien_frames=[
     {
         "name": "lp+lk",
         "desc": "Destroy Claw",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28uriennt%29.gif",
+        "pic": "framedata/img/ur-throw.gif",
         "damage": "100",
         "startup": "2",
         "hit": "1",
@@ -167,7 +167,7 @@ urien_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Spartan Bomb",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28uriensbft%29.gif",
+        "pic": "framedata/img/ur-fthrow.gif",
         "damage": "140",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ urien_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Spartan Bomb",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28uriensbft%29.gif",
+        "pic": "framedata/img/ur-fthrow.gif",
         "damage": "140",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ urien_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/02/Uriencrouchinglp.gif",
+        "pic": "framedata/img/ur-clp.gif",
         "damage": "15",
         "startup": "4",
         "hit": "2",
@@ -200,7 +200,7 @@ urien_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/Uriencrouchingmp.gif",
+        "pic": "framedata/img/ur-cmp.gif",
         "damage": "60",
         "startup": "11",
         "hit": "4",
@@ -211,7 +211,7 @@ urien_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/Uriencrouchinghp.gif",
+        "pic": "framedata/img/ur-chp.gif",
         "damage": "110",
         "startup": "9",
         "hit": "1",
@@ -222,7 +222,7 @@ urien_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/Uriencrouchinglk.gif",
+        "pic": "framedata/img/ur-clk.gif",
         "damage": "15",
         "startup": "5",
         "hit": "1",
@@ -233,7 +233,7 @@ urien_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/9/9e/Uriencrouchingmk.gif",
+        "pic": "framedata/img/ur-cmk.gif",
         "damage": "70",
         "startup": "7",
         "hit": "3",
@@ -244,7 +244,7 @@ urien_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/d/d5/Uriencrouchinghk.gif",
+        "pic": "framedata/img/ur-chk.gif",
         "damage": "100",
         "startup": "12",
         "hit": "3",
@@ -255,7 +255,7 @@ urien_frames=[
     {
         "name": "f.mp",
         "desc": "Quarrel Punch",
-        "pic": "http://wiki.shoryuken.com/images/3/3b/%28urienfmp%29.gif",
+        "pic": "framedata/img/ur-fmp.gif",
         "damage": "80",
         "startup": "9",
         "hit": "2",
@@ -266,7 +266,7 @@ urien_frames=[
     {
         "name": "f.hp",
         "desc": "Terrible Smash",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28urienfhp%29.gif",
+        "pic": "framedata/img/ur-fhp.gif",
         "damage": "120",
         "startup": "14",
         "hit": "1",
@@ -277,7 +277,7 @@ urien_frames=[
     {
         "name": "f.mk",
         "desc": "Quarrel Kick",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28urienfhk%29.gif",
+        "pic": "framedata/img/ur-fmk.gif",
         "damage": "90",
         "startup": "16",
         "hit": "3",
@@ -288,7 +288,7 @@ urien_frames=[
     {
         "name": "qcf.lp",
         "desc": "Metallic Sphere (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/9/9c/%28urienmspherel%29.gif",
+        "pic": "framedata/img/ur-qcfp.gif",
         "damage": "70",
         "startup": "13-77",
         "hit": "1",
@@ -299,7 +299,7 @@ urien_frames=[
     {
         "name": "qcf.mp",
         "desc": "Metallic Sphere (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/b/b7/%28urienmspherem%29.gif",
+        "pic": "framedata/img/ur-qcfp.gif",
         "damage": "70",
         "startup": "13-77",
         "hit": "1",
@@ -310,7 +310,7 @@ urien_frames=[
     {
         "name": "qcf.hp",
         "desc": "Metallic Sphere (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28urienmsphereh%29.gif",
+        "pic": "framedata/img/ur-qcfp.gif",
         "damage": "70",
         "startup": "13-77",
         "hit": "1",
@@ -321,7 +321,7 @@ urien_frames=[
     {
         "name": "chargef.lk",
         "desc": "Chariot Tackle (Short)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28urientacklesh%29.gif",
+        "pic": "framedata/img/ur-fchargek.gif",
         "damage": "120",
         "startup": "7",
         "hit": "10",
@@ -332,7 +332,7 @@ urien_frames=[
     {
         "name": "chargef.mk",
         "desc": "Chariot Tackle (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28urientacklesh%29.gif",
+        "pic": "framedata/img/ur-fchargek.gif",
         "damage": "135",
         "startup": "10",
         "hit": "12",
@@ -343,7 +343,7 @@ urien_frames=[
     {
         "name": "chargef.hk",
         "desc": "Chariot Tackle (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28urientacklesh%29.gif",
+        "pic": "framedata/img/ur-fchargek.gif",
         "damage": "150",
         "startup": "13",
         "hit": "15",
@@ -354,7 +354,7 @@ urien_frames=[
     {
         "name": "chargeu.lk",
         "desc": "Violence Knee Drop (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/90/%28urienkneedrop%29.gif",
+        "pic": "framedata/img/ur-uchargek.gif",
         "damage": "110",
         "startup": "24",
         "hit": "12",
@@ -365,7 +365,7 @@ urien_frames=[
     {
         "name": "chargeu.mk",
         "desc": "Violence Knee Drop (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/90/%28urienkneedrop%29.gif",
+        "pic": "framedata/img/ur-uchargek.gif",
         "damage": "110",
         "startup": "24",
         "hit": "13",
@@ -376,7 +376,7 @@ urien_frames=[
     {
         "name": "chargeu.hk",
         "desc": "Violence Knee Drop (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/90/%28urienkneedrop%29.gif",
+        "pic": "framedata/img/ur-uchargek.gif",
         "damage": "110",
         "startup": "24",
         "hit": "16",
@@ -387,7 +387,7 @@ urien_frames=[
     {
         "name": "chargeu.lp",
         "desc": "Dangerous Headbutt (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28urienheadbutt%29.gif",
+        "pic": "framedata/img/ur-uchargep.gif",
         "damage": "120",
         "startup": "7",
         "hit": "2",
@@ -398,7 +398,7 @@ urien_frames=[
     {
         "name": "chargeu.mp",
         "desc": "Dangerous Headbutt (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28urienheadbutt%29.gif",
+        "pic": "framedata/img/ur-uchargep.gif",
         "damage": "130",
         "startup": "9",
         "hit": "4",
@@ -409,7 +409,7 @@ urien_frames=[
     {
         "name": "chargeu.hp",
         "desc": "Dangerous Headbutt (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28urienheadbutt%29.gif",
+        "pic": "framedata/img/ur-uchargep.gif",
         "damage": "140",
         "startup": "12",
         "hit": "6",
@@ -420,7 +420,7 @@ urien_frames=[
     {
         "name": "qcf.2p",
         "desc": "Metallic Sphere (EX)",
-        "pic": "http://wiki.shoryuken.com/images/b/b0/%28urienmsphex%29.gif",
+        "pic": "framedata/img/ur-qcfp.gif",
         "damage": "80+80",
         "startup": "13",
         "hit": "1",
@@ -431,7 +431,7 @@ urien_frames=[
     {
         "name": "chargef.2k",
         "desc": "Chariot Tackle (EX)",
-        "pic": "http://wiki.shoryuken.com/images/4/4a/%28urientackleex%29.gif",
+        "pic": "framedata/img/ur-fchargek.gif",
         "damage": "90+80",
         "startup": "6/30",
         "hit": "24/10",
@@ -442,7 +442,7 @@ urien_frames=[
     {
         "name": "chargeu.2p",
         "desc": "Dangerous Headbutt (EX)",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/%28urienhbtex%29.gif",
+        "pic": "framedata/img/ur-uchargep.gif",
         "damage": "80+80",
         "startup": "9/11",
         "hit": "2/2",
@@ -453,7 +453,7 @@ urien_frames=[
     {
         "name": "chargeu.2k",
         "desc": "Violence Knee Drop (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/fd/%28urienvkdex%29.gif",
+        "pic": "framedata/img/ur-uchargek.gif",
         "damage": "30+110",
         "startup": "26/32",
         "hit": "5/2",
@@ -464,7 +464,7 @@ urien_frames=[
     {
         "name": "sa1",
         "desc": "Tyrant Slaughter",
-        "pic": "http://wiki.shoryuken.com/images/a/a0/%28uriensa1%29.gif",
+        "pic": "framedata/img/ur-sa1.gif",
         "damage": "435",
         "startup": "1/20/40/56/68",
         "hit": "14/10/10/9/8",
@@ -475,7 +475,7 @@ urien_frames=[
     {
         "name": "sa2",
         "desc": "Temporial Thunder",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/%28uriensa2%29.gif",
+        "pic": "framedata/img/ur-taunt.gif",
         "damage": "270/260/220",
         "startup": "1",
         "hit": "1",
@@ -486,7 +486,7 @@ urien_frames=[
     {
         "name": "sa3",
         "desc": "Aegis Reflector",
-        "pic": "http://wiki.shoryuken.com/images/7/71/%28uriensa3pp%29.gif",
+        "pic": "framedata/img/ur-sa3.gif",
         "damage": "30x6",
         "startup": "12/24/32/0",
         "hit": "224/212/204/238",

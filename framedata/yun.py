@@ -2,7 +2,7 @@ yun_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/0/09/%28yunt%29.gif",
+        "pic": "framedata/img/yu-taunt.gif",
         "damage": "5",
         "startup": "28",
         "hit": "26",
@@ -13,7 +13,7 @@ yun_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/2/2c/%28yunlp%29.gif",
+        "pic": "framedata/img/yu-lp.gif",
         "damage": "15",
         "startup": "4",
         "hit": "2",
@@ -24,7 +24,7 @@ yun_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/1/12/%28yunmp%29.gif",
+        "pic": "framedata/img/yu-mp.gif",
         "damage": "50",
         "startup": "5",
         "hit": "4",
@@ -35,7 +35,7 @@ yun_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/9/9f/%28yunhp%29.gif",
+        "pic": "framedata/img/yu-hp.gif",
         "damage": "130",
         "startup": "9",
         "hit": "2",
@@ -46,7 +46,7 @@ yun_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/0a/%28yuncloselp%29.gif",
+        "pic": "framedata/img/yu-closelp.gif",
         "damage": "15",
         "startup": "3",
         "hit": "2",
@@ -57,7 +57,7 @@ yun_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/b/be/%28yunclosemp%29.gif",
+        "pic": "framedata/img/yu-closemp.gif",
         "damage": "60",
         "startup": "4",
         "hit": "3",
@@ -68,7 +68,7 @@ yun_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28yunclosehp%29.gif",
+        "pic": "framedata/img/yu-closehp.gif",
         "damage": "110",
         "startup": "6",
         "hit": "3",
@@ -79,7 +79,7 @@ yun_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/8/8e/%28yunlk%29.gif",
+        "pic": "framedata/img/yu-lk.gif",
         "damage": "35",
         "startup": "3",
         "hit": "3",
@@ -90,7 +90,7 @@ yun_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28yunmk%29.gif",
+        "pic": "framedata/img/yu-mk.gif",
         "damage": "80",
         "startup": "9",
         "hit": "3",
@@ -101,7 +101,7 @@ yun_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28yunhk%29.gif",
+        "pic": "framedata/img/yu-hk.gif",
         "damage": "100",
         "startup": "14",
         "hit": "4",
@@ -112,7 +112,7 @@ yun_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/2/25/%28yunclosemk%29.gif",
+        "pic": "framedata/img/yu-closemk.gif",
         "damage": "30",
         "startup": "5",
         "hit": "9",
@@ -123,7 +123,7 @@ yun_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28yunjlp%29.gif",
+        "pic": "framedata/img/yu-alp.gif",
         "damage": "40(60 neutral jump)",
         "startup": "2",
         "hit": "until land",
@@ -134,7 +134,7 @@ yun_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/8/88/%28yunjmp%29.gif",
+        "pic": "framedata/img/yu-amp.gif",
         "damage": "80",
         "startup": "3",
         "hit": "6(7 neutral jump)",
@@ -145,7 +145,7 @@ yun_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/1/14/%28yunjhp%29.gif",
+        "pic": "framedata/img/yu-ahp.gif",
         "damage": "100(120 neutral jump)",
         "startup": "5(8 neutral jump)",
         "hit": "4(5 neutral jump)",
@@ -156,7 +156,7 @@ yun_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/b/b1/%28yunjlk%29.gif",
+        "pic": "framedata/img/yu-alk.gif",
         "damage": "40",
         "startup": "3(4 neutral jump)",
         "hit": "12",
@@ -167,7 +167,7 @@ yun_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/5f/%28yunjmk%29.gif",
+        "pic": "framedata/img/yu-amk.gif",
         "damage": "70",
         "startup": "6",
         "hit": "7",
@@ -178,7 +178,7 @@ yun_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28yunjhk%29.gif",
+        "pic": "framedata/img/yu-ahk.gif",
         "damage": "110",
         "startup": "5",
         "hit": "5",
@@ -189,7 +189,7 @@ yun_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/4/44/%28yunoh%29.gif",
+        "pic": "framedata/img/yu-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "9",
@@ -200,7 +200,7 @@ yun_frames=[
     {
         "name": "lp+lk",
         "desc": "Hiza Geri",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28yunhg%29.gif",
+        "pic": "framedata/img/yu-throw.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ yun_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Monkey Flip",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28yunmfth%29.gif",
+        "pic": "framedata/img/yu-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ yun_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28yunclp%29.gif",
+        "pic": "framedata/img/yu-clp.gif",
         "damage": "20",
         "startup": "2",
         "hit": "2",
@@ -233,7 +233,7 @@ yun_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28yuncmp%29.gif",
+        "pic": "framedata/img/yu-cmp.gif",
         "damage": "40",
         "startup": "3",
         "hit": "2",
@@ -244,7 +244,7 @@ yun_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/9/9e/%28yunchp%29.gif",
+        "pic": "framedata/img/yu-chp.gif",
         "damage": "90",
         "startup": "3-10",
         "hit": "1-2",
@@ -255,7 +255,7 @@ yun_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/7/7b/%28yunclk%29.gif",
+        "pic": "framedata/img/yu-clk.gif",
         "damage": "20",
         "startup": "2",
         "hit": "2",
@@ -266,7 +266,7 @@ yun_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/a/ac/%28yuncmk%29.gif",
+        "pic": "framedata/img/yu-cmk.gif",
         "damage": "30",
         "startup": "3",
         "hit": "2",
@@ -277,7 +277,7 @@ yun_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/b/b5/%28yunchk%29.gif",
+        "pic": "framedata/img/yu-chk.gif",
         "damage": "50",
         "startup": "8",
         "hit": "2",
@@ -288,7 +288,7 @@ yun_frames=[
     {
         "name": "f.mk",
         "desc": "Senpuu Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/f/f3/%28yunfmk%29.gif",
+        "pic": "framedata/img/yu-fmk.gif",
         "damage": "80",
         "startup": "19",
         "hit": "6",
@@ -299,7 +299,7 @@ yun_frames=[
     {
         "name": "f.hp",
         "desc": "Dakai",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28yunfhp%29.gif",
+        "pic": "framedata/img/yu-fhp.gif",
         "damage": "140",
         "startup": "17",
         "hit": "5",
@@ -310,7 +310,7 @@ yun_frames=[
     {
         "name": "air.d.mk",
         "desc": "Raigeki Shuu",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/%28yunjdk%29.gif",
+        "pic": "framedata/img/yu-adfk.gif",
         "damage": "70",
         "startup": "6/6/8",
         "hit": "land",
@@ -321,7 +321,7 @@ yun_frames=[
     {
         "name": "qcf.lp",
         "desc": "Zesshou Hohou (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yunlunge%29.gif",
+        "pic": "framedata/img/yu-qcfp.gif",
         "damage": "100",
         "startup": "7",
         "hit": "5",
@@ -332,7 +332,7 @@ yun_frames=[
     {
         "name": "qcf.mp",
         "desc": "Zesshou Hohou (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yunlunge%29.gif",
+        "pic": "framedata/img/yu-qcfp.gif",
         "damage": "110",
         "startup": "10",
         "hit": "11",
@@ -343,7 +343,7 @@ yun_frames=[
     {
         "name": "qcf.hp",
         "desc": "Zesshou Hohou (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28yunlunge%29.gif",
+        "pic": "framedata/img/yu-qcfp.gif",
         "damage": "120",
         "startup": "13",
         "hit": "15",
@@ -354,7 +354,7 @@ yun_frames=[
     {
         "name": "qcf.2p",
         "desc": "Zesshou Hohou (EX)",
-        "pic": "http://wiki.shoryuken.com/images/2/22/%28yunlungeex%29.gif",
+        "pic": "framedata/img/yu-qcfp.gif",
         "damage": "160",
         "startup": "13-22",
         "hit": "19-6",
@@ -365,7 +365,7 @@ yun_frames=[
     {
         "name": "dp.lp",
         "desc": "Tetsu Zankou (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28yunshoulder%29.gif",
+        "pic": "framedata/img/yu-dp.gif",
         "damage": "100",
         "startup": "7",
         "hit": "6",
@@ -376,7 +376,7 @@ yun_frames=[
     {
         "name": "dp.mp",
         "desc": "Tetsu Zankou (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28yunshoulder%29.gif",
+        "pic": "framedata/img/yu-dp.gif",
         "damage": "125",
         "startup": "8",
         "hit": "6",
@@ -387,7 +387,7 @@ yun_frames=[
     {
         "name": "dp.hp",
         "desc": "Tetsu Zankou (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28yunshoulder%29.gif",
+        "pic": "framedata/img/yu-dp.gif",
         "damage": "140",
         "startup": "10",
         "hit": "6",
@@ -398,7 +398,7 @@ yun_frames=[
     {
         "name": "dp.2p",
         "desc": "Tetsu Zankou (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28yunshoulderex%29.gif",
+        "pic": "framedata/img/yu-dp.gif",
         "damage": "160",
         "startup": "10-17",
         "hit": "7-6",
@@ -409,7 +409,7 @@ yun_frames=[
     {
         "name": "dp.lk",
         "desc": "Nishou Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28yunkicks%29.gif",
+        "pic": "framedata/img/yu-dpk.gif",
         "damage": "130",
         "startup": "4-13",
         "hit": "2-4",
@@ -420,7 +420,7 @@ yun_frames=[
     {
         "name": "dp.mk",
         "desc": "Nishou Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28yunkicks%29.gif",
+        "pic": "framedata/img/yu-dpk.gif",
         "damage": "140",
         "startup": "6-15",
         "hit": "2-4",
@@ -431,7 +431,7 @@ yun_frames=[
     {
         "name": "dp.hk",
         "desc": "Nishou Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/5/55/%28yunkicks%29.gif",
+        "pic": "framedata/img/yu-dpk.gif",
         "damage": "150",
         "startup": "8-17",
         "hit": "2-4",
@@ -442,7 +442,7 @@ yun_frames=[
     {
         "name": "dp.2k",
         "desc": "Nishou Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/2/23/%28yunkicksex%29.gif",
+        "pic": "framedata/img/yu-dpk.gif",
         "damage": "170",
         "startup": "4-12",
         "hit": "2-4",
@@ -453,7 +453,7 @@ yun_frames=[
     {
         "name": "qcb.lp",
         "desc": "Kobukushi",
-        "pic": "http://wiki.shoryuken.com/images/4/44/%28yunpalm%29.gif",
+        "pic": "framedata/img/yu-qcbp.gif",
         "damage": "180",
         "startup": "24",
         "hit": "10",
@@ -464,7 +464,7 @@ yun_frames=[
     {
         "name": "hcb.lk",
         "desc": "Zenpou-Tenshin",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28yuncg%29.gif",
+        "pic": "framedata/img/yu-hcbk.gif",
         "damage": "N/A",
         "startup": "5",
         "hit": "2",
@@ -475,7 +475,7 @@ yun_frames=[
     {
         "name": "sa1",
         "desc": "You Hou",
-        "pic": "http://wiki.shoryuken.com/images/7/78/%28yunsa1%29.gif",
+        "pic": "framedata/img/yu-sa1.gif",
         "damage": "410",
         "startup": "1+10+45",
         "hit": "9+2+2",
@@ -486,7 +486,7 @@ yun_frames=[
     {
         "name": "sa2",
         "desc": "Sourai Rengeki",
-        "pic": "http://wiki.shoryuken.com/images/0/08/%28yunsa2%29.gif",
+        "pic": "framedata/img/yu-sa2.gif",
         "damage": "320",
         "startup": "4+20+34+47+66+78",
         "hit": "3+2+3+3+4+2",
@@ -497,7 +497,7 @@ yun_frames=[
     {
         "name": "sa3",
         "desc": "Genei Jin",
-        "pic": "http://wiki.shoryuken.com/images/f/f3/%28yunsa3%29.gif",
+        "pic": "framedata/img/yu-sa3.gif",
         "damage": "N/A",
         "startup": "10",
         "hit": "N/A",

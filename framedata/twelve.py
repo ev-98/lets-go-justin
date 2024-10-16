@@ -2,7 +2,7 @@ twelve_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/3/37/%28twelvet%29.gif",
+        "pic": "framedata/img/tw-taunt.gif",
         "damage": "N/A",
         "startup": "79",
         "hit": "150",
@@ -13,7 +13,7 @@ twelve_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/2/20/%28twelvelp%29.gif",
+        "pic": "framedata/img/tw-lp.gif",
         "damage": "30",
         "startup": "3",
         "hit": "3",
@@ -24,7 +24,7 @@ twelve_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28twelvemp%29.gif",
+        "pic": "framedata/img/tw-mp.gif",
         "damage": "70",
         "startup": "9",
         "hit": "4",
@@ -35,7 +35,7 @@ twelve_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/3/39/%28twelvehp%29.gif",
+        "pic": "framedata/img/tw-hp.gif",
         "damage": "110",
         "startup": "12",
         "hit": "4",
@@ -46,7 +46,7 @@ twelve_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28twelveclosemp%29.gif",
+        "pic": "framedata/img/tw-closemp.gif",
         "damage": "65",
         "startup": "6",
         "hit": "4",
@@ -57,7 +57,7 @@ twelve_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28twelvelk%29.gif",
+        "pic": "framedata/img/tw-lk.gif",
         "damage": "35",
         "startup": "3",
         "hit": "5",
@@ -68,7 +68,7 @@ twelve_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/8e/%28twelvemk%29.gif",
+        "pic": "framedata/img/tw-mk.gif",
         "damage": "70",
         "startup": "6",
         "hit": "6",
@@ -79,7 +79,7 @@ twelve_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/1/1b/%28twelvehk%29.gif",
+        "pic": "framedata/img/tw-hk.gif",
         "damage": "100",
         "startup": "17",
         "hit": "3",
@@ -90,7 +90,7 @@ twelve_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/d/dc/%28twelvejlp%29.gif",
+        "pic": "framedata/img/tw-alp.gif",
         "damage": "50(60 neutral jump)",
         "startup": "4(5 neutral jump)",
         "hit": "until land",
@@ -101,7 +101,7 @@ twelve_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/6/6b/%28twelvejmp%29.gif",
+        "pic": "framedata/img/tw-amp.gif",
         "damage": "100",
         "startup": "5(6 neutral jump)",
         "hit": "5",
@@ -112,7 +112,7 @@ twelve_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28twelvejhp%29.gif",
+        "pic": "framedata/img/tw-ahp.gif",
         "damage": "130",
         "startup": "6(7 neutral jump)",
         "hit": "4(3 neutral jump)",
@@ -123,7 +123,7 @@ twelve_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/7/74/%28twelvejlk%29.gif",
+        "pic": "framedata/img/tw-alk.gif",
         "damage": "50",
         "startup": "4(5 neutral jump)",
         "hit": "10(19 neutral jump)",
@@ -134,7 +134,7 @@ twelve_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/1/11/%28twelvejmk%29.gif",
+        "pic": "framedata/img/tw-amk.gif",
         "damage": "90",
         "startup": "5",
         "hit": "6",
@@ -145,7 +145,7 @@ twelve_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28twelvejhk%29.gif",
+        "pic": "framedata/img/tw-ahk.gif",
         "damage": "125(130 neutral jump)",
         "startup": "6(7 neutral jump)",
         "hit": "4(5 neutral jump)",
@@ -156,7 +156,7 @@ twelve_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/d/d8/%28twelveoh%29.gif",
+        "pic": "framedata/img/tw-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "8",
@@ -167,7 +167,7 @@ twelve_frames=[
     {
         "name": "lp+lk",
         "desc": "H.U.G",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28twelventr%29.gif",
+        "pic": "framedata/img/tw-throw.gif",
         "damage": "100",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ twelve_frames=[
     {
         "name": "f.lp+lk",
         "desc": "F.L.G",
-        "pic": "http://wiki.shoryuken.com/images/2/23/%28twelveftr%29.gif",
+        "pic": "framedata/img/tw-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ twelve_frames=[
     {
         "name": "b.lp+lk",
         "desc": "T.R.W",
-        "pic": "http://wiki.shoryuken.com/images/9/95/%28twelvebtr%29.gif",
+        "pic": "framedata/img/tw-bthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ twelve_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/c/ca/%28twelveclp%29.gif",
+        "pic": "framedata/img/tw-clp.gif",
         "damage": "30",
         "startup": "3",
         "hit": "2",
@@ -211,7 +211,7 @@ twelve_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/2/2e/%28twelvecmp%29.gif",
+        "pic": "framedata/img/tw-cmp.gif",
         "damage": "55",
         "startup": "5",
         "hit": "2",
@@ -222,7 +222,7 @@ twelve_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/6b/%28twelvechp%29.gif",
+        "pic": "framedata/img/tw-chp.gif",
         "damage": "100",
         "startup": "10",
         "hit": "7",
@@ -233,7 +233,7 @@ twelve_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/c/cb/%28twelveclk%29.gif",
+        "pic": "framedata/img/tw-clk.gif",
         "damage": "35",
         "startup": "3",
         "hit": "4",
@@ -244,7 +244,7 @@ twelve_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/88/%28twelvecmk%29.gif",
+        "pic": "framedata/img/tw-cmk.gif",
         "damage": "60",
         "startup": "8",
         "hit": "2",
@@ -255,7 +255,7 @@ twelve_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/9/9d/%28twelvechk%29.gif",
+        "pic": "framedata/img/tw-chk.gif",
         "damage": "90",
         "startup": "13",
         "hit": "2",
@@ -266,7 +266,7 @@ twelve_frames=[
     {
         "name": "b.mk",
         "desc": "B.M.K",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28twelvebmk%29.gif",
+        "pic": "framedata/img/tw-bmk.gif",
         "damage": "80",
         "startup": "5",
         "hit": "5",
@@ -277,7 +277,7 @@ twelve_frames=[
     {
         "name": "air.f,f",
         "desc": "Kokuu",
-        "pic": "http://wiki.shoryuken.com/images/3/3e/%28twelvejffbb%29.gif",
+        "pic": "framedata/img/tw-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "N/A",
@@ -288,7 +288,7 @@ twelve_frames=[
     {
         "name": "air.b,b",
         "desc": "Kokuu",
-        "pic": "http://wiki.shoryuken.com/images/3/3e/%28twelvejffbb%29.gif",
+        "pic": "framedata/img/tw-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "N/A",
@@ -299,7 +299,7 @@ twelve_frames=[
     {
         "name": "qcf.lp",
         "desc": "N.D.L. (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/5/56/%28twelvendl%29.gif",
+        "pic": "framedata/img/tw-qcfp.gif",
         "damage": "60",
         "startup": "13",
         "hit": "11",
@@ -310,7 +310,7 @@ twelve_frames=[
     {
         "name": "qcf.mp",
         "desc": "N.D.L. (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/5/56/%28twelvendl%29.gif",
+        "pic": "framedata/img/tw-qcfp.gif",
         "damage": "60",
         "startup": "13",
         "hit": "13",
@@ -321,7 +321,7 @@ twelve_frames=[
     {
         "name": "qcf.hp",
         "desc": "N.D.L. (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/5/56/%28twelvendl%29.gif",
+        "pic": "framedata/img/tw-qcfp.gif",
         "damage": "80",
         "startup": "14",
         "hit": "13",
@@ -332,7 +332,7 @@ twelve_frames=[
     {
         "name": "qcb.lp",
         "desc": "A.X.E. (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28twelveaxe%29.gif",
+        "pic": "framedata/img/tw-qcbp.gif",
         "damage": "60",
         "startup": "6",
         "hit": "3",
@@ -343,7 +343,7 @@ twelve_frames=[
     {
         "name": "qcb.mp",
         "desc": "A.X.E. (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28twelveaxe%29.gif",
+        "pic": "framedata/img/tw-qcbp.gif",
         "damage": "140",
         "startup": "10",
         "hit": "3",
@@ -354,7 +354,7 @@ twelve_frames=[
     {
         "name": "qcb.hp",
         "desc": "A.X.E. (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28twelveaxe%29.gif",
+        "pic": "framedata/img/tw-qcbp.gif",
         "damage": "200",
         "startup": "14",
         "hit": "3",
@@ -365,7 +365,7 @@ twelve_frames=[
     {
         "name": "air.qcb.lp",
         "desc": "Air A.X.E. (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/6/68/%28twelveaaxe%29.gif",
+        "pic": "framedata/img/tw-aqcbp.gif",
         "damage": "90",
         "startup": "9",
         "hit": "3",
@@ -376,7 +376,7 @@ twelve_frames=[
     {
         "name": "air.qcb.mp",
         "desc": "Air A.X.E. (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/6/68/%28twelveaaxe%29.gif",
+        "pic": "framedata/img/tw-aqcbp.gif",
         "damage": "120",
         "startup": "11",
         "hit": "3",
@@ -387,7 +387,7 @@ twelve_frames=[
     {
         "name": "air.qcb.hp",
         "desc": "Air A.X.E. (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/68/%28twelveaaxe%29.gif",
+        "pic": "framedata/img/tw-aqcbp.gif",
         "damage": "180",
         "startup": "13",
         "hit": "3",
@@ -398,7 +398,7 @@ twelve_frames=[
     {
         "name": "air.qcb.lk",
         "desc": "D.R.A (Short)",
-        "pic": "http://wiki.shoryuken.com/images/e/e9/%28twelvedra%29.gif",
+        "pic": "framedata/img/tw-aqcbk.gif",
         "damage": "110",
         "startup": "14",
         "hit": "until land",
@@ -409,7 +409,7 @@ twelve_frames=[
     {
         "name": "air.qcb.mk",
         "desc": "D.R.A (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/e/e9/%28twelvedra%29.gif",
+        "pic": "framedata/img/tw-aqcbk.gif",
         "damage": "110",
         "startup": "14",
         "hit": "until land",
@@ -420,7 +420,7 @@ twelve_frames=[
     {
         "name": "air.qcb.hk",
         "desc": "D.R.A (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/e/e9/%28twelvedra%29.gif",
+        "pic": "framedata/img/tw-aqcbk.gif",
         "damage": "110",
         "startup": "14",
         "hit": "until land",
@@ -431,7 +431,7 @@ twelve_frames=[
     {
         "name": "qcf.2p",
         "desc": "N.D.L. (EX)",
-        "pic": "http://wiki.shoryuken.com/images/4/4f/%28twelvendlex%29.gif",
+        "pic": "framedata/img/tw-qcfp.gif",
         "damage": "50+30",
         "startup": "12/18",
         "hit": "6/7",
@@ -442,7 +442,7 @@ twelve_frames=[
     {
         "name": "qcb.2p",
         "desc": "A.X.E. (EX)",
-        "pic": "http://wiki.shoryuken.com/images/5/59/%28twelveaxeex%29.gif",
+        "pic": "framedata/img/tw-qcbp.gif",
         "damage": "60+(40x5)",
         "startup": "8",
         "hit": "3/3/5/3/3/4",
@@ -453,7 +453,7 @@ twelve_frames=[
     {
         "name": "air.qcb.2p",
         "desc": "Air A.X.E. (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/19/%28twelveaaxeex%29.gif",
+        "pic": "framedata/img/tw-aqcbp.gif",
         "damage": "60+(35)",
         "startup": "6",
         "hit": "3/3/4/3/3/4",
@@ -464,7 +464,7 @@ twelve_frames=[
     {
         "name": "air.qcb.2k",
         "desc": "D.R.A. (EX)",
-        "pic": "http://wiki.shoryuken.com/images/d/d6/%28twelvedraex%29.gif",
+        "pic": "framedata/img/tw-aqcbk.gif",
         "damage": "240",
         "startup": "6/8",
         "hit": "until land",
@@ -475,7 +475,7 @@ twelve_frames=[
     {
         "name": "sa1",
         "desc": "X.N.D.L.",
-        "pic": "http://wiki.shoryuken.com/images/4/46/%28twelvesa1%29.gif",
+        "pic": "framedata/img/tw-sa1.gif",
         "damage": "370",
         "startup": "3",
         "hit": "34",
@@ -486,7 +486,7 @@ twelve_frames=[
     {
         "name": "sa2",
         "desc": "X.F.L.A.T.",
-        "pic": "http://wiki.shoryuken.com/images/b/bf/%28twelvesa2%29.gif",
+        "pic": "framedata/img/tw-sa2.gif",
         "damage": "430",
         "startup": "2",
         "hit": "until land",
@@ -497,7 +497,7 @@ twelve_frames=[
     {
         "name": "sa3",
         "desc": "X.C.O.P.Y.",
-        "pic": "http://wiki.shoryuken.com/images/f/f3/%28twelvesa3%29.gif",
+        "pic": "framedata/img/tw-sa3.gif",
         "damage": "N/A",
         "startup": "12",
         "hit": "1440",
