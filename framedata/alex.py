@@ -13,7 +13,7 @@ alex_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "img/al-lp.gif",
+        "pic": "https://wiki.supercombo.gg/images/8/83/%28alexlp%29.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -24,7 +24,7 @@ alex_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "img/al-mp.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/ae/%28alexmp%29.gif",
         "damage": "100",
         "startup": "4",
         "hit": "3",
@@ -35,7 +35,7 @@ alex_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "img/al-hp.gif",
+        "pic": "https://wiki.supercombo.gg/images/3/3d/%28alexhp%29.gif",
         "damage": "145",
         "startup": "14",
         "hit": "4",
@@ -46,7 +46,7 @@ alex_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "img/al-close-lp.gif",
+        "pic": "https://wiki.supercombo.gg/images/7/7d/%28alexcloselp%29.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -57,7 +57,7 @@ alex_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "img/al-lk.gif",
+        "pic": "https://wiki.supercombo.gg/images/4/46/%28alexlk%29.gif",
         "damage": "40",
         "startup": "5",
         "hit": "3",
@@ -68,7 +68,7 @@ alex_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "img/al-mk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/2e/%28alexmk%29.gif",
         "damage": "100",
         "startup": "11",
         "hit": "3",
@@ -79,7 +79,7 @@ alex_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "img/al-hk.gif",
+        "pic": "https://wiki.supercombo.gg/images/1/1a/%28alexhk%29.gif",
         "damage": "150",
         "startup": "16",
         "hit": "5",
@@ -90,7 +90,7 @@ alex_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "img/al-close-mk.gif",
+        "pic": "https://wiki.supercombo.gg/images/5/53/%28alexclosemk%29.gif",
         "damage": "105",
         "startup": "5",
         "hit": "3",
@@ -101,7 +101,7 @@ alex_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "img/al-alp.gif",
+        "pic": "https://wiki.supercombo.gg/images/d/dd/%28alexjlp%29.gif",
         "damage": "40",
         "startup": "4",
         "hit": "12",
@@ -112,7 +112,7 @@ alex_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "img/al-amp.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/9d/%28alexjmp%29.gif",
         "damage": "80",
         "startup": "5",
         "hit": "3",
@@ -123,7 +123,7 @@ alex_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "img/al-ahp.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/22/%28alexjhp%29.gif",
         "damage": "140",
         "startup": "8",
         "hit": "3",
@@ -134,7 +134,7 @@ alex_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "img/al-alk.gif",
+        "pic": "https://wiki.supercombo.gg/images/b/bb/%28alexjlk%29.gif",
         "damage": "60",
         "startup": "4",
         "hit": "until land",
@@ -145,7 +145,7 @@ alex_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "img/al-amk.gif",
+        "pic": "https://wiki.supercombo.gg/images/1/1a/%28alexjmk%29.gif",
         "damage": "90",
         "startup": "9",
         "hit": "3",
@@ -156,7 +156,7 @@ alex_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "img/al-ahk.gif",
+        "pic": "https://wiki.supercombo.gg/images/3/32/%28alexjhk%29.gif",
         "damage": "120",
         "startup": "8",
         "hit": "4",
@@ -167,7 +167,7 @@ alex_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "",
+        "pic": "https://wiki.supercombo.gg/images/6/6b/%28alexoh%29.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -178,7 +178,7 @@ alex_frames=[
     {
         "name": "lp+lk",
         "desc": "Body Slam",
-        "pic": "img/al-throw.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/a7/%28alexbsl%29.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ alex_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Body Slam",
-        "pic": "img/al-throw.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/a7/%28alexbsl%29.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ alex_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Body Slam",
-        "pic": "img/al-throw.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/a7/%28alexbsl%29.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ alex_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "img/al-clp.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/aa/%28alexclp%29.gif",
         "damage": "30",
         "startup": "4",
         "hit": "2",
@@ -222,7 +222,7 @@ alex_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "img/al-cmp.gif",
+        "pic": "https://wiki.supercombo.gg/images/a/af/%28alexcmp%29.gif",
         "damage": "90",
         "startup": "7",
         "hit": "2",
@@ -233,7 +233,7 @@ alex_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "img/al-chp.gif",
+        "pic": "https://wiki.supercombo.gg/images/6/68/%28alexchp%29.gif",
         "damage": "80+60",
         "startup": "13",
         "hit": "2,3",
@@ -244,7 +244,7 @@ alex_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "img/al-clk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/23/%28alexclk%29.gif",
         "damage": "30",
         "startup": "5",
         "hit": "2",
@@ -255,7 +255,7 @@ alex_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "img/al-cmk.gif",
+        "pic": "https://wiki.supercombo.gg/images/8/8e/%28alexcmk%29.gif",
         "damage": "70",
         "startup": "8",
         "hit": "3",
@@ -266,7 +266,7 @@ alex_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "img/al-chk.gif",
+        "pic": "https://wiki.supercombo.gg/images/7/75/%28alexchk%29.gif",
         "damage": "130",
         "startup": "11",
         "hit": "2",
@@ -277,7 +277,7 @@ alex_frames=[
     {
         "name": "f.mp",
         "desc": "Chop",
-        "pic": "img/al-fmp.gif",
+        "pic": "https://wiki.supercombo.gg/images/1/1d/%28alexfmp%29.gif",
         "damage": "110",
         "startup": "7",
         "hit": "5",
@@ -288,7 +288,7 @@ alex_frames=[
     {
         "name": "f.hp",
         "desc": "Lariat",
-        "pic": "img/al-fhp.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/92/%28alexfhp%29.gif",
         "damage": "135",
         "startup": "9",
         "hit": "4",
@@ -299,7 +299,7 @@ alex_frames=[
     {
         "name": "b.hp",
         "desc": "Headbutt/ Sleeper Hold (back turned)",
-        "pic": "img/al-bhp.gif",
+        "pic": "https://wiki.supercombo.gg/images/6/64/%28alexbhp%29.gif",
         "damage": "180/240",
         "startup": "8",
         "hit": "4",
@@ -310,7 +310,7 @@ alex_frames=[
     {
         "name": "air.d.hp",
         "desc": "Flying Cross Chop",
-        "pic": "img/al-adhp.gif",
+        "pic": "https://wiki.supercombo.gg/images/0/09/%28alexjdhp%29.gif",
         "damage": "120",
         "startup": "10",
         "hit": "11",
@@ -321,7 +321,7 @@ alex_frames=[
     {
         "name": "qcf.lp",
         "desc": "Flash Chop (Jab)",
-        "pic": "img/al-qcfp.gif",
+        "pic": "https://wiki.supercombo.gg/images/0/0b/%28alexchop%29.gif",
         "damage": "120",
         "startup": "11",
         "hit": "2",
@@ -332,7 +332,7 @@ alex_frames=[
     {
         "name": "qcf.mp",
         "desc": "Flash Chop (Strong)",
-        "pic": "img/al-qcfp.gif",
+        "pic": "https://wiki.supercombo.gg/images/0/0b/%28alexchop%29.gif",
         "damage": "130",
         "startup": "15",
         "hit": "3",
@@ -343,7 +343,7 @@ alex_frames=[
     {
         "name": "qcf.hp",
         "desc": "Flash Chop (Fierce)",
-        "pic": "img/al-qcfp.gif",
+        "pic": "https://wiki.supercombo.gg/images/0/0b/%28alexchop%29.gif",
         "damage": "140",
         "startup": "19",
         "hit": "4",
@@ -354,7 +354,7 @@ alex_frames=[
     {
         "name": "dp.lk",
         "desc": "Air Knee Smash (Short)",
-        "pic": "img/al-dpk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/2d/%28alexaksm%29.gif",
         "damage": "120",
         "startup": "6",
         "hit": "6",
@@ -365,7 +365,7 @@ alex_frames=[
     {
         "name": "dp.mk",
         "desc": "Air Knee Smash (Forward)",
-        "pic": "img/al-dpk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/2d/%28alexaksm%29.gif",
         "damage": "135",
         "startup": "7",
         "hit": "10",
@@ -376,7 +376,7 @@ alex_frames=[
     {
         "name": "dp.hk",
         "desc": "Air Knee Smash (Roundhouse)",
-        "pic": "img/al-dpk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/2d/%28alexaksm%29.gif",
         "damage": "150",
         "startup": "8",
         "hit": "12",
@@ -387,7 +387,7 @@ alex_frames=[
     {
         "name": "hcb.lp",
         "desc": "Powerbomb (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/c/ce/%28alexpbomb%29.gif",
+        "pic": "https://wiki.supercombo.gg/images/c/ce/%28alexpbomb%29.gif",
         "damage": "160",
         "startup": "6",
         "hit": "1",
@@ -398,7 +398,7 @@ alex_frames=[
     {
         "name": "hcb.mp",
         "desc": "Powerbomb (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/c/ce/%28alexpbomb%29.gif",
+        "pic": "https://wiki.supercombo.gg/images/c/ce/%28alexpbomb%29.gif",
         "damage": "180",
         "startup": "7",
         "hit": "1",
@@ -409,7 +409,7 @@ alex_frames=[
     {
         "name": "hcb.hp",
         "desc": "Powerbomb (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/c/ce/%28alexpbomb%29.gif",
+        "pic": "https://wiki.supercombo.gg/images/c/ce/%28alexpbomb%29.gif",
         "damage": "200",
         "startup": "8",
         "hit": "1",
@@ -420,7 +420,7 @@ alex_frames=[
     {
         "name": "chargef.lk",
         "desc": "Slash Elbow (Short)",
-        "pic": "img/al-chargefk.gif",
+        "pic": "https://wiki.supercombo.gg/images/d/d1/%28alexse%29.gif",
         "damage": "100",
         "startup": "15",
         "hit": "1",
@@ -431,7 +431,7 @@ alex_frames=[
     {
         "name": "chargef.mk",
         "desc": "Slash Elbow (Forward)",
-        "pic": "img/al-chargefk.gif",
+        "pic": "https://wiki.supercombo.gg/images/d/d1/%28alexse%29.gif",
         "damage": "120",
         "startup": "18",
         "hit": "1",
@@ -442,7 +442,7 @@ alex_frames=[
     {
         "name": "chargef.hk",
         "desc": "Slash Elbow (Roundhouse)",
-        "pic": "img/al-chargefk.gif",
+        "pic": "https://wiki.supercombo.gg/images/d/d1/%28alexse%29.gif",
         "damage": "140",
         "startup": "20",
         "hit": "1",
@@ -453,7 +453,7 @@ alex_frames=[
     {
         "name": "chargeu.lk",
         "desc": "Stomp (Short)",
-        "pic": "img/al-chargeuk.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/9a/%28alexstomp%29.gif",
         "damage": "120",
         "startup": "23",
         "hit": "2",
@@ -464,7 +464,7 @@ alex_frames=[
     {
         "name": "chargeu.mk",
         "desc": "Stomp (Forward)",
-        "pic": "img/al-chargeuk.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/9a/%28alexstomp%29.gif",
         "damage": "140",
         "startup": "25",
         "hit": "2",
@@ -475,7 +475,7 @@ alex_frames=[
     {
         "name": "chargeu.hk",
         "desc": "Stomp (Roundhouse)",
-        "pic": "img/al-chargeuk.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/9a/%28alexstomp%29.gif",
         "damage": "160",
         "startup": "26",
         "hit": "2",
@@ -508,7 +508,7 @@ alex_frames=[
     {
         "name": "hcb.hk",
         "desc": "Spiral DDT (Roundhouse)",
-        "pic": "img/al-hcbk.gif",
+        "pic": "https://wiki.supercombo.gg/images/7/78/%28alexsddt%29.gif",
         "damage": "160",
         "startup": "24",
         "hit": "3",
@@ -519,7 +519,7 @@ alex_frames=[
     {
         "name": "qcf.2p",
         "desc": "Flash Chop (EX)",
-        "pic": "img/al-qcfp.gif",
+        "pic": "https://wiki.supercombo.gg/images/6/62/%28alexfcex%29.gif",
         "damage": "100+100",
         "startup": "9/11",
         "hit": "2/2",
@@ -530,7 +530,7 @@ alex_frames=[
     {
         "name": "dp.2k",
         "desc": "Air Knee Smash (EX)",
-        "pic": "img/al-dpk.gif",
+        "pic": "https://wiki.supercombo.gg/images/2/2d/%28alexaksm%29.gif",
         "damage": "190",
         "startup": "3",
         "hit": "17",
@@ -541,7 +541,7 @@ alex_frames=[
     {
         "name": "chargef.2k",
         "desc": "Slash Elbow (EX)",
-        "pic": "img/al-chargefk.gif",
+        "pic": "https://wiki.supercombo.gg/images/5/55/%28alexseex%29.gif",
         "damage": "80+80",
         "startup": "9,20",
         "hit": "6,1",
@@ -552,7 +552,7 @@ alex_frames=[
     {
         "name": "chargeu.2k",
         "desc": "Stomp (EX)",
-        "pic": "img/al-chargeuk.gif",
+        "pic": "https://wiki.supercombo.gg/images/9/9a/%28alexstomp%29.gif",
         "damage": "180",
         "startup": "26",
         "hit": "2",
@@ -563,7 +563,7 @@ alex_frames=[
     {
         "name": "sa1",
         "desc": "Hyper Bomb",
-        "pic": "img/al-sa1.gif",
+        "pic": "https://wiki.supercombo.gg/images/0/06/%28alexsa1r%29.gif",
         "damage": "530(590 reverse)",
         "startup": "2",
         "hit": "2",
@@ -574,7 +574,7 @@ alex_frames=[
     {
         "name": "sa2",
         "desc": "Boomerang Raid",
-        "pic": "img/al-sa2.gif",
+        "pic": "https://wiki.supercombo.gg/images/c/c5/%28alexsa2%29.gif",
         "damage": "350",
         "startup": "1-57",
         "hit": "3/3/3/3/2",
@@ -585,7 +585,7 @@ alex_frames=[
     {
         "name": "sa3",
         "desc": "Stun Gun Headbutt",
-        "pic": "img/al-sa3.gif",
+        "pic": "https://wiki.supercombo.gg/images/3/30/%28alexsa3%29.gif",
         "damage": "180(max stun)",
         "startup": "25",
         "hit": "3",

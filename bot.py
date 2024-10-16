@@ -34,7 +34,7 @@ async def help(ctx):
     embed.add_field(name="##Commands (prefix '3s.')", value="8ball: let the third strike announcer decide your fortune\nframes [character] [move]: display frame data\nfortune: see 8ball\nmu [character1] [character2]: display matchup odds", inline=False)
     embed.add_field(name="##Character codes", value="For any commands, you may type out the 2-letter character code instead of the full name if you prefer.\nAkuma/Gouki: AK/GO\nAlex: AL\nChun-Li: CH\nDudley: DU\n...etc", inline=False)
     embed.add_field(name="##Move notation", value="The command notation for a normal move is [button] or [input].[button]\nThe notation for special moves are [motion].[button]\nSuper arts are denoted as sa1, sa2, sa3\nClose moves begin with 'close.'\nAerial moves begin with 'air.'\n\nInputs:\nc(crouch), f(forward), b(back), u(up), df, db, uf, ub, hold\nMotions:\nqcf, qcb, hcf, hcb, 360, dp, rapid, charge\nButtons:\nlp, mp, hp, 2p\nlk, mk, hk, 2k\n\nExamples:\nc.mk(crouching medium), charge.2k(ex spinning bird kick), air.qcf.2p (ex kunai), lp+lk(throw), mp+mk(universal overhead)", inline=True)
-    embed.set_footer(text="All sprites property of Capcom | Frame data and sprites provided by http://wiki.shoryuken.com/")
+    embed.set_footer(text="All sprites property of Capcom | Frame data and sprites provided by http://wiki.supercombo.com/")
     await ctx.send(embed=embed)
 
 @client.command(aliases=['8ball', 'fortune'])
@@ -193,7 +193,8 @@ def get_frames(c1,mv):
 
     if data:
         embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
-        file = discord.File('al-taunt.gif')
+       # file embed isn't working :/
+       # file = discord.File('al-taunt.gif')
         embed.set_image(url=data["pic"])
         embed.add_field(name="Damage", value=data["damage"], inline=True)
         embed.add_field(name="Startup", value=data["startup"], inline=True)
