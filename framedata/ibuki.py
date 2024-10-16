@@ -2,7 +2,7 @@ ibuki_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/d/db/%28ibukit%29.gif",
+        "pic": "framedata/img/ib-taunt.gif",
         "damage": "5",
         "startup": "14",
         "hit": "9",
@@ -13,7 +13,7 @@ ibuki_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/d/d5/%28ibukilp%29.gif",
+        "pic": "framedata/img/ib-lp.gif",
         "damage": "30",
         "startup": "2",
         "hit": "1",
@@ -24,7 +24,7 @@ ibuki_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/90/%28ibukimp%29.gif",
+        "pic": "framedata/img/ib-mp.gif",
         "damage": "70",
         "startup": "6",
         "hit": "2",
@@ -35,7 +35,7 @@ ibuki_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/3/35/%28ibukihp%29.gif",
+        "pic": "framedata/img/ib-hp.gif",
         "damage": "70",
         "startup": "13",
         "hit": "4",
@@ -46,7 +46,7 @@ ibuki_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/4/47/%28ibukicloselp%29.gif",
+        "pic": "framedata/img/ib-closelp.gif",
         "damage": "25",
         "startup": "2",
         "hit": "2",
@@ -57,7 +57,7 @@ ibuki_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ibukiclosehp%29.gif",
+        "pic": "framedata/img/ib-closehp.gif",
         "damage": "60+70",
         "startup": "9",
         "hit": "1,4",
@@ -68,7 +68,7 @@ ibuki_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28ibukilk%29.gif",
+        "pic": "framedata/img/ib-lk.gif",
         "damage": "20",
         "startup": "4",
         "hit": "4",
@@ -79,7 +79,7 @@ ibuki_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/9/9b/%28ibukimk%29.gif",
+        "pic": "framedata/img/ib-mk.gif",
         "damage": "100",
         "startup": "5",
         "hit": "4",
@@ -90,7 +90,7 @@ ibuki_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28ibukihk%29.gif",
+        "pic": "framedata/img/ib-hk.gif",
         "damage": "110",
         "startup": "9",
         "hit": "3",
@@ -101,7 +101,7 @@ ibuki_frames=[
     {
         "name": "close.hk",
         "desc": "Close Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/d/df/%28ibukiclosehk%29.gif",
+        "pic": "framedata/img/ib-closehk.gif",
         "damage": "50+70",
         "startup": "5",
         "hit": "1,6",
@@ -112,7 +112,7 @@ ibuki_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/e/e7/%28ibukijlp%29.gif",
+        "pic": "framedata/img/ib-alp.gif",
         "damage": "60(50 neutral jump)",
         "startup": "3",
         "hit": "19(until land neutral jump)",
@@ -123,7 +123,7 @@ ibuki_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/4/41/%28ibukijmp%29.gif",
+        "pic": "framedata/img/ib-amp.gif",
         "damage": "80(70 neutral jump)",
         "startup": "6(5 neutral jump)",
         "hit": "13(7 neutral jump)",
@@ -134,7 +134,7 @@ ibuki_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/b/b0/%28ibukijhp%29.gif",
+        "pic": "framedata/img/ib-ahp.gif",
         "damage": "120",
         "startup": "11",
         "hit": "5",
@@ -145,7 +145,7 @@ ibuki_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/b/b7/%28ibukijlk%29.gif",
+        "pic": "framedata/img/ib-alk.gif",
         "damage": "50(40 neutral jump)",
         "startup": "3(4 neutral jump)",
         "hit": "until land",
@@ -156,7 +156,7 @@ ibuki_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28ibukijmk%29.gif",
+        "pic": "framedata/img/ib-amk.gif",
         "damage": "70",
         "startup": "7(5 neutral jump)",
         "hit": "13(7 neutral jump)",
@@ -167,7 +167,7 @@ ibuki_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/0/04/%28ibukijhk%29.gif",
+        "pic": "framedata/img/ib-ahk.gif",
         "damage": "110",
         "startup": "11(10 neutral jump)",
         "hit": "3",
@@ -178,7 +178,7 @@ ibuki_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/c/c5/%28ibukioh%29.gif",
+        "pic": "framedata/img/ib-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -189,7 +189,7 @@ ibuki_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Yamitsudzura",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28ibukigtr%29.gif",
+        "pic": "framedata/img/ib-throw.gif",
         "damage": "140",
         "startup": "2",
         "hit": "1",
@@ -200,7 +200,7 @@ ibuki_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Yamitsudzura",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28ibukigtr%29.gif",
+        "pic": "framedata/img/ib-throw.gif",
         "damage": "140",
         "startup": "2",
         "hit": "1",
@@ -211,7 +211,7 @@ ibuki_frames=[
     {
         "name": "air.lp+lk",
         "desc": "Tobizaru",
-        "pic": "http://wiki.shoryuken.com/images/5/59/%28ibukiatr%29.gif",
+        "pic": "framedata/img/ib-airthrow.gif",
         "damage": "160",
         "startup": "6",
         "hit": "1",
@@ -222,7 +222,7 @@ ibuki_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28ibukiclp%29.gif",
+        "pic": "framedata/img/ib-clp.gif",
         "damage": "20",
         "startup": "3",
         "hit": "3",
@@ -233,7 +233,7 @@ ibuki_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28ibukicmp%29.gif",
+        "pic": "framedata/img/ib-cmp.gif",
         "damage": "70",
         "startup": "9",
         "hit": "7",
@@ -244,7 +244,7 @@ ibuki_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ibukichp%29.gif",
+        "pic": "framedata/img/ib-chp.gif",
         "damage": "110",
         "startup": "8",
         "hit": "3",
@@ -255,7 +255,7 @@ ibuki_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/4/4d/%28ibukiclk%29.gif",
+        "pic": "framedata/img/ib-clk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -266,7 +266,7 @@ ibuki_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/d/d2/%28ibukicmk%29.gif",
+        "pic": "framedata/img/ib-cmk.gif",
         "damage": "70",
         "startup": "6",
         "hit": "5",
@@ -277,7 +277,7 @@ ibuki_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/56/%28ibukichk%29.gif",
+        "pic": "framedata/img/ib-chk.gif",
         "damage": "100",
         "startup": "10",
         "hit": "2",
@@ -288,7 +288,7 @@ ibuki_frames=[
     {
         "name": "f.lk",
         "desc": "Maki Geri",
-        "pic": "http://wiki.shoryuken.com/images/a/a7/%28ibukiflk%29.gif",
+        "pic": "framedata/img/ib-flk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "4",
@@ -299,7 +299,7 @@ ibuki_frames=[
      {
         "name": "f.mk",
         "desc": "Koube Kudaki",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28ibukifmk%29.gif",
+        "pic": "framedata/img/ib-fmk.gif",
         "damage": "80",
         "startup": "27",
         "hit": "3",
@@ -310,7 +310,7 @@ ibuki_frames=[
     {
         "name": "b.mp",
         "desc": "You Men",
-        "pic": "http://wiki.shoryuken.com/images/0/02/%28ibukibmp%29.gif",
+        "pic": "framedata/img/ib-bmp.gif",
         "damage": "90",
         "startup": "6",
         "hit": "1,6",
@@ -321,7 +321,7 @@ ibuki_frames=[
     {
         "name": "b.mk",
         "desc": "Ura Maki Geri",
-        "pic": "http://wiki.shoryuken.com/images/c/cc/%28ibukibmk%29.gif",
+        "pic": "framedata/img/ib-bmk.gif",
         "damage": "70",
         "startup": "13",
         "hit": "2",
@@ -332,7 +332,7 @@ ibuki_frames=[
     {
         "name": "df.mk",
         "desc": "Sazan",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28ibukidfmk%29.gif",
+        "pic": "framedata/img/ib-dfmk.gif",
         "damage": "70",
         "startup": "6",
         "hit": "11",
@@ -343,7 +343,7 @@ ibuki_frames=[
     {
         "name": "hp,hp",
         "desc": "Oiura Ken",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28ibukihphp%29.gif",
+        "pic": "framedata/img/ib-hphp.gif",
         "damage": "80",
         "startup": "2",
         "hit": "3",
@@ -354,7 +354,7 @@ ibuki_frames=[
     {
         "name": "f.hk",
         "desc": "Bonshou Geri",
-        "pic": "http://wiki.shoryuken.com/images/1/1d/%28ibukifhk%29.gif",
+        "pic": "framedata/img/ib-fhk.gif",
         "damage": "130",
         "startup": "12",
         "hit": "1",
@@ -365,7 +365,7 @@ ibuki_frames=[
     {
         "name": "air.qcf.lp",
         "desc": "Kunai (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/7/71/%28ibukikunail%29.gif",
+        "pic": "framedata/img/ib-kunai.gif",
         "damage": "50",
         "startup": "8",
         "hit": "1",
@@ -376,7 +376,7 @@ ibuki_frames=[
     {
         "name": "air.qcf.mp",
         "desc": "Kunai (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/f/f5/%28ibukikunaim%29.gif",
+        "pic": "framedata/img/ib-kunai.gif",
         "damage": "50",
         "startup": "9",
         "hit": "1",
@@ -387,7 +387,7 @@ ibuki_frames=[
     {
         "name": "air.qcf.hp",
         "desc": "Kunai (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/8/8d/%28ibukikunaih%29.gif",
+        "pic": "framedata/img/ib-kunai.gif",
         "damage": "50",
         "startup": "10",
         "hit": "1",
@@ -398,7 +398,7 @@ ibuki_frames=[
     {
         "name": "hcb.lp",
         "desc": "Raida (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ibukiraida%29.gif",
+        "pic": "framedata/img/ib-hcbp.gif",
         "damage": "150",
         "startup": "4",
         "hit": "3",
@@ -409,7 +409,7 @@ ibuki_frames=[
     {
         "name": "hcb.mp",
         "desc": "Raida (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ibukiraida%29.gif",
+        "pic": "framedata/img/ib-hcbp.gif",
         "damage": "150",
         "startup": "5",
         "hit": "5",
@@ -420,7 +420,7 @@ ibuki_frames=[
     {
         "name": "hcb.hp",
         "desc": "Raida (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28ibukiraida%29.gif",
+        "pic": "framedata/img/ib-hcbp.gif",
         "damage": "150",
         "startup": "6",
         "hit": "7",
@@ -431,7 +431,7 @@ ibuki_frames=[
     {
         "name": "bdp.lk",
         "desc": "Hien (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28ibukihien%29.gif",
+        "pic": "framedata/img/ib-bdpk.gif",
         "damage": "115",
         "startup": "22/25",
         "hit": "3/2",
@@ -442,7 +442,7 @@ ibuki_frames=[
     {
         "name": "bdp.mk",
         "desc": "Hien (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28ibukihien%29.gif",
+        "pic": "framedata/img/ib-bdpk.gif",
         "damage": "130",
         "startup": "25/29",
         "hit": "3/2",
@@ -453,7 +453,7 @@ ibuki_frames=[
     {
         "name": "bdp.hk",
         "desc": "Hien (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/92/%28ibukihien%29.gif",
+        "pic": "framedata/img/ib-bdpk.gif",
         "damage": "150",
         "startup": "28/32",
         "hit": "4/2",
@@ -464,7 +464,7 @@ ibuki_frames=[
     {
         "name": "qcb.lk",
         "desc": "Tsumuji (Short)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28ibukitsumuji%29.gif",
+        "pic": "framedata/img/ib-qcbk.gif",
         "damage": "60+50",
         "startup": "11/26",
         "hit": "1/1",
@@ -475,7 +475,7 @@ ibuki_frames=[
     {
         "name": "qcb.mk",
         "desc": "Tsumuji (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28ibukitsumuji%29.gif",
+        "pic": "framedata/img/ib-qcbk.gif",
         "damage": "60+50+50",
         "startup": "13/29/45",
         "hit": "1/1/1",
@@ -486,7 +486,7 @@ ibuki_frames=[
     {
         "name": "qcb.hk",
         "desc": "Tsumuji (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/8/81/%28ibukitsumuji%29.gif",
+        "pic": "framedata/img/ib-qcbk.gif",
         "damage": "60+50+80",
         "startup": "14/28/44",
         "hit": "1/1/1",
@@ -497,7 +497,7 @@ ibuki_frames=[
     {
         "name": "qcf.lp",
         "desc": "Kubiori (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28ibukikbr%29.gif",
+        "pic": "framedata/img/ib-qcfp.gif",
         "damage": "150",
         "startup": "14",
         "hit": "11",
@@ -508,7 +508,7 @@ ibuki_frames=[
     {
         "name": "qcf.mp",
         "desc": "Kubiori (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28ibukikbr%29.gif",
+        "pic": "framedata/img/ib-qcfp.gif",
         "damage": "150",
         "startup": "15",
         "hit": "12",
@@ -519,7 +519,7 @@ ibuki_frames=[
     {
         "name": "qcf.hp",
         "desc": "Kubiori (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28ibukikbr%29.gif",
+        "pic": "framedata/img/ib-qcfp.gif",
         "damage": "150",
         "startup": "17",
         "hit": "14",
@@ -530,7 +530,7 @@ ibuki_frames=[
     {
         "name": "qcf.lk",
         "desc": "Kasumi Gake",
-        "pic": "http://wiki.shoryuken.com/images/b/bd/%28ibukiksmg%29.gif",
+        "pic": "framedata/img/ib-qcfk.gif",
         "damage": "N/A",
         "startup": "20/22/25",
         "hit": "N/A",
@@ -541,7 +541,7 @@ ibuki_frames=[
     {
         "name": "dp.lp",
         "desc": "Tsuiji Goe",
-        "pic": "http://wiki.shoryuken.com/images/8/80/%28ibukitjgo%29.gif",
+        "pic": "framedata/img/ib-dp.gif",
         "damage": "N/A",
         "startup": "42/44/48",
         "hit": "2",
@@ -552,7 +552,7 @@ ibuki_frames=[
     {
         "name": "air.qcf.2p",
         "desc": "Kunai (EX)",
-        "pic": "http://wiki.shoryuken.com/images/e/ee/%28ibukikunaiex%29.gif",
+        "pic": "framedata/img/ib-kunai.gif",
         "damage": "60+60",
         "startup": "7/9",
         "hit": "1/1",
@@ -563,7 +563,7 @@ ibuki_frames=[
     {
         "name": "dp.2k",
         "desc": "Kazekiri (EX)",
-        "pic": "http://wiki.shoryuken.com/images/8/87/%28ibukikkiex%29.gif",
+        "pic": "framedata/img/ib-dpk.gif",
         "damage": "180",
         "startup": "4/5/6/7",
         "hit": "1/1/1/8",
@@ -574,7 +574,7 @@ ibuki_frames=[
     {
         "name": "qcb.2k",
         "desc": "Tsumuji (EX)",
-        "pic": "http://wiki.shoryuken.com/images/4/49/%28ibukitsjex%29.gif",
+        "pic": "framedata/img/ib-qcbk.gif",
         "damage": "150+70",
         "startup": "7/17/27/38-42",
         "hit": "1/1/1/2",
@@ -585,7 +585,7 @@ ibuki_frames=[
     {
         "name": "bdp.2k",
         "desc": "Hien (EX)",
-        "pic": "http://wiki.shoryuken.com/images/e/ed/%28ibukihienex%29.gif",
+        "pic": "framedata/img/ib-bdpk.gif",
         "damage": "190",
         "startup": "26/30",
         "hit": "4/2",
@@ -596,7 +596,7 @@ ibuki_frames=[
     {
         "name": "qcf.2p",
         "desc": "Kubiori (EX)",
-        "pic": "http://wiki.shoryuken.com/images/8/88/%28ibukikubiex%29.gif",
+        "pic": "framedata/img/ib-qcfp.gif",
         "damage": "200",
         "startup": "14",
         "hit": "10",
@@ -607,7 +607,7 @@ ibuki_frames=[
     {
         "name": "sa1",
         "desc": "Kazumi Suzaku",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28ibukisa1%29.gif",
+        "pic": "framedata/img/ib-sa1.gif",
         "damage": "35x20",
         "startup": "4/6/8",
         "hit": "1/1/1",
@@ -618,7 +618,7 @@ ibuki_frames=[
     {
         "name": "sa2",
         "desc": "Yoroi Doushi",
-        "pic": "http://wiki.shoryuken.com/images/2/28/%28ibukisa2%29.gif",
+        "pic": "framedata/img/ib-sa2.gif",
         "damage": "435/280",
         "startup": "1",
         "hit": "1",
@@ -629,7 +629,7 @@ ibuki_frames=[
     {
         "name": "sa3",
         "desc": "Yami Shigure",
-        "pic": "http://wiki.shoryuken.com/images/c/c4/%28ibukisa3%29.gif",
+        "pic": "framedata/img/ib-sa3.gif",
         "damage": "335",
         "startup": "2/3/6",
         "hit": "1",

@@ -1,7 +1,7 @@
 ken_frames=[{
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/8/8d/%28kent%29.gif",
+        "pic": "framedata/img/ke-taunt.gif",
         "damage": "5/5",
         "startup": "15/9",
         "hit": "1/1",
@@ -12,7 +12,7 @@ ken_frames=[{
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28kenlp%29.gif",
+        "pic": "framedata/img/ke-lp.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -23,7 +23,7 @@ ken_frames=[{
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/f/f4/%28kenmp%29.gif",
+        "pic": "framedata/img/ke-mp.gif",
         "damage": "90",
         "startup": "6",
         "hit": "3",
@@ -34,7 +34,7 @@ ken_frames=[{
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/e/e1/%28kenhp%29.gif",
+        "pic": "framedata/img/ke-hp.gif",
         "damage": "130",
         "startup": "9",
         "hit": "3",
@@ -45,7 +45,7 @@ ken_frames=[{
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28kencloselp%29.gif",
+        "pic": "framedata/img/ke-closelp.gif",
         "damage": "20",
         "startup": "3",
         "hit": "3",
@@ -56,7 +56,7 @@ ken_frames=[{
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28kenclosemp%29.gif",
+        "pic": "framedata/img/ke-closemp.gif",
         "damage": "100",
         "startup": "4",
         "hit": "4",
@@ -67,7 +67,7 @@ ken_frames=[{
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/b/b3/%28kenclosehp%29.gif",
+        "pic": "framedata/img/ke-closehp.gif",
         "damage": "130",
         "startup": "6",
         "hit": "3",
@@ -78,7 +78,7 @@ ken_frames=[{
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/2/22/%28kenlk%29.gif",
+        "pic": "framedata/img/ke-lk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "4",
@@ -89,7 +89,7 @@ ken_frames=[{
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/d/d1/%28kenmk%29.gif",
+        "pic": "framedata/img/ke-mk.gif",
         "damage": "110",
         "startup": "8",
         "hit": "7",
@@ -100,7 +100,7 @@ ken_frames=[{
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/1/15/%28kenhk%29.gif",
+        "pic": "framedata/img/ke-hk.gif",
         "damage": "150",
         "startup": "11",
         "hit": "6",
@@ -111,7 +111,7 @@ ken_frames=[{
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28kenjlp%29.gif",
+        "pic": "framedata/img/ke-alp.gif",
         "damage": "50",
         "startup": "4(5 neutral jump)",
         "hit": "until land",
@@ -122,7 +122,7 @@ ken_frames=[{
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28kenjmp%29.gif",
+        "pic": "framedata/img/ke-amp.gif",
         "damage": "100",
         "startup": "5(6 neutral jump)",
         "hit": "5",
@@ -133,7 +133,7 @@ ken_frames=[{
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/6c/%28kenjmp%29.gif",
+        "pic": "framedata/img/ke-ahp.gif",
         "damage": "130",
         "startup": "6(7 neutral jump)",
         "hit": "3",
@@ -144,7 +144,7 @@ ken_frames=[{
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/1/19/%28kenjlk%29.gif",
+        "pic": "framedata/img/ke-alk.gif",
         "damage": "50",
         "startup": "4(5 neutral jump)",
         "hit": "10(19 neutral jump)",
@@ -155,7 +155,7 @@ ken_frames=[{
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28kenjmk%29.gif",
+        "pic": "framedata/img/ke-amk.gif",
         "damage": "90",
         "startup": "5",
         "hit": "6",
@@ -166,7 +166,7 @@ ken_frames=[{
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28kenjhk%29.gif",
+        "pic": "framedata/img/ke-ahk.gif",
         "damage": "125(130 neutral jump)",
         "startup": "6(7 neutral jump)",
         "hit": "4(5 neutral jump)",
@@ -177,7 +177,7 @@ ken_frames=[{
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28kenoh%29.gif",
+        "pic": "framedata/img/ke-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "8",
@@ -188,7 +188,7 @@ ken_frames=[{
     {
         "name": "lp+lk",
         "desc": "Hiza Geri",
-        "pic": "http://wiki.shoryuken.com/images/8/85/%28kenhg%29.gif",
+        "pic": "framedata/img/ke-throw.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -199,7 +199,7 @@ ken_frames=[{
     {
         "name": "f.lp+lk",
         "desc": "Seoi Nage",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28kensn%29.gif",
+        "pic": "framedata/img/ke-fthrow.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -210,7 +210,7 @@ ken_frames=[{
     {
         "name": "b.lp+lk",
         "desc": "Jigoku Guruma",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28kenjg%29.gif",
+        "pic": "framedata/img/ke-bthrow.gif",
         "damage": "110",
         "startup": "2",
         "hit": "1",
@@ -221,7 +221,7 @@ ken_frames=[{
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/39/%28kenclp%29.gif",
+        "pic": "framedata/img/ke-clp.gif",
         "damage": "20",
         "startup": "4",
         "hit": "3",
@@ -232,7 +232,7 @@ ken_frames=[{
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/ae/%28kencmp%29.gif",
+        "pic": "framedata/img/ke-cmp.gif",
         "damage": "90",
         "startup": "5",
         "hit": "4",
@@ -243,7 +243,7 @@ ken_frames=[{
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/4/40/%28kenchp%29.gif",
+        "pic": "framedata/img/ke-chp.gif",
         "damage": "130",
         "startup": "7",
         "hit": "5",
@@ -254,7 +254,7 @@ ken_frames=[{
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/3/32/%28kenclk%29.gif",
+        "pic": "framedata/img/ke-clk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -265,7 +265,7 @@ ken_frames=[{
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/80/%28kencmk%29.gif",
+        "pic": "framedata/img/ke-cmk.gif",
         "damage": "85",
         "startup": "6",
         "hit": "5",
@@ -276,7 +276,7 @@ ken_frames=[{
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/53/%28kenchk%29.gif",
+        "pic": "framedata/img/ke-chk.gif",
         "damage": "130",
         "startup": "5",
         "hit": "5",
@@ -287,7 +287,7 @@ ken_frames=[{
     {
         "name": "f.mk",
         "desc": "Fumikomi Mae Geri",
-        "pic": "http://wiki.shoryuken.com/images/2/24/%28kenfmk%29.gif",
+        "pic": "framedata/img/ke-fmk.gif",
         "damage": "80",
         "startup": "16",
         "hit": "4",
@@ -298,7 +298,7 @@ ken_frames=[{
     {
         "name": "b.mk",
         "desc": "Inazuma Kakato Wari",
-        "pic": "http://wiki.shoryuken.com/images/b/b3/%28kenbmk%29.gif",
+        "pic": "framedata/img/ke-bmk.gif",
         "damage": "130",
         "startup": "8",
         "hit": "2/2",
@@ -309,7 +309,7 @@ ken_frames=[{
     {
         "name": "f.hk",
         "desc": "Shiden Kakato Otoshi",
-        "pic": "http://wiki.shoryuken.com/images/8/8f/%28kenfhk%29.gif",
+        "pic": "framedata/img/ke-fhk.gif",
         "damage": "120",
         "startup": "30",
         "hit": "5",
@@ -320,7 +320,7 @@ ken_frames=[{
     {
         "name": "hold.mk",
         "desc": "Inazuma Kakato Wari",
-        "pic": "http://wiki.shoryuken.com/images/2/25/%28kenhmk%29.gif",
+        "pic": "framedata/img/ke-mk.gif",
         "damage": "110/130",
         "startup": "8/25",
         "hit": "7/2/2",
@@ -331,7 +331,7 @@ ken_frames=[{
     {
         "name": "qcf.lp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28kenhdk%29.gif",
+        "pic": "framedata/img/ke-qcfp.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -342,7 +342,7 @@ ken_frames=[{
     {
         "name": "qcf.mp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28kenhdk%29.gif",
+        "pic": "framedata/img/ke-qcfp.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -353,7 +353,7 @@ ken_frames=[{
     {
         "name": "qcf.hp",
         "desc": "Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/2/2a/%28kenhdk%29.gif",
+        "pic": "framedata/img/ke-qcfp.gif",
         "damage": "60",
         "startup": "10",
         "hit": "1",
@@ -364,7 +364,7 @@ ken_frames=[{
     {
         "name": "qcf.2p",
         "desc": "Hadouken (EX)",
-        "pic": "http://wiki.shoryuken.com/images/a/ad/%28kenhdkex%29.gif",
+        "pic": "framedata/img/ke-qcfp.gif",
         "damage": "60+60",
         "startup": "10",
         "hit": "1",
@@ -375,7 +375,7 @@ ken_frames=[{
     {
         "name": "dp.lp",
         "desc": "Shoryuken (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28kensrk%29.gif",
+        "pic": "framedata/img/ke-dp.gif",
         "damage": "150",
         "startup": "2",
         "hit": "8",
@@ -386,7 +386,7 @@ ken_frames=[{
     {
         "name": "dp.mp",
         "desc": "Shoryuken (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28kensrk%29.gif",
+        "pic": "framedata/img/ke-dp.gif",
         "damage": "165",
         "startup": "3",
         "hit": "2/12",
@@ -397,7 +397,7 @@ ken_frames=[{
     {
         "name": "dp.hp",
         "desc": "Shoryuken (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/6a/%28kensrk%29.gif",
+        "pic": "framedata/img/ke-dp.gif",
         "damage": "185",
         "startup": "1",
         "hit": "2/2/7",
@@ -408,7 +408,7 @@ ken_frames=[{
     {
         "name": "dp.2p",
         "desc": "Shoryuken (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/1c/%28kensrkex%29.gif",
+        "pic": "framedata/img/ke-dp.gif",
         "damage": "80+50+40+40",
         "startup": "1",
         "hit": "2/2/2/14",
@@ -419,7 +419,7 @@ ken_frames=[{
     {
         "name": "qcb.lk",
         "desc": "Tatsumaki Senpuu Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28kentsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "80+30",
         "startup": "6+16+22",
         "hit": "2+3+2",
@@ -430,7 +430,7 @@ ken_frames=[{
     {
         "name": "qcb.mk",
         "desc": "Tatsumaki Senpuu Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28kentsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "60+30(x3)",
         "startup": "6-37",
         "hit": "2x7",
@@ -441,7 +441,7 @@ ken_frames=[{
     {
         "name": "qcb.hk",
         "desc": "Tatsumaki Senpuu Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/f/fb/%28kentsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "60+30(x4)",
         "startup": "6-48",
         "hit": "2x9",
@@ -452,7 +452,7 @@ ken_frames=[{
     {
         "name": "qcb.2k",
         "desc": "Tatsumaki Senpuu Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/7/72/%28kentskex%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "200",
         "startup": "4-48",
         "hit": "2x11",
@@ -463,7 +463,7 @@ ken_frames=[{
    {
         "name": "air.qcb.lk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28kenatsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "160",
         "startup": "7-18",
         "hit": "1x4",
@@ -474,7 +474,7 @@ ken_frames=[{
     {
         "name": "air.qcb.mk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28kenatsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "160",
         "startup": "7-26",
         "hit": "1x6",
@@ -485,7 +485,7 @@ ken_frames=[{
     {
         "name": "air.qcb.hk",
         "desc": "Air Tatsumaki Senpuu Kyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28kenatsk%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "160",
         "startup": "7-34",
         "hit": "1x8",
@@ -496,7 +496,7 @@ ken_frames=[{
     {
         "name": "air.qcb.2k",
         "desc": "Air Tatsumaki Senpuu Kyaku (EX)",
-        "pic": "http://wiki.shoryuken.com/images/a/a2/%28kenatskex%29.gif",
+        "pic": "framedata/img/ke-qcbk.gif",
         "damage": "240",
         "startup": "6-42",
         "hit": "1x13",
@@ -507,7 +507,7 @@ ken_frames=[{
     {
         "name": "sa1",
         "desc": "Shoryureppa",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28kensa1%29.gif",
+        "pic": "framedata/img/ke-sa1.gif",
         "damage": "400",
         "startup": "1",
         "hit": "1",
@@ -518,7 +518,7 @@ ken_frames=[{
     {
         "name": "sa2",
         "desc": "Shinryuken",
-        "pic": "http://wiki.shoryuken.com/images/5/54/%28kensa2%29.gif",
+        "pic": "framedata/img/ke-sa2.gif",
         "damage": "495",
         "startup": "2",
         "hit": "2",
@@ -529,7 +529,7 @@ ken_frames=[{
     {
         "name": "sa3",
         "desc": "Shippu Jinrai Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/d/d5/%28kensa3%29.gif",
+        "pic": "framedata/img/ke-sa3.gif",
         "damage": "290",
         "startup": "2",
         "hit": "2",

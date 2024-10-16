@@ -2,7 +2,7 @@ elena_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/6/64/%28elenat%29.gif",
+        "pic": "framedata/img/el-taunt.gif",
         "damage": "5+5",
         "startup": "18/17",
         "hit": "2/3",
@@ -13,7 +13,7 @@ elena_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/d/de/%28elenalp%29.gif",
+        "pic": "framedata/img/el-lp.gif",
         "damage": "40",
         "startup": "5",
         "hit": "4",
@@ -24,7 +24,7 @@ elena_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/9/9c/%28elenamp%29.gif",
+        "pic": "framedata/img/el-mp.gif",
         "damage": "40+60",
         "startup": "6",
         "hit": "2,3",
@@ -35,7 +35,7 @@ elena_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/2/27/%28elenahp%29.gif",
+        "pic": "framedata/img/el-hp.gif",
         "damage": "140",
         "startup": "13",
         "hit": "4",
@@ -46,7 +46,7 @@ elena_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/8/8f/%28elenalk%29.gif",
+        "pic": "framedata/img/el-lk.gif",
         "damage": "40",
         "startup": "3",
         "hit": "4",
@@ -57,7 +57,7 @@ elena_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/8/80/%28elenamk%29.gif",
+        "pic": "framedata/img/el-mk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "2",
@@ -68,7 +68,7 @@ elena_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28elenahk%29.gif",
+        "pic": "framedata/img/el-hk.gif",
         "damage": "130",
         "startup": "10",
         "hit": "3",
@@ -79,7 +79,7 @@ elena_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28elenajlp%29.gif",
+        "pic": "framedata/img/el-alp.gif",
         "damage": "50",
         "startup": "4",
         "hit": "10",
@@ -90,7 +90,7 @@ elena_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28elenajmp%29.gif",
+        "pic": "framedata/img/el-amp.gif",
         "damage": "100",
         "startup": "6",
         "hit": "5",
@@ -101,7 +101,7 @@ elena_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28elenajhp%29.gif",
+        "pic": "framedata/img/el-ahp.gif",
         "damage": "120",
         "startup": "7",
         "hit": "3",
@@ -112,7 +112,7 @@ elena_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/c/c7/%28elenajlk%29.gif",
+        "pic": "framedata/img/el-alk.gif",
         "damage": "50",
         "startup": "5",
         "hit": "8",
@@ -123,7 +123,7 @@ elena_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/b/bb/%28elenajmk%29.gif",
+        "pic": "framedata/img/el-amk.gif",
         "damage": "90",
         "startup": "7",
         "hit": "6",
@@ -134,7 +134,7 @@ elena_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/f/f4/%28elenajhk%29.gif",
+        "pic": "framedata/img/el-ahk.gif",
         "damage": "40+110",
         "startup": "9/11",
         "hit": "2/4",
@@ -145,7 +145,7 @@ elena_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/b/bf/%28elenaoh%29.gif",
+        "pic": "framedata/img/el-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -156,7 +156,7 @@ elena_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/2/21/%28elenathrow%29.gif",
+        "pic": "framedata/img/el-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -167,7 +167,7 @@ elena_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/2/21/%28elenathrow%29.gif",
+        "pic": "framedata/img/el-throw.gif",
         "damage": "120",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ elena_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/0/0b/%28elenaclp%29.gif",
+        "pic": "framedata/img/el-clp.gif",
         "damage": "40",
         "startup": "4",
         "hit": "4",
@@ -189,7 +189,7 @@ elena_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/0/06/%28elenacmp%29.gif",
+        "pic": "framedata/img/el-cmp.gif",
         "damage": "90",
         "startup": "6",
         "hit": "6",
@@ -200,7 +200,7 @@ elena_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/9/9a/%28elenachp%29.gif",
+        "pic": "framedata/img/el-chp.gif",
         "damage": "110",
         "startup": "7",
         "hit": "2",
@@ -211,7 +211,7 @@ elena_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/f/ff/%28elenaclk%29.gif",
+        "pic": "framedata/img/el-clk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "4",
@@ -222,7 +222,7 @@ elena_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/4/4f/%28elenacmk%29.gif",
+        "pic": "framedata/img/el-cmk.gif",
         "damage": "70",
         "startup": "8",
         "hit": "3",
@@ -233,7 +233,7 @@ elena_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/6/60/%28elenachk%29.gif",
+        "pic": "framedata/img/el-chk.gif",
         "damage": "100",
         "startup": "11",
         "hit": "2",
@@ -244,7 +244,7 @@ elena_frames=[
     {
         "name": "f.mp",
         "desc": "Handstand Kick",
-        "pic": "http://wiki.shoryuken.com/images/f/f3/%28elenafmp%29.gif",
+        "pic": "framedata/img/el-fmp.gif",
         "damage": "80",
         "startup": "9",
         "hit": "2",
@@ -255,7 +255,7 @@ elena_frames=[
     {
         "name": "f.mk",
         "desc": "Handstand Whip",
-        "pic": "http://wiki.shoryuken.com/images/9/99/%28elenafmk%29.gif",
+        "pic": "framedata/img/el-fmk.gif",
         "damage": "80",
         "startup": "11",
         "hit": "8",
@@ -266,7 +266,7 @@ elena_frames=[
     {
         "name": "b.hk",
         "desc": "Round Arch",
-        "pic": "http://wiki.shoryuken.com/images/a/a5/%28elenabhk%29.gif",
+        "pic": "framedata/img/el-bhk.gif",
         "damage": "140",
         "startup": "12",
         "hit": "6",
@@ -277,7 +277,7 @@ elena_frames=[
     {
         "name": "df.hk",
         "desc": "Sliding (Sweep)",
-        "pic": "http://wiki.shoryuken.com/images/8/8d/%28elenadfhk%29.gif",
+        "pic": "framedata/img/el-dfhk.gif",
         "damage": "100",
         "startup": "12",
         "hit": "6",
@@ -288,7 +288,7 @@ elena_frames=[
     {
         "name": "dp.lk",
         "desc": "Scratch Wheel (Short)",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28elenascrw%29.gif",
+        "pic": "framedata/img/el-dpk.gif",
         "damage": "130",
         "startup": "6",
         "hit": "4",
@@ -299,7 +299,7 @@ elena_frames=[
     {
         "name": "dp.mk",
         "desc": "Scratch Wheel (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28elenascrw%29.gif",
+        "pic": "framedata/img/el-dpk.gif",
         "damage": "90+60",
         "startup": "4/7",
         "hit": "3/2",
@@ -310,7 +310,7 @@ elena_frames=[
     {
         "name": "dp.hk",
         "desc": "Scratch Wheel (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/63/%28elenascrw%29.gif",
+        "pic": "framedata/img/el-dpk.gif",
         "damage": "90+40+40",
         "startup": "3/5/7",
         "hit": "2/2/3",
@@ -321,7 +321,7 @@ elena_frames=[
     {
         "name": "qcb.lk",
         "desc": "Spin Scythe (Short)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28elenascy%29.gif",
+        "pic": "framedata/img/el-qcbk.gif",
         "damage": "120+40",
         "startup": "15/36/54/62",
         "hit": "2/2/4/2",
@@ -332,7 +332,7 @@ elena_frames=[
     {
         "name": "qcb.mk",
         "desc": "Spin Scythe (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28elenascy%29.gif",
+        "pic": "framedata/img/el-qcbk.gif",
         "damage": "125+45",
         "startup": "16/41/59/67",
         "hit": "2/2/4/2",
@@ -343,7 +343,7 @@ elena_frames=[
     {
         "name": "qcb.hk",
         "desc": "Spin Scythe (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/b/ba/%28elenascy%29.gif",
+        "pic": "framedata/img/el-qcbk.gif",
         "damage": "130+50",
         "startup": "17/42/60/68",
         "hit": "2/2/4/2",
@@ -354,7 +354,7 @@ elena_frames=[
     {
         "name": "hcf.lk",
         "desc": "Rhino Horn (Short)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28elenaryh%29.gif",
+        "pic": "framedata/img/el-hcfk.gif",
         "damage": "40+140",
         "startup": "14/18/27",
         "hit": "2/2/5",
@@ -365,7 +365,7 @@ elena_frames=[
     {
         "name": "hcf.mk",
         "desc": "Rhino Horn (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28elenaryh%29.gif",
+        "pic": "framedata/img/el-hcfk.gif",
         "damage": "40+170",
         "startup": "18/22/31",
         "hit": "3/2/5",
@@ -376,7 +376,7 @@ elena_frames=[
     {
         "name": "hcf.hk",
         "desc": "Rhino Horn (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28elenaryh%29.gif",
+        "pic": "framedata/img/el-hcfk.gif",
         "damage": "40+160",
         "startup": "23/27/36",
         "hit": "3/2/8",
@@ -387,7 +387,7 @@ elena_frames=[
     {
         "name": "bdp.lk",
         "desc": "Lynx Tail (Short)",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28elenalxt%29.gif",
+        "pic": "framedata/img/el-bdpk.gif",
         "damage": "60",
         "startup": "11/22",
         "hit": "3/3",
@@ -398,7 +398,7 @@ elena_frames=[
     {
         "name": "bdp.mk",
         "desc": "Lynx Tail (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28elenalxt%29.gif",
+        "pic": "framedata/img/el-bdpk.gif",
         "damage": "70+60",
         "startup": "14/25",
         "hit": "3/3",
@@ -409,7 +409,7 @@ elena_frames=[
     {
         "name": "bdp.hk",
         "desc": "Lynx Tail (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28elenalxt%29.gif",
+        "pic": "framedata/img/el-bdpk.gif",
         "damage": "80+(10x2)+40",
         "startup": "16/27/54/64",
         "hit": "3/3",
@@ -420,7 +420,7 @@ elena_frames=[
     {
         "name": "hcb.lp",
         "desc": "Mallet Smash (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/4/4d/%28elenamlsm%29.gif",
+        "pic": "framedata/img/el-hcbp.gif",
         "damage": "120+40",
         "startup": "21/27",
         "hit": "6/2",
@@ -431,7 +431,7 @@ elena_frames=[
     {
         "name": "hcb.mp",
         "desc": "Mallet Smash (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/4/4d/%28elenamlsm%29.gif",
+        "pic": "framedata/img/el-hcbp.gif",
         "damage": "130+40",
         "startup": "24/29",
         "hit": "5/2",
@@ -442,7 +442,7 @@ elena_frames=[
     {
         "name": "hcb.hp",
         "desc": "Mallet Smash (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/4/4d/%28elenamlsm%29.gif",
+        "pic": "framedata/img/el-hcbp.gif",
         "damage": "140+40",
         "startup": "27/31",
         "hit": "4/2",
@@ -453,7 +453,7 @@ elena_frames=[
     {
         "name": "dp.2k",
         "desc": "Scratch Wheel (EX)",
-        "pic": "http://wiki.shoryuken.com/images/1/16/%28elenaswex%29.gif",
+        "pic": "framedata/img/el-dpk.gif",
         "damage": "100+40x3",
         "startup": "3/5/7/9",
         "hit": "2/2/2/2",
@@ -464,7 +464,7 @@ elena_frames=[
     {
         "name": "hcf.2k",
         "desc": "Rhino Horn (EX)",
-        "pic": "http://wiki.shoryuken.com/images/f/f6/%28elenarhex%29.gif",
+        "pic": "framedata/img/el-hcfk.gif",
         "damage": "45+100+80",
         "startup": "11/15/23",
         "hit": "3/2/8",
@@ -475,7 +475,7 @@ elena_frames=[
     {
         "name": "qcb.2k",
         "desc": "Spin Scythe (EX)",
-        "pic": "http://wiki.shoryuken.com/images/7/77/%28elenassex%29.gif",
+        "pic": "framedata/img/el-qcbk.gif",
         "damage": "60x3+40",
         "startup": "10/24/38/50",
         "hit": "2/22/2",
@@ -486,7 +486,7 @@ elena_frames=[
     {
         "name": "hcb.2p",
         "desc": "Mallet Smash (EX)",
-        "pic": "http://wiki.shoryuken.com/images/3/3a/%28elenamsmex%29.gif",
+        "pic": "framedata/img/el-hcbp.gif",
         "damage": "120+60",
         "startup": "21/23",
         "hit": "2/2",
@@ -497,7 +497,7 @@ elena_frames=[
     {
         "name": "bdp.2k",
         "desc": "Lynx Tail (EX)",
-        "pic": "http://wiki.shoryuken.com/images/a/a4/%28elenaltex%29.gif",
+        "pic": "framedata/img/el-bdpk.gif",
         "damage": "80+10x3+40",
         "startup": "10/18/36/44/66",
         "hit": "4x4/6",
@@ -508,7 +508,7 @@ elena_frames=[
     {
         "name": "sa1",
         "desc": "Spinning Beat",
-        "pic": "http://wiki.shoryuken.com/images/4/4b/%28elenasa1%29.gif",
+        "pic": "framedata/img/el-sa1.gif",
         "damage": "310",
         "startup": "1/21/43",
         "hit": "4/5/8",
@@ -519,7 +519,7 @@ elena_frames=[
     {
         "name": "sa2",
         "desc": "Brave Dance",
-        "pic": "http://wiki.shoryuken.com/images/e/ef/%28elenasa2%29.gif",
+        "pic": "framedata/img/el-sa2.gif",
         "damage": "400",
         "startup": "1",
         "hit": "15+2x7+3+5",
@@ -530,7 +530,7 @@ elena_frames=[
     {
         "name": "sa3",
         "desc": "Healing",
-        "pic": "http://wiki.shoryuken.com/images/8/86/%28elenasa3%29.gif",
+        "pic": "framedata/img/el-sa3.gif",
         "damage": "N/A",
         "startup": "33",
         "hit": "75",

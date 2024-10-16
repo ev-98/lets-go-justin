@@ -2,7 +2,7 @@ gouki_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/c/c6/%28akumat%29.gif",
+        "pic": "framedata/img/go-taunt.gif",
         "damage": "N/A",
         "startup": "66",
         "hit": "N/A",
@@ -13,7 +13,7 @@ gouki_frames=[
     {
         "name": "lp",
         "desc": "Far Jab",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28akumalp%29.gif",
+        "pic": "framedata/img/go-lp.gif",
         "damage": "20",
         "startup": "4",
         "hit": "3",
@@ -24,7 +24,7 @@ gouki_frames=[
     {
         "name": "mp",
         "desc": "Far Strong",
-        "pic": "http://wiki.shoryuken.com/images/b/be/%28akumamp%29.gif",
+        "pic": "framedata/img/go-mp.gif",
         "damage": "105",
         "startup": "5",
         "hit": "4",
@@ -35,7 +35,7 @@ gouki_frames=[
     {
         "name": "hp",
         "desc": "Far Fierce",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28akumahp%29.gif",
+        "pic": "framedata/img/go-hp.gif",
         "damage": "140",
         "startup": "8",
         "hit": "5",
@@ -46,7 +46,7 @@ gouki_frames=[
     {
         "name": "close.lp",
         "desc": "Close Jab",
-        "pic": "http://wiki.shoryuken.com/images/b/bf/%28akumacloselp%29.gif",
+        "pic": "framedata/img/go-closelp.gif",
         "damage": "30",
         "startup": "3",
         "hit": "3",
@@ -57,7 +57,7 @@ gouki_frames=[
     {
         "name": "close.mp",
         "desc": "Close Strong",
-        "pic": "http://wiki.shoryuken.com/images/d/d9/%28akumaclosemp%29.gif",
+        "pic": "framedata/img/go-closemp.gif",
         "damage": "115",
         "startup": "5",
         "hit": "4",
@@ -68,7 +68,7 @@ gouki_frames=[
     {
         "name": "close.hp",
         "desc": "Close Fierce",
-        "pic": "http://wiki.shoryuken.com/images/9/94/%28akumaclosehp%29.gif",
+        "pic": "framedata/img/go-closehp.gif",
         "damage": "135",
         "startup": "4",
         "hit": "4",
@@ -79,7 +79,7 @@ gouki_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/d/d7/%28akumalk%29.gif",
+        "pic": "framedata/img/go-lk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "4",
@@ -90,7 +90,7 @@ gouki_frames=[
     {
         "name": "mk",
         "desc": "Far Forward",
-        "pic": "http://wiki.shoryuken.com/images/4/43/%28akumamk%29.gif",
+        "pic": "framedata/img/go-mk.gif",
         "damage": "95",
         "startup": "5",
         "hit": "5",
@@ -101,7 +101,7 @@ gouki_frames=[
     {
         "name": "hk",
         "desc": "Far Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/2/22/%28akumahk%29.gif",
+        "pic": "framedata/img/go-hk.gif",
         "damage": "145",
         "startup": "9",
         "hit": "5",
@@ -112,7 +112,7 @@ gouki_frames=[
     {
         "name": "close.mk",
         "desc": "Close Forward",
-        "pic": "http://wiki.shoryuken.com/images/4/49/%28akumaclosemk%29.gif",
+        "pic": "framedata/img/go-closemk.gif",
         "damage": "115",
         "startup": "4",
         "hit": "5",
@@ -123,7 +123,7 @@ gouki_frames=[
     {
         "name": "close.hk",
         "desc": "Close Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/b/b4/%28akumaclosehk%29.gif",
+        "pic": "framedata/img/go-closehk.gif",
         "damage": "120+80",
         "startup": "5/7",
         "hit": "3/5",
@@ -134,7 +134,7 @@ gouki_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/a/a6/%28akumajlp%29.gif",
+        "pic": "framedata/img/go-alp.gif",
         "damage": "40",
         "startup": "4",
         "hit": "until land",
@@ -145,7 +145,7 @@ gouki_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/ab/%28akumajmp%29.gif",
+        "pic": "framedata/img/go-amp.gif",
         "damage": "90",
         "startup": "5",
         "hit": "5",
@@ -156,7 +156,7 @@ gouki_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/a/a2/%28akumajhp%29.gif",
+        "pic": "framedata/img/go-ahp.gif",
         "damage": "90(130 neutral jump)",
         "startup": "6",
         "hit": "4(3 neutral jump)",
@@ -167,7 +167,7 @@ gouki_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/1/1a/%28akumajlk%29.gif",
+        "pic": "framedata/img/go-alk.gif",
         "damage": "40",
         "startup": "4",
         "hit": "10(19 neutral jump)",
@@ -178,7 +178,7 @@ gouki_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/5/51/%28akumajmk%29.gif",
+        "pic": "framedata/img/go-amk.gif",
         "damage": "80",
         "startup": "5",
         "hit": "6",
@@ -189,7 +189,7 @@ gouki_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/5/50/%28akumajhk%29.gif",
+        "pic": "framedata/img/go-ahk.gif",
         "damage": "120",
         "startup": "6",
         "hit": "4(5 neutral jump)",
@@ -200,7 +200,7 @@ gouki_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/1/1e/%28akumaoh%29.gif",
+        "pic": "framedata/img/go-overhead.gif",
         "damage": "40",
         "startup": "15",
         "hit": "8",
@@ -211,7 +211,7 @@ gouki_frames=[
     {
         "name": "lp+lk",
         "desc": "Seoi Nage",
-        "pic": "http://wiki.shoryuken.com/images/a/a4/%28akumasn%29.gif",
+        "pic": "framedata/img/go-fthrow.gif",
         "damage": "110",
         "startup": "2",
         "hit": "1",
@@ -222,7 +222,7 @@ gouki_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Tomoe Nage",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28akumatn%29.gif",
+        "pic": "framedata/img/go-bthrow.gif",
         "damage": "110",
         "startup": "2",
         "hit": "1",
@@ -233,7 +233,7 @@ gouki_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/4/44/%28akumaclp%29.gif",
+        "pic": "framedata/img/go-clp.gif",
         "damage": "20",
         "startup": "4",
         "hit": "3",
@@ -244,7 +244,7 @@ gouki_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/a/ae/%28akumacmp%29.gif",
+        "pic": "framedata/img/go-cmp.gif",
         "damage": "95",
         "startup": "5",
         "hit": "4",
@@ -255,7 +255,7 @@ gouki_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/1/18/%28akumachp%29.gif",
+        "pic": "framedata/img/go-chp.gif",
         "damage": "135",
         "startup": "5",
         "hit": "5",
@@ -266,7 +266,7 @@ gouki_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28akumaclk%29.gif",
+        "pic": "framedata/img/go-clk.gif",
         "damage": "20",
         "startup": "5",
         "hit": "3",
@@ -277,7 +277,7 @@ gouki_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28akumaclk%29.gif",
+        "pic": "framedata/img/go-cmk.gif",
         "damage": "90",
         "startup": "6",
         "hit": "5",
@@ -288,7 +288,7 @@ gouki_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/3/34/%28akumaclk%29.gif",
+        "pic": "framedata/img/go-chk.gif",
         "damage": "135",
         "startup": "7",
         "hit": "5",
@@ -299,7 +299,7 @@ gouki_frames=[
     {
         "name": "f.mp",
         "desc": "Zugai Hasatsu",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28akumafmp%29.gif",
+        "pic": "framedata/img/go-fmp.gif",
         "damage": "40+50",
         "startup": "14",
         "hit": "1",
@@ -310,7 +310,7 @@ gouki_frames=[
     {
         "name": "air.d.mk",
         "desc": "Tenma Kuujin Kyaku",
-        "pic": "http://wiki.shoryuken.com/images/9/93/%28akumajdmk%29.gif",
+        "pic": "framedata/img/go-adk.gif",
         "damage": "90",
         "startup": "8",
         "hit": "until land",
@@ -321,7 +321,7 @@ gouki_frames=[
     {
         "name": "qcf.lp",
         "desc": "Gou Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28akumahdk%29.gif",
+        "pic": "framedata/img/go-qcfp.gif",
         "damage": "60",
         "startup": "7",
         "hit": "1",
@@ -332,7 +332,7 @@ gouki_frames=[
     {
         "name": "qcf.mp",
         "desc": "Gou Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28akumahdk%29.gif",
+        "pic": "framedata/img/go-qcfp.gif",
         "damage": "60",
         "startup": "7",
         "hit": "1",
@@ -343,7 +343,7 @@ gouki_frames=[
     {
         "name": "qcf.hp",
         "desc": "Gou Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/d/d0/%28akumahdk%29.gif",
+        "pic": "framedata/img/go-qcfp.gif",
         "damage": "60",
         "startup": "7",
         "hit": "1",
@@ -354,7 +354,7 @@ gouki_frames=[
     {
         "name": "air.qcf.lp",
         "desc": "Zankuu Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28akumazhdk%29.gif",
+        "pic": "framedata/img/go-aqcfp.gif",
         "damage": "60",
         "startup": "11",
         "hit": "1",
@@ -365,7 +365,7 @@ gouki_frames=[
     {
         "name": "air.qcf.mp",
         "desc": "Zankuu Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28akumazhdk%29.gif",
+        "pic": "framedata/img/go-aqcfp.gif",
         "damage": "60",
         "startup": "11",
         "hit": "1",
@@ -376,7 +376,7 @@ gouki_frames=[
     {
         "name": "air.qcf.hp",
         "desc": "Zankuu Hadouken",
-        "pic": "http://wiki.shoryuken.com/images/8/84/%28akumazhdk%29.gif",
+        "pic": "framedata/img/go-aqcfp.gif",
         "damage": "60",
         "startup": "11",
         "hit": "1",
@@ -387,7 +387,7 @@ gouki_frames=[
     {
         "name": "hcb.lp",
         "desc": "Shakunestsu Hadouken (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28akumashdk%29.gif",
+        "pic": "framedata/img/go-hcbp.gif",
         "damage": "50",
         "startup": "13",
         "hit": "1",
@@ -398,7 +398,7 @@ gouki_frames=[
     {
         "name": "hcb.mp",
         "desc": "Shakunestsu Hadouken (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28akumashdk%29.gif",
+        "pic": "framedata/img/go-hcbp.gif",
         "damage": "50",
         "startup": "17",
         "hit": "1",
@@ -409,7 +409,7 @@ gouki_frames=[
     {
         "name": "hcb.hp",
         "desc": "Shakunestsu Hadouken (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/5/5a/%28akumashdk%29.gif",
+        "pic": "framedata/img/go-hcbp.gif",
         "damage": "50",
         "startup": "21",
         "hit": "1",
@@ -420,7 +420,7 @@ gouki_frames=[
     {
         "name": "air.qcb.lk",
         "desc": "Air Tatsumaki Zankuukyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/1/1b/%28akumaatzk%29.gif",
+        "pic": "framedata/img/go-aqcbk.gif",
         "damage": "80",
         "startup": "5/9",
         "hit": "2/1",
@@ -431,7 +431,7 @@ gouki_frames=[
     {
         "name": "air.qcb.mk",
         "desc": "Air Tatsumaki Zankuukyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/1/1b/%28akumaatzk%29.gif",
+        "pic": "framedata/img/go-aqcbk.gif",
         "damage": "80x2",
         "startup": "5/9/12/16",
         "hit": "2/1/2/1",
@@ -442,7 +442,7 @@ gouki_frames=[
     {
         "name": "air.qcb.hk",
         "desc": "Air Tatsumaki Zankuukyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/1/1b/%28akumaatzk%29.gif",
+        "pic": "framedata/img/go-aqcbk.gif",
         "damage": "80x3",
         "startup": "5-30",
         "hit": "2/1/2/1/2/1/2/1",
@@ -453,7 +453,7 @@ gouki_frames=[
     {
         "name": "qcb.lk",
         "desc": "Tatsumaki Zankuukyaku (Short)",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28akumatzk%29.gif",
+        "pic": "framedata/img/go-qcbk.gif",
         "damage": "100",
         "startup": "11/(14)",
         "hit": "2/(2)",
@@ -464,7 +464,7 @@ gouki_frames=[
     {
         "name": "qcb.mk",
         "desc": "Tatsumaki Zankuukyaku (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28akumatzk%29.gif",
+        "pic": "framedata/img/go-qcbk.gif",
         "damage": "120",
         "startup": "2/11/(14)/18/(21)",
         "hit": "2/2/(2)/2/(2)",
@@ -475,7 +475,7 @@ gouki_frames=[
     {
         "name": "qcb.hk",
         "desc": "Tatsumaki Zankuukyaku (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28akumatzk%29.gif",
+        "pic": "framedata/img/go-qcbk.gif",
         "damage": "150",
         "startup": "2/11/(14)/18/(21)/25/(28)/32/(35)",
         "hit": "2/2/(2)/2/(2)/2/(2)/2/(2)",
@@ -486,7 +486,7 @@ gouki_frames=[
     {
         "name": "dp.lp",
         "desc": "Gou Shoryuken (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/7/7e/%28akumasrk%29.gif",
+        "pic": "framedata/img/go-dp.gif",
         "damage": "130",
         "startup": "3",
         "hit": "14",
@@ -497,7 +497,7 @@ gouki_frames=[
     {
         "name": "dp.mp",
         "desc": "Gou Shoryuken (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/7/7e/%28akumasrk%29.gif",
+        "pic": "framedata/img/go-dp.gif",
         "damage": "150",
         "startup": "2",
         "hit": "2/5",
@@ -508,7 +508,7 @@ gouki_frames=[
     {
         "name": "dp.hp",
         "desc": "Gou Shoryuken (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/7/7e/%28akumasrk%29.gif",
+        "pic": "framedata/img/go-dp.gif",
         "damage": "180",
         "startup": "1",
         "hit": "2/2/19",
@@ -519,7 +519,7 @@ gouki_frames=[
     {
         "name": "dp.lk",
         "desc": "Hyakki Gouzan",
-        "pic": "http://wiki.shoryuken.com/images/9/9e/%28akumahgouzan%29.gif",
+        "pic": "framedata/img/go-dpk.gif",
         "damage": "100",
         "startup": "41",
         "hit": "15",
@@ -530,7 +530,7 @@ gouki_frames=[
     {
         "name": "dp.lk,lp",
         "desc": "Hyakki Goushou",
-        "pic": "http://wiki.shoryuken.com/images/3/36/%28akumahgoushou%29.gif",
+        "pic": "framedata/img/go-dpktop.gif",
         "damage": "130",
         "startup": "10",
         "hit": "3",
@@ -541,7 +541,7 @@ gouki_frames=[
     {
         "name": "dp.lk,lk",
         "desc": "Hyakki Goujin",
-        "pic": "http://wiki.shoryuken.com/images/1/13/%28akumahgoujin%29.gif",
+        "pic": "framedata/img/go-dpktok.gif",
         "damage": "100",
         "startup": "9",
         "hit": "until land",
@@ -552,7 +552,7 @@ gouki_frames=[
     {
         "name": "dp.lk,lp+lk",
         "desc": "Hyakki Gousai",
-        "pic": "http://wiki.shoryuken.com/images/7/7f/%28akumahgousai%29.gif",
+        "pic": "framedata/img/go-dpktokp.gif",
         "damage": "110",
         "startup": "3",
         "hit": "2",
@@ -563,7 +563,7 @@ gouki_frames=[
     {
         "name": "dp.2p",
         "desc": "Ashura Senkuu (PP)",
-        "pic": "http://wiki.shoryuken.com/images/7/7c/%28akumaasf%29.gif",
+        "pic": "framedata/img/go-dp2p.gif",
         "damage": "N/A",
         "startup": "20",
         "hit": "46",
@@ -574,7 +574,7 @@ gouki_frames=[
     {
         "name": "dp.2k",
         "desc": "Ashura Senkuu (KK)",
-        "pic": "http://wiki.shoryuken.com/images/7/7c/%28akumaasf%29.gif",
+        "pic": "framedata/img/go-dp2k.gif",
         "damage": "N/A",
         "startup": "20",
         "hit": "30",
@@ -585,7 +585,7 @@ gouki_frames=[
     {
         "name": "sa1",
         "desc": "Messatsu-Gou Hadou",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28akumamgh%29.gif",
+        "pic": "framedata/img/go-sa1.gif",
         "damage": "290",
         "startup": "2",
         "hit": "1",
@@ -596,7 +596,7 @@ gouki_frames=[
     {
         "name": "air.sa1",
         "desc": "Tenma-Gou Zankuu",
-        "pic": "http://wiki.shoryuken.com/images/6/62/%28akumatgz%29.gif",
+        "pic": "framedata/img/go-airsa1.gif",
         "damage": "320",
         "startup": "7",
         "hit": "1",
@@ -607,7 +607,7 @@ gouki_frames=[
     {
         "name": "sa2",
         "desc": "Messatsu Gou Shoryu",
-        "pic": "http://wiki.shoryuken.com/images/8/82/%28akumamgs%29.gif",
+        "pic": "framedata/img/go-sa2.gif",
         "damage": "390",
         "startup": "1",
         "hit": "2",
@@ -618,7 +618,7 @@ gouki_frames=[
     {
         "name": "sa3",
         "desc": "Messatsu Gou Rasen",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28akumamgr%29.gif",
+        "pic": "framedata/img/go-sa3.gif",
         "damage": "390",
         "startup": "14",
         "hit": "2",
@@ -629,7 +629,7 @@ gouki_frames=[
     {
         "name": "air.sa3",
         "desc": "Messatsu Gou Senpuu",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28akumamgr%29.gif",
+        "pic": "framedata/img/go-sa3.gif",
         "damage": "405",
         "startup": "9",
         "hit": "1",
@@ -640,7 +640,7 @@ gouki_frames=[
     {
         "name": "lp,lp,f,lk,hp",
         "desc": "Shun Goku Satsu",
-        "pic": "http://wiki.shoryuken.com/images/e/e8/%28akumamgr%29.gif",
+        "pic": "framedata/img/go-super.gif",
         "damage": "490",
         "startup": "1",
         "hit": "38",
@@ -651,7 +651,7 @@ gouki_frames=[
     {
         "name": "d,d,d+3p",
         "desc": "Kongou Kokuretsu Zan",
-        "pic": "http://wiki.shoryuken.com/images/1/11/%28akumakkz%29.gif",
+        "pic": "framedata/img/go-dddppp.gif",
         "damage": "640",
         "startup": "16",
         "hit": "6",

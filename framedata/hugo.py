@@ -2,7 +2,7 @@ hugo_frames=[
     {
         "name": "hp+hk",
         "desc": "Taunt",
-        "pic": "http://wiki.shoryuken.com/images/7/75/%28hugotaunt%29.gif",
+        "pic": "framedata/img/hu-taunt.gif",
         "damage": "N/A",
         "startup": "N/A",
         "hit": "68(95 hold)",
@@ -13,7 +13,7 @@ hugo_frames=[
     {
         "name": "lp",
         "desc": "Jab",
-        "pic": "http://wiki.shoryuken.com/images/d/dc/%28hugolp%29.gif",
+        "pic": "framedata/img/hu-lp.gif",
         "damage": "35",
         "startup": "4",
         "hit": "4",
@@ -24,7 +24,7 @@ hugo_frames=[
     {
         "name": "mp",
         "desc": "Strong",
-        "pic": "http://wiki.shoryuken.com/images/0/0c/%28hugomp%29.gif",
+        "pic": "framedata/img/hu-mp.gif",
         "damage": "120",
         "startup": "10",
         "hit": "7",
@@ -35,7 +35,7 @@ hugo_frames=[
     {
         "name": "hp",
         "desc": "Fierce",
-        "pic": "http://wiki.shoryuken.com/images/6/69/%28hugohp%29.gif",
+        "pic": "framedata/img/hu-hp.gif",
         "damage": "170",
         "startup": "16",
         "hit": "7",
@@ -46,7 +46,7 @@ hugo_frames=[
     {
         "name": "lk",
         "desc": "Short",
-        "pic": "http://wiki.shoryuken.com/images/0/02/%28hugolk%29.gif",
+        "pic": "framedata/img/hu-lk.gif",
         "damage": "50",
         "startup": "5",
         "hit": "4",
@@ -57,7 +57,7 @@ hugo_frames=[
     {
         "name": "mk",
         "desc": "Forward",
-        "pic": "http://wiki.shoryuken.com/images/7/7b/%28hugomk%29.gif",
+        "pic": "framedata/img/hu-mk.gif",
         "damage": "115",
         "startup": "9/14",
         "hit": "2/4",
@@ -68,7 +68,7 @@ hugo_frames=[
     {
         "name": "hk",
         "desc": "Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28hugojhk%29.gif",
+        "pic": "framedata/img/hu-hk.gif",
         "damage": "150",
         "startup": "21",
         "hit": "8",
@@ -79,7 +79,7 @@ hugo_frames=[
     {
         "name": "air.lp",
         "desc": "Jump Jab",
-        "pic": "http://wiki.shoryuken.com/images/e/ec/%28hugojlp%29.gif",
+        "pic": "framedata/img/hu-alp.gif",
         "damage": "40",
         "startup": "3",
         "hit": "11",
@@ -90,7 +90,7 @@ hugo_frames=[
     {
         "name": "air.mp",
         "desc": "Jump Strong",
-        "pic": "http://wiki.shoryuken.com/images/6/61/%28hugojmp%29.gif",
+        "pic": "framedata/img/hu-amp.gif",
         "damage": "100",
         "startup": "6",
         "hit": "8",
@@ -101,7 +101,7 @@ hugo_frames=[
     {
         "name": "air.hp",
         "desc": "Jump Fierce",
-        "pic": "http://wiki.shoryuken.com/images/1/18/%28hugojhp%29.gif",
+        "pic": "framedata/img/hu-ahp.gif",
         "damage": "150",
         "startup": "11",
         "hit": "5",
@@ -112,7 +112,7 @@ hugo_frames=[
     {
         "name": "air.lk",
         "desc": "Jump Short",
-        "pic": "http://wiki.shoryuken.com/images/2/25/%28hugojlk%29.gif",
+        "pic": "framedata/img/hu-alk.gif",
         "damage": "60",
         "startup": "3",
         "hit": "16",
@@ -123,7 +123,7 @@ hugo_frames=[
     {
         "name": "air.mk",
         "desc": "Jump Forward",
-        "pic": "http://wiki.shoryuken.com/images/9/99/%28hugojmk%29.gif",
+        "pic": "framedata/img/hu-amk.gif",
         "damage": "100",
         "startup": "5",
         "hit": "7",
@@ -134,7 +134,7 @@ hugo_frames=[
     {
         "name": "air.hk",
         "desc": "Jump Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28hugojhk%29.gif",
+        "pic": "framedata/img/hu-ahk.gif",
         "damage": "130",
         "startup": "11",
         "hit": "7",
@@ -145,7 +145,7 @@ hugo_frames=[
     {
         "name": "mp+mk",
         "desc": "Universal Overhead",
-        "pic": "http://wiki.shoryuken.com/images/9/9b/%28hugouoh%29.gif",
+        "pic": "framedata/img/hu-taunt.gif",
         "damage": "40",
         "startup": "15",
         "hit": "10",
@@ -156,7 +156,7 @@ hugo_frames=[
     {
         "name": "lp+lk",
         "desc": "Neck Hanging Three",
-        "pic": "http://wiki.shoryuken.com/images/8/88/%28hugonht%29.gif",
+        "pic": "framedata/img/hu-throw.gif",
         "damage": "130",
         "startup": "2",
         "hit": "1",
@@ -167,7 +167,7 @@ hugo_frames=[
     {
         "name": "f.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/7/76/%28hugobs%29.gif",
+        "pic": "framedata/img/hu-fthrow.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -178,7 +178,7 @@ hugo_frames=[
     {
         "name": "b.lp+lk",
         "desc": "Body Slam",
-        "pic": "http://wiki.shoryuken.com/images/7/76/%28hugobs%29.gif",
+        "pic": "framedata/img/hu-fthrow.gif",
         "damage": "160",
         "startup": "2",
         "hit": "1",
@@ -189,7 +189,7 @@ hugo_frames=[
     {
         "name": "c.lp",
         "desc": "Crouch Jab",
-        "pic": "http://wiki.shoryuken.com/images/4/46/%28hugoclp%29.gif",
+        "pic": "framedata/img/hu-clp.gif",
         "damage": "30",
         "startup": "4",
         "hit": "3",
@@ -200,7 +200,7 @@ hugo_frames=[
     {
         "name": "c.mp",
         "desc": "Crouch Strong",
-        "pic": "http://wiki.shoryuken.com/images/c/ca/%28hugocmp%29.gif",
+        "pic": "framedata/img/hu-cmp.gif",
         "damage": "120",
         "startup": "7",
         "hit": "5",
@@ -211,7 +211,7 @@ hugo_frames=[
     {
         "name": "c.hp",
         "desc": "Crouch Fierce",
-        "pic": "http://wiki.shoryuken.com/images/7/7d/%28hugochp%29.gif",
+        "pic": "framedata/img/hu-chp.gif",
         "damage": "110",
         "startup": "13",
         "hit": "10",
@@ -222,7 +222,7 @@ hugo_frames=[
     {
         "name": "c.lk",
         "desc": "Crouch Short",
-        "pic": "http://wiki.shoryuken.com/images/4/42/%28hugoclk%29.gif",
+        "pic": "framedata/img/hu-clk.gif",
         "damage": "40",
         "startup": "3",
         "hit": "3",
@@ -233,7 +233,7 @@ hugo_frames=[
     {
         "name": "c.mk",
         "desc": "Crouch Forward",
-        "pic": "http://wiki.shoryuken.com/images/b/b7/%28hugocmk%29.gif",
+        "pic": "framedata/img/hu-cmk.gif",
         "damage": "100",
         "startup": "8",
         "hit": "5",
@@ -244,7 +244,7 @@ hugo_frames=[
     {
         "name": "c.hk",
         "desc": "Crouch Roundhouse",
-        "pic": "http://wiki.shoryuken.com/images/0/07/%28hugochk%29.gif",
+        "pic": "framedata/img/hu-chk.gif",
         "damage": "170",
         "startup": "11",
         "hit": "23",
@@ -255,7 +255,7 @@ hugo_frames=[
     {
         "name": "f.hp",
         "desc": "Hammer Hook",
-        "pic": "http://wiki.shoryuken.com/images/2/20/%28hugofhp%29.gif",
+        "pic": "framedata/img/hu-fhp.gif",
         "damage": "160",
         "startup": "14",
         "hit": "4",
@@ -266,7 +266,7 @@ hugo_frames=[
     {
         "name": "f.hk",
         "desc": "Drop Kick",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28hugojhk%29.gif",
+        "pic": "framedata/img/hu-fhk.gif",
         "damage": "150",
         "startup": "21",
         "hit": "8",
@@ -277,7 +277,7 @@ hugo_frames=[
     {
         "name": "b.hk",
         "desc": "Drop Kick",
-        "pic": "http://wiki.shoryuken.com/images/c/cf/%28hugojhk%29.gif",
+        "pic": "framedata/img/hu-bhk.gif",
         "damage": "150",
         "startup": "21",
         "hit": "8",
@@ -288,7 +288,7 @@ hugo_frames=[
     {
         "name": "air.d.hp",
         "desc": "Body Press",
-        "pic": "http://wiki.shoryuken.com/images/e/e2/%28hugojdhp%29.gif",
+        "pic": "framedata/img/hu-adhp.gif",
         "damage": "100",
         "startup": "9",
         "hit": "until land",
@@ -299,7 +299,7 @@ hugo_frames=[
     {
         "name": "qcb.lp",
         "desc": "Giant Palm Bomber (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28hugogpb%29.gif",
+        "pic": "framedata/img/hu-qcbp.gif",
         "damage": "110",
         "startup": "17",
         "hit": "2",
@@ -310,7 +310,7 @@ hugo_frames=[
     {
         "name": "qcb.mp",
         "desc": "Giant Palm Bomber (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28hugogpb%29.gif",
+        "pic": "framedata/img/hu-qcbp.gif",
         "damage": "125",
         "startup": "19",
         "hit": "2",
@@ -321,7 +321,7 @@ hugo_frames=[
     {
         "name": "qcb.hp",
         "desc": "Giant Palm Bomber (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/3/3d/%28hugogpb%29.gif",
+        "pic": "framedata/img/hu-qcbp.gif",
         "damage": "140",
         "startup": "22",
         "hit": "2",
@@ -332,7 +332,7 @@ hugo_frames=[
     {
         "name": "360.lp",
         "desc": "Moonsault Press (Jab)",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28hugomsp%29.gif",
+        "pic": "framedata/img/hu-360p.gif",
         "damage": "240",
         "startup": "2",
         "hit": "2",
@@ -343,7 +343,7 @@ hugo_frames=[
     {
         "name": "360.mp",
         "desc": "Moonsault Press (Strong)",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28hugomsp%29.gif",
+        "pic": "framedata/img/hu-360p.gif",
         "damage": "255",
         "startup": "2",
         "hit": "2",
@@ -354,7 +354,7 @@ hugo_frames=[
     {
         "name": "360.hp",
         "desc": "Moonsault Press (Fierce)",
-        "pic": "http://wiki.shoryuken.com/images/6/6f/%28hugomsp%29.gif",
+        "pic": "framedata/img/hu-360p.gif",
         "damage": "280",
         "startup": "2",
         "hit": "2",
@@ -365,7 +365,7 @@ hugo_frames=[
     {
         "name": "qcf.lk",
         "desc": "Monster Lariat (Short)",
-        "pic": "http://wiki.shoryuken.com/images/f/f6/%28hugoml%29.gif",
+        "pic": "framedata/img/hu-qcfk.gif",
         "damage": "150",
         "startup": "11",
         "hit": "5",
@@ -376,7 +376,7 @@ hugo_frames=[
     {
         "name": "qcf.mk",
         "desc": "Monster Lariat (Short)",
-        "pic": "http://wiki.shoryuken.com/images/f/f6/%28hugoml%29.gif",
+        "pic": "framedata/img/hu-qcfk.gif",
         "damage": "160",
         "startup": "15",
         "hit": "5",
@@ -387,7 +387,7 @@ hugo_frames=[
     {
         "name": "qcf.hk",
         "desc": "Monster Lariat (Short)",
-        "pic": "http://wiki.shoryuken.com/images/f/f6/%28hugoml%29.gif",
+        "pic": "framedata/img/hu-qcfk.gif",
         "damage": "170",
         "startup": "24",
         "hit": "5",
@@ -398,7 +398,7 @@ hugo_frames=[
     {
         "name": "dp.lk",
         "desc": "Shootdown Backbreaker (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28hugosbb%29.gif",
+        "pic": "framedata/img/hu-dpk.gif",
         "damage": "180",
         "startup": "5",
         "hit": "9",
@@ -409,7 +409,7 @@ hugo_frames=[
     {
         "name": "dp.mk",
         "desc": "Shootdown Backbreaker (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28hugosbb%29.gif",
+        "pic": "framedata/img/hu-dpk.gif",
         "damage": "200",
         "startup": "17",
         "hit": "10",
@@ -420,7 +420,7 @@ hugo_frames=[
     {
         "name": "dp.hk",
         "desc": "Shootdown Backbreaker (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/96/%28hugosbb%29.gif",
+        "pic": "framedata/img/hu-dpk.gif",
         "damage": "220",
         "startup": "12",
         "hit": "12",
@@ -431,7 +431,7 @@ hugo_frames=[
     {
         "name": "360.lk",
         "desc": "Meat Squasher (Short)",
-        "pic": "http://wiki.shoryuken.com/images/9/9c/%28hugomsquasher%29.gif",
+        "pic": "framedata/img/hu-360k.gif",
         "damage": "160",
         "startup": "20~24",
         "hit": "2",
@@ -442,7 +442,7 @@ hugo_frames=[
     {
         "name": "360.mk",
         "desc": "Meat Squasher (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/9/9c/%28hugomsquasher%29.gif",
+        "pic": "framedata/img/hu-360k.gif",
         "damage": "160",
         "startup": "30~52",
         "hit": "2",
@@ -453,7 +453,7 @@ hugo_frames=[
     {
         "name": "360.hk",
         "desc": "Meat Squasher (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/9/9c/%28hugomsquasher%29.gif",
+        "pic": "framedata/img/hu-360k.gif",
         "damage": "160",
         "startup": "47~67",
         "hit": "2",
@@ -464,7 +464,7 @@ hugo_frames=[
     {
         "name": "hcb.lk",
         "desc": "Ultra Throw (Short)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28hugout%29.gif",
+        "pic": "framedata/img/hu-hcbk.gif",
         "damage": "70",
         "startup": "7",
         "hit": "2",
@@ -475,7 +475,7 @@ hugo_frames=[
     {
         "name": "hcb.mk",
         "desc": "Ultra Throw (Forward)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28hugout%29.gif",
+        "pic": "framedata/img/hu-hcbk.gif",
         "damage": "70",
         "startup": "7",
         "hit": "2",
@@ -486,7 +486,7 @@ hugo_frames=[
     {
         "name": "hcb.mk",
         "desc": "Ultra Throw (Roundhouse)",
-        "pic": "http://wiki.shoryuken.com/images/a/a8/%28hugout%29.gif",
+        "pic": "framedata/img/hu-hcbk.gif",
         "damage": "70",
         "startup": "7",
         "hit": "2",
@@ -497,7 +497,7 @@ hugo_frames=[
     {
         "name": "qcb.2p",
         "desc": "Giant Palm Bomber (EX)",
-        "pic": "http://wiki.shoryuken.com/images/b/b1/%28hugogpbex%29.gif",
+        "pic": "framedata/img/hu-qcbp.gif",
         "damage": "220",
         "startup": "22",
         "hit": "1",
@@ -508,7 +508,7 @@ hugo_frames=[
     {
         "name": "qcf.2k",
         "desc": "Giant Palm Bomber (EX)",
-        "pic": "http://wiki.shoryuken.com/images/a/a0/%28hugomlex%29.gif",
+        "pic": "framedata/img/hu-qcfk.gif",
         "damage": "140~180",
         "startup": "6~26",
         "hit": "6",
@@ -519,7 +519,7 @@ hugo_frames=[
     {
         "name": "sa1",
         "desc": "Gigas Breaker",
-        "pic": "http://wiki.shoryuken.com/images/8/87/%28hugosa1%29.gif",
+        "pic": "framedata/img/hu-sa1.gif",
         "damage": "610",
         "startup": "1",
         "hit": "2",
@@ -530,7 +530,7 @@ hugo_frames=[
     {
         "name": "sa2",
         "desc": "Megaton Press",
-        "pic": "http://wiki.shoryuken.com/images/e/ea/%28hugosa2%29.gif",
+        "pic": "framedata/img/hu-sa2.gif",
         "damage": "450",
         "startup": "3/5/7",
         "hit": "12/16/34",
@@ -541,7 +541,7 @@ hugo_frames=[
     {
         "name": "sa3",
         "desc": "Hammer Frenzy",
-        "pic": "http://wiki.shoryuken.com/images/7/70/%28hugosa3%29.gif",
+        "pic": "framedata/img/hu-sa3.gif",
         "damage": "390",
         "startup": "4",
         "hit": "5",
