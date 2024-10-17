@@ -50,10 +50,14 @@ async def mu(ctx, c1, c2):
 @client.command()
 async def frames(ctx, c1, mv):
     arg = get_frames(c1,mv)
-    fileurl = arg[1]
-    file = discord.File(fileurl, filename="image.gif")
-    arg[0].set_image(url = 'attachment://image.gif' )
-    await ctx.send(embed=arg[0], file=file)
+    if arg[1] != 'error':
+        fileurl = arg[1]
+        file = discord.File(fileurl, filename="image.gif")
+        arg[0].set_image(url = 'attachment://image.gif' )
+        await ctx.send(embed=arg[0], file=file)
+    else:
+        print(arg[0])
+        await ctx.send(arg[0])
 
 def get_mu(c1,c2):
     c1=c1.strip()
@@ -192,7 +196,8 @@ def get_frames(c1,mv):
     elif c1=='SE'or c1=='SEAN':
         data = next((item for item in framedata.sean.sean_frames if item["name"] == mv), None)
     else:
-        return f'No character found at `{c1}`. Please check for correct spelling and spacing.'
+        print('No char data')
+        return f'No character found at `{c1}`. Please check for correct spelling and spacing.', 'error'
 
     if data:
         embed=discord.Embed(title=data["name"], description=data["desc"], color=0xffffff)
@@ -206,7 +211,9 @@ def get_frames(c1,mv):
         embed.add_field(name="Hit advantage", value=data["hit_adv"], inline=True)
         return embed, filename
     else:
-        return f'No move found at `{mv}`. Please check for correct spelling and spacing.'
+        print('No move data')
+        return f'No move found at `{mv}`. Please check for correct spelling and spacing.', 'error'
+        
 
 
 
