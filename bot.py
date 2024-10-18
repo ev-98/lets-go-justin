@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+#from discord import FFmpegPCMAudio
 import random
 import matchupdata
 import framedata
@@ -58,6 +59,26 @@ async def frames(ctx, c1, mv):
     else:
         print(arg[0])
         await ctx.send(arg[0])
+
+#@client.command()
+#async def play(ctx):
+ #   if(ctx.author.voice):
+  #      channel = ctx.message.author.voice.channel
+   #     voice = await channel.connect()
+    #    songbank = ['song1.wav', 'song2.wav']
+     #   source = FFmpegPCMAudio(random.choice(songbank))
+      #  player = voice.play(source)
+    #else:
+     #   await ctx.send("You must join a voice channel before playing music!")
+
+@client.command()
+async def stop(ctx):
+    if(ctx.voice_client):
+        await ctx.guild.voice_client.disconnect()
+        await ctx.send("I left the voice channel!")
+    else:
+        await ctx.send("I'm not in a voice channel!")
+
 
 def get_mu(c1,c2):
     c1=c1.strip()
