@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-#from discord import FFmpegPCMAudio
+from discord import FFmpegPCMAudio
 import random
 import matchupdata
 import framedata
@@ -32,10 +32,10 @@ async def ping(ctx):
 async def help(ctx):
     embed=discord.Embed(title="lets-go-justin", url="https://github.com/ev-98/lets-go-justin", description="A Street Fighter III: 3rd Strike resource bot.")
     embed.set_thumbnail(url="https://vignette.wikia.nocookie.net/logopedia/images/b/be/SFIII_Online_Edition_Logo.png/revision/latest/scale-to-width-down/1000?cb=20140206180354")
-    embed.add_field(name="##Commands (prefix '3s.')", value="8ball: let the third strike announcer decide your fortune\nframes [character] [move]: display frame data\nfortune: see 8ball\nmu [character1] [character2]: display matchup odds", inline=False)
+    embed.add_field(name="##Commands (prefix '3s.')", value="8ball: let the third strike announcer decide your fortune\nframes [character] [move]: display frame data\nfortune: see 8ball\nmu [character1] [character2]: display matchup odds\nplay: play a random track from the OST\nstop: stop playing music", inline=False)
     embed.add_field(name="##Character codes", value="For any commands, you may type out the 2-letter character code instead of the full name if you prefer.\nAkuma/Gouki: AK/GO\nAlex: AL\nChun-Li: CH\nDudley: DU\n...etc", inline=False)
     embed.add_field(name="##Move notation", value="The command notation for a normal move is [button] or [input].[button]\nThe notation for special moves are [motion].[button]\nSuper arts are denoted as sa1, sa2, sa3\nClose moves begin with 'close.'\nAerial moves begin with 'air.'\n\nInputs:\nc(crouch), f(forward), b(back), u(up), df, db, uf, ub, hold\nMotions:\nqcf, qcb, hcf, hcb, 360, dp, rapid, charge\nButtons:\nlp, mp, hp, 2p\nlk, mk, hk, 2k\n\nExamples:\nc.mk(crouching medium), charge.2k(ex spinning bird kick), air.qcf.2p (ex kunai), lp+lk(throw), mp+mk(universal overhead)", inline=True)
-    embed.set_footer(text="All sprites property of Capcom | Frame data and sprites provided by http://wiki.supercombo.com/")
+    embed.set_footer(text="All sprites and music property of Capcom | Frame data and sprites provided by http://wiki.supercombo.com/")
     await ctx.send(embed=embed)
 
 @client.command(aliases=['8ball', 'fortune'])
@@ -60,16 +60,18 @@ async def frames(ctx, c1, mv):
         print(arg[0])
         await ctx.send(arg[0])
 
-#@client.command()
-#async def play(ctx):
- #   if(ctx.author.voice):
-  #      channel = ctx.message.author.voice.channel
-   #     voice = await channel.connect()
-    #    songbank = ['song1.wav', 'song2.wav']
-     #   source = FFmpegPCMAudio(random.choice(songbank))
-      #  player = voice.play(source)
-    #else:
-     #   await ctx.send("You must join a voice channel before playing music!")
+@client.command()
+async def play(ctx):
+    if(ctx.author.voice):
+        channel = ctx.message.author.voice.channel
+        voice = await channel.connect()
+        songbank = ['song1.wav', 'song2.wav', 'song3.wav']
+        currentsong = random.choice(songbank)
+        source = FFmpegPCMAudio(currentsong)
+        player = voice.play(source)
+        await ctx.send(f'Now playing: {currentsong}')
+    else:
+        await ctx.send("You must join a voice channel before playing music!")
 
 @client.command()
 async def stop(ctx):
