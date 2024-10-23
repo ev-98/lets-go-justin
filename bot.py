@@ -65,7 +65,7 @@ async def play(ctx):
     if(ctx.author.voice):
         channel = ctx.message.author.voice.channel
         voice = await channel.connect()
-        songbank = ['song1.wav', 'song2.wav', 'song3.wav']
+        songbank = ['piano.mp3', 'piano2.mp3']
         currentsong = random.choice(songbank)
         source = FFmpegPCMAudio(currentsong)
         player = voice.play(source)
